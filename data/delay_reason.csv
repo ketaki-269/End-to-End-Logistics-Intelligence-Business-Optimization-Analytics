@@ -1,0 +1,8 @@
+delay_reason_id,delay_reason,category,impact_level
+1,Weather,External,Medium
+2,Customs,Operational,Medium
+3,Traffic,Traffic,Medium
+4,Mechanical Issue,Mechanical,Low
+5,Operational Delay,Operational,Medium
+6,Documentation Issue,Documentation,Medium
+7,None,None,Medium

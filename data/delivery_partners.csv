@@ -1,0 +1,2001 @@
+partner_id,partner_name,vehicle_type,driver_name,experience_years,rating,city,availability_status
+1,UPS Logistics,Cargo Van,Driver_1,1,3.86,Toronto,Busy
+2,DHL Express,Cargo Van,Driver_2,3,3.08,Mumbai,Busy
+3,Maersk Logistics,Ship,Driver_3,4,3.84,Mumbai,Available
+4,DB Schenker,Ship,Driver_4,1,3.88,Sydney,Offline
+5,XPO Logistics,Ship,Driver_5,3,3.3,New York,Offline
+6,C.H. Robinson,Ship,Driver_6,12,4.68,Dubai,Offline
+7,Nippon Express,Ship,Driver_7,20,4.49,Toronto,Busy
+8,Kuehne + Nagel,Ship,Driver_8,7,4.56,Berlin,Busy
+9,SF Express,Air Freight,Driver_9,6,4.75,London,Offline
+10,Blue Dart Express,Cargo Van,Driver_10,6,3.34,Berlin,Busy
+11,UPS Logistics,Ship,Driver_11,1,3.45,Toronto,Offline
+12,DHL Express,Ship,Driver_12,17,3.23,London,Busy
+13,Maersk Logistics,Truck,Driver_13,19,4.14,Toronto,Offline
+14,DB Schenker,Ship,Driver_14,4,3.53,Berlin,Offline
+15,XPO Logistics,Air Freight,Driver_15,12,3.01,London,Available
+16,C.H. Robinson,Ship,Driver_16,14,4.85,Sydney,Busy
+17,Nippon Express,Ship,Driver_17,9,3.56,Mumbai,Available
+18,Kuehne + Nagel,Air Freight,Driver_18,3,4.05,Toronto,Available
+19,SF Express,Truck,Driver_19,15,4.95,Dubai,Offline
+20,Blue Dart Express,Ship,Driver_20,18,4.43,Dubai,Offline
+21,UPS Logistics,Ship,Driver_21,11,3.07,Dubai,Busy
+22,DHL Express,Cargo Van,Driver_22,16,4.84,London,Available
+23,Maersk Logistics,Ship,Driver_23,1,4.98,Singapore,Available
+24,DB Schenker,Ship,Driver_24,22,3.59,London,Offline
+25,XPO Logistics,Cargo Van,Driver_25,22,3.9,London,Available
+26,C.H. Robinson,Air Freight,Driver_26,15,4.06,Singapore,Offline
+27,Nippon Express,Truck,Driver_27,7,3.97,London,Offline
+28,Kuehne + Nagel,Ship,Driver_28,11,4.86,Mumbai,Offline
+29,SF Express,Truck,Driver_29,14,3.6,Sydney,Available
+30,Blue Dart Express,Cargo Van,Driver_30,4,4.42,Berlin,Offline
+31,UPS Logistics,Truck,Driver_31,8,4.14,Berlin,Offline
+32,DHL Express,Truck,Driver_32,22,4.69,Berlin,Busy
+33,Maersk Logistics,Air Freight,Driver_33,11,3.94,Singapore,Available
+34,DB Schenker,Ship,Driver_34,13,3.93,New York,Available
+35,XPO Logistics,Cargo Van,Driver_35,18,4.02,New York,Busy
+36,C.H. Robinson,Air Freight,Driver_36,24,3.42,Mumbai,Available
+37,Nippon Express,Cargo Van,Driver_37,7,3.57,New York,Busy
+38,Kuehne + Nagel,Air Freight,Driver_38,10,3.37,Toronto,Offline
+39,SF Express,Cargo Van,Driver_39,22,3.37,Singapore,Busy
+40,Blue Dart Express,Truck,Driver_40,21,3.48,Singapore,Offline
+41,UPS Logistics,Ship,Driver_41,16,4.95,New York,Busy
+42,DHL Express,Air Freight,Driver_42,24,3.1,Dubai,Available
+43,Maersk Logistics,Ship,Driver_43,7,3.53,Dubai,Offline
+44,DB Schenker,Truck,Driver_44,2,3.23,Sydney,Offline
+45,XPO Logistics,Cargo Van,Driver_45,13,3.96,Mumbai,Available
+46,C.H. Robinson,Cargo Van,Driver_46,13,4.16,Mumbai,Offline
+47,Nippon Express,Air Freight,Driver_47,1,4.8,Mumbai,Offline
+48,Kuehne + Nagel,Air Freight,Driver_48,4,3.59,Mumbai,Offline
+49,SF Express,Ship,Driver_49,13,4.29,Dubai,Available
+50,Blue Dart Express,Truck,Driver_50,24,4.54,New York,Available
+51,UPS Logistics,Cargo Van,Driver_51,4,4.57,London,Offline
+52,DHL Express,Air Freight,Driver_52,2,3.12,Singapore,Available
+53,Maersk Logistics,Air Freight,Driver_53,6,4.76,New York,Available
+54,DB Schenker,Air Freight,Driver_54,5,3.69,London,Busy
+55,XPO Logistics,Cargo Van,Driver_55,14,4.5,New York,Available
+56,C.H. Robinson,Truck,Driver_56,5,4.44,Dubai,Available
+57,Nippon Express,Ship,Driver_57,22,4.13,Mumbai,Busy
+58,Kuehne + Nagel,Truck,Driver_58,15,3.41,Dubai,Available
+59,SF Express,Ship,Driver_59,8,4.23,Sydney,Offline
+60,Blue Dart Express,Air Freight,Driver_60,21,3.21,Berlin,Offline
+61,UPS Logistics,Truck,Driver_61,8,4.92,Sydney,Offline
+62,DHL Express,Truck,Driver_62,3,4.66,Berlin,Busy
+63,Maersk Logistics,Ship,Driver_63,12,4.33,Toronto,Busy
+64,DB Schenker,Truck,Driver_64,5,3.74,Toronto,Available
+65,XPO Logistics,Air Freight,Driver_65,7,3.04,Mumbai,Available
+66,C.H. Robinson,Cargo Van,Driver_66,2,4.04,Berlin,Offline
+67,Nippon Express,Air Freight,Driver_67,16,3.44,Toronto,Busy
+68,Kuehne + Nagel,Air Freight,Driver_68,10,4.08,Dubai,Available
+69,SF Express,Ship,Driver_69,12,4.72,Singapore,Busy
+70,Blue Dart Express,Ship,Driver_70,24,3.95,Mumbai,Offline
+71,UPS Logistics,Cargo Van,Driver_71,12,3.39,Mumbai,Available
+72,DHL Express,Cargo Van,Driver_72,14,4.55,London,Available
+73,Maersk Logistics,Ship,Driver_73,2,4.45,Toronto,Available
+74,DB Schenker,Ship,Driver_74,5,3.8,Dubai,Offline
+75,XPO Logistics,Cargo Van,Driver_75,18,4.89,Berlin,Offline
+76,C.H. Robinson,Cargo Van,Driver_76,20,4.82,Berlin,Available
+77,Nippon Express,Cargo Van,Driver_77,13,3.34,London,Offline
+78,Kuehne + Nagel,Cargo Van,Driver_78,11,3.45,New York,Offline
+79,SF Express,Cargo Van,Driver_79,1,4.64,Mumbai,Available
+80,Blue Dart Express,Air Freight,Driver_80,3,3.49,Singapore,Offline
+81,UPS Logistics,Ship,Driver_81,5,3.7,Sydney,Available
+82,DHL Express,Air Freight,Driver_82,13,4.42,New York,Available
+83,Maersk Logistics,Ship,Driver_83,15,3.58,New York,Busy
+84,DB Schenker,Truck,Driver_84,18,3.12,Berlin,Busy
+85,XPO Logistics,Ship,Driver_85,8,4.51,Sydney,Offline
+86,C.H. Robinson,Ship,Driver_86,3,3.55,London,Available
+87,Nippon Express,Truck,Driver_87,16,3.29,Singapore,Busy
+88,Kuehne + Nagel,Cargo Van,Driver_88,21,4.5,London,Available
+89,SF Express,Ship,Driver_89,11,3.39,Dubai,Offline
+90,Blue Dart Express,Ship,Driver_90,14,3.62,New York,Busy
+91,UPS Logistics,Air Freight,Driver_91,9,4.93,Mumbai,Offline
+92,DHL Express,Truck,Driver_92,22,4.48,Toronto,Offline
+93,Maersk Logistics,Truck,Driver_93,24,3.79,Toronto,Busy
+94,DB Schenker,Ship,Driver_94,4,3.49,London,Busy
+95,XPO Logistics,Air Freight,Driver_95,10,4.62,Sydney,Available
+96,C.H. Robinson,Ship,Driver_96,18,4.56,Berlin,Busy
+97,Nippon Express,Air Freight,Driver_97,24,4.07,Toronto,Busy
+98,Kuehne + Nagel,Cargo Van,Driver_98,22,4.55,Berlin,Offline
+99,SF Express,Ship,Driver_99,19,4.85,Sydney,Busy
+100,Blue Dart Express,Air Freight,Driver_100,23,3.45,Toronto,Offline
+101,UPS Logistics,Truck,Driver_101,19,3.22,Mumbai,Busy
+102,DHL Express,Air Freight,Driver_102,5,4.36,New York,Offline
+103,Maersk Logistics,Ship,Driver_103,7,3.81,Singapore,Offline
+104,DB Schenker,Cargo Van,Driver_104,24,4.59,Toronto,Available
+105,XPO Logistics,Air Freight,Driver_105,4,4.01,Toronto,Busy
+106,C.H. Robinson,Cargo Van,Driver_106,22,4.24,Sydney,Available
+107,Nippon Express,Cargo Van,Driver_107,12,4.52,Dubai,Available
+108,Kuehne + Nagel,Air Freight,Driver_108,24,3.21,Singapore,Available
+109,SF Express,Ship,Driver_109,24,3.26,Toronto,Busy
+110,Blue Dart Express,Ship,Driver_110,24,3.21,New York,Available
+111,UPS Logistics,Truck,Driver_111,1,4.22,Dubai,Busy
+112,DHL Express,Ship,Driver_112,19,3.33,Berlin,Available
+113,Maersk Logistics,Truck,Driver_113,17,3.76,Dubai,Available
+114,DB Schenker,Air Freight,Driver_114,6,3.39,Berlin,Available
+115,XPO Logistics,Ship,Driver_115,21,3.16,Toronto,Available
+116,C.H. Robinson,Air Freight,Driver_116,6,3.31,Toronto,Offline
+117,Nippon Express,Ship,Driver_117,6,4.46,Berlin,Available
+118,Kuehne + Nagel,Truck,Driver_118,22,3.01,Singapore,Busy
+119,SF Express,Truck,Driver_119,19,3.8,Berlin,Busy
+120,Blue Dart Express,Ship,Driver_120,8,4.74,Toronto,Available
+121,UPS Logistics,Ship,Driver_121,9,3.37,Mumbai,Busy
+122,DHL Express,Cargo Van,Driver_122,8,4.69,Mumbai,Offline
+123,Maersk Logistics,Cargo Van,Driver_123,20,4.96,Berlin,Busy
+124,DB Schenker,Truck,Driver_124,24,4.34,Berlin,Offline
+125,XPO Logistics,Ship,Driver_125,23,3.51,London,Available
+126,C.H. Robinson,Truck,Driver_126,14,4.09,Berlin,Busy
+127,Nippon Express,Cargo Van,Driver_127,7,4.2,New York,Busy
+128,Kuehne + Nagel,Air Freight,Driver_128,1,3.55,Toronto,Offline
+129,SF Express,Ship,Driver_129,9,3.42,London,Busy
+130,Blue Dart Express,Truck,Driver_130,12,3.29,Sydney,Busy
+131,UPS Logistics,Air Freight,Driver_131,19,3.36,Sydney,Busy
+132,DHL Express,Cargo Van,Driver_132,1,3.86,Toronto,Available
+133,Maersk Logistics,Cargo Van,Driver_133,19,3.45,Berlin,Busy
+134,DB Schenker,Cargo Van,Driver_134,15,4.88,Sydney,Offline
+135,XPO Logistics,Ship,Driver_135,24,3.78,Singapore,Offline
+136,C.H. Robinson,Truck,Driver_136,21,3.3,Sydney,Busy
+137,Nippon Express,Air Freight,Driver_137,7,4.24,Berlin,Busy
+138,Kuehne + Nagel,Ship,Driver_138,6,3.74,Dubai,Busy
+139,SF Express,Air Freight,Driver_139,3,4.72,London,Busy
+140,Blue Dart Express,Cargo Van,Driver_140,22,4.02,Mumbai,Offline
+141,UPS Logistics,Air Freight,Driver_141,6,3.66,Dubai,Offline
+142,DHL Express,Air Freight,Driver_142,10,4.1,Mumbai,Busy
+143,Maersk Logistics,Air Freight,Driver_143,4,4.36,Dubai,Offline
+144,DB Schenker,Air Freight,Driver_144,12,3.09,Singapore,Available
+145,XPO Logistics,Air Freight,Driver_145,20,3.79,Dubai,Available
+146,C.H. Robinson,Air Freight,Driver_146,7,4.3,London,Available
+147,Nippon Express,Air Freight,Driver_147,22,4.42,Singapore,Busy
+148,Kuehne + Nagel,Truck,Driver_148,19,4.97,London,Offline
+149,SF Express,Truck,Driver_149,14,3.16,London,Available
+150,Blue Dart Express,Air Freight,Driver_150,10,4.59,Mumbai,Available
+151,UPS Logistics,Air Freight,Driver_151,1,4.19,New York,Offline
+152,DHL Express,Cargo Van,Driver_152,2,4.19,Singapore,Offline
+153,Maersk Logistics,Air Freight,Driver_153,18,4.79,Toronto,Busy
+154,DB Schenker,Ship,Driver_154,15,4.14,Toronto,Available
+155,XPO Logistics,Air Freight,Driver_155,7,3.78,London,Offline
+156,C.H. Robinson,Cargo Van,Driver_156,5,4.05,Dubai,Busy
+157,Nippon Express,Truck,Driver_157,24,4.2,Sydney,Available
+158,Kuehne + Nagel,Air Freight,Driver_158,14,3.73,Singapore,Busy
+159,SF Express,Truck,Driver_159,22,4.46,Toronto,Available
+160,Blue Dart Express,Ship,Driver_160,23,4.38,London,Available
+161,UPS Logistics,Truck,Driver_161,22,4.46,Mumbai,Busy
+162,DHL Express,Truck,Driver_162,7,3.09,Toronto,Busy
+163,Maersk Logistics,Air Freight,Driver_163,14,4.38,Dubai,Available
+164,DB Schenker,Ship,Driver_164,20,3.64,Toronto,Offline
+165,XPO Logistics,Air Freight,Driver_165,14,4.56,Singapore,Available
+166,C.H. Robinson,Ship,Driver_166,2,3.25,Mumbai,Available
+167,Nippon Express,Cargo Van,Driver_167,10,3.89,Sydney,Busy
+168,Kuehne + Nagel,Air Freight,Driver_168,3,4.64,Dubai,Offline
+169,SF Express,Ship,Driver_169,13,3.4,Berlin,Busy
+170,Blue Dart Express,Air Freight,Driver_170,20,4.92,New York,Offline
+171,UPS Logistics,Air Freight,Driver_171,3,3.2,New York,Busy
+172,DHL Express,Ship,Driver_172,12,4.95,Singapore,Available
+173,Maersk Logistics,Ship,Driver_173,20,3.58,Toronto,Busy
+174,DB Schenker,Ship,Driver_174,15,3.45,Toronto,Available
+175,XPO Logistics,Ship,Driver_175,15,3.12,Dubai,Available
+176,C.H. Robinson,Ship,Driver_176,13,4.0,Toronto,Available
+177,Nippon Express,Ship,Driver_177,24,3.81,Singapore,Available
+178,Kuehne + Nagel,Truck,Driver_178,12,4.38,Sydney,Available
+179,SF Express,Air Freight,Driver_179,9,4.36,London,Offline
+180,Blue Dart Express,Ship,Driver_180,18,3.64,New York,Offline
+181,UPS Logistics,Truck,Driver_181,5,4.44,New York,Offline
+182,DHL Express,Air Freight,Driver_182,3,4.7,Toronto,Offline
+183,Maersk Logistics,Truck,Driver_183,10,4.8,Mumbai,Busy
+184,DB Schenker,Air Freight,Driver_184,24,4.21,Dubai,Offline
+185,XPO Logistics,Cargo Van,Driver_185,9,3.53,Toronto,Offline
+186,C.H. Robinson,Truck,Driver_186,3,4.29,London,Available
+187,Nippon Express,Cargo Van,Driver_187,19,3.32,Sydney,Offline
+188,Kuehne + Nagel,Air Freight,Driver_188,14,3.34,Sydney,Offline
+189,SF Express,Truck,Driver_189,1,4.24,Berlin,Busy
+190,Blue Dart Express,Air Freight,Driver_190,5,4.98,London,Busy
+191,UPS Logistics,Truck,Driver_191,5,3.1,Berlin,Busy
+192,DHL Express,Ship,Driver_192,3,3.41,London,Busy
+193,Maersk Logistics,Cargo Van,Driver_193,21,4.0,Sydney,Offline
+194,DB Schenker,Ship,Driver_194,18,4.4,Sydney,Available
+195,XPO Logistics,Air Freight,Driver_195,1,4.95,New York,Offline
+196,C.H. Robinson,Truck,Driver_196,24,3.57,Sydney,Offline
+197,Nippon Express,Air Freight,Driver_197,1,3.43,London,Offline
+198,Kuehne + Nagel,Truck,Driver_198,1,3.15,Dubai,Available
+199,SF Express,Truck,Driver_199,5,4.53,Mumbai,Available
+200,Blue Dart Express,Cargo Van,Driver_200,10,3.54,Mumbai,Available
+201,UPS Logistics,Ship,Driver_201,7,3.99,London,Available
+202,DHL Express,Truck,Driver_202,19,3.78,Berlin,Offline
+203,Maersk Logistics,Truck,Driver_203,19,4.22,Berlin,Available
+204,DB Schenker,Truck,Driver_204,3,4.26,Sydney,Busy
+205,XPO Logistics,Truck,Driver_205,23,4.58,Berlin,Offline
+206,C.H. Robinson,Air Freight,Driver_206,16,4.35,Singapore,Offline
+207,Nippon Express,Ship,Driver_207,9,4.37,Toronto,Busy
+208,Kuehne + Nagel,Cargo Van,Driver_208,3,3.57,Toronto,Busy
+209,SF Express,Cargo Van,Driver_209,16,3.81,Dubai,Available
+210,Blue Dart Express,Truck,Driver_210,16,4.82,Singapore,Busy
+211,UPS Logistics,Air Freight,Driver_211,4,3.13,Singapore,Offline
+212,DHL Express,Ship,Driver_212,14,4.24,New York,Busy
+213,Maersk Logistics,Truck,Driver_213,4,3.97,Berlin,Busy
+214,DB Schenker,Air Freight,Driver_214,13,3.61,Berlin,Available
+215,XPO Logistics,Air Freight,Driver_215,3,3.25,Mumbai,Offline
+216,C.H. Robinson,Air Freight,Driver_216,12,3.68,Singapore,Available
+217,Nippon Express,Ship,Driver_217,4,4.72,Mumbai,Busy
+218,Kuehne + Nagel,Truck,Driver_218,11,3.27,Sydney,Offline
+219,SF Express,Cargo Van,Driver_219,16,3.52,Singapore,Busy
+220,Blue Dart Express,Truck,Driver_220,19,4.07,Singapore,Busy
+221,UPS Logistics,Ship,Driver_221,2,4.27,Dubai,Offline
+222,DHL Express,Air Freight,Driver_222,24,3.07,Sydney,Offline
+223,Maersk Logistics,Truck,Driver_223,14,4.1,Mumbai,Busy
+224,DB Schenker,Cargo Van,Driver_224,14,4.74,Sydney,Offline
+225,XPO Logistics,Cargo Van,Driver_225,11,3.17,Berlin,Busy
+226,C.H. Robinson,Cargo Van,Driver_226,15,4.48,Sydney,Busy
+227,Nippon Express,Truck,Driver_227,23,3.68,New York,Available
+228,Kuehne + Nagel,Truck,Driver_228,21,3.31,London,Busy
+229,SF Express,Cargo Van,Driver_229,18,3.34,Sydney,Available
+230,Blue Dart Express,Cargo Van,Driver_230,12,4.4,Toronto,Offline
+231,UPS Logistics,Air Freight,Driver_231,2,3.04,Toronto,Offline
+232,DHL Express,Air Freight,Driver_232,2,3.01,Singapore,Offline
+233,Maersk Logistics,Truck,Driver_233,20,3.91,Berlin,Busy
+234,DB Schenker,Ship,Driver_234,11,3.01,Mumbai,Busy
+235,XPO Logistics,Cargo Van,Driver_235,16,3.81,New York,Busy
+236,C.H. Robinson,Cargo Van,Driver_236,9,3.12,Toronto,Available
+237,Nippon Express,Truck,Driver_237,23,4.63,Dubai,Offline
+238,Kuehne + Nagel,Ship,Driver_238,1,3.17,Singapore,Available
+239,SF Express,Cargo Van,Driver_239,11,4.01,Mumbai,Busy
+240,Blue Dart Express,Cargo Van,Driver_240,9,3.37,Toronto,Busy
+241,UPS Logistics,Cargo Van,Driver_241,13,3.87,Mumbai,Offline
+242,DHL Express,Air Freight,Driver_242,18,4.76,London,Busy
+243,Maersk Logistics,Ship,Driver_243,19,4.88,Dubai,Busy
+244,DB Schenker,Air Freight,Driver_244,5,3.21,New York,Offline
+245,XPO Logistics,Air Freight,Driver_245,12,4.51,Sydney,Busy
+246,C.H. Robinson,Ship,Driver_246,13,4.19,Mumbai,Offline
+247,Nippon Express,Ship,Driver_247,18,4.99,Sydney,Offline
+248,Kuehne + Nagel,Ship,Driver_248,17,4.24,Singapore,Busy
+249,SF Express,Air Freight,Driver_249,20,4.32,London,Busy
+250,Blue Dart Express,Cargo Van,Driver_250,2,3.71,Sydney,Available
+251,UPS Logistics,Ship,Driver_251,11,3.38,Dubai,Busy
+252,DHL Express,Cargo Van,Driver_252,5,3.8,Singapore,Busy
+253,Maersk Logistics,Truck,Driver_253,10,3.43,Dubai,Offline
+254,DB Schenker,Cargo Van,Driver_254,17,3.99,Mumbai,Available
+255,XPO Logistics,Truck,Driver_255,19,3.16,Mumbai,Available
+256,C.H. Robinson,Ship,Driver_256,2,3.97,Mumbai,Offline
+257,Nippon Express,Truck,Driver_257,19,3.86,New York,Available
+258,Kuehne + Nagel,Truck,Driver_258,23,4.5,New York,Available
+259,SF Express,Cargo Van,Driver_259,3,3.16,Berlin,Busy
+260,Blue Dart Express,Cargo Van,Driver_260,18,4.41,London,Busy
+261,UPS Logistics,Truck,Driver_261,23,4.47,Sydney,Available
+262,DHL Express,Truck,Driver_262,10,3.31,Berlin,Offline
+263,Maersk Logistics,Cargo Van,Driver_263,19,3.55,Sydney,Available
+264,DB Schenker,Air Freight,Driver_264,16,3.82,Mumbai,Busy
+265,XPO Logistics,Cargo Van,Driver_265,11,3.71,Toronto,Available
+266,C.H. Robinson,Ship,Driver_266,1,4.61,New York,Available
+267,Nippon Express,Ship,Driver_267,20,3.14,Dubai,Busy
+268,Kuehne + Nagel,Ship,Driver_268,9,4.4,Mumbai,Available
+269,SF Express,Air Freight,Driver_269,10,4.53,Berlin,Busy
+270,Blue Dart Express,Cargo Van,Driver_270,11,3.49,Dubai,Busy
+271,UPS Logistics,Air Freight,Driver_271,12,3.66,Singapore,Available
+272,DHL Express,Ship,Driver_272,23,3.39,Sydney,Available
+273,Maersk Logistics,Cargo Van,Driver_273,6,3.51,London,Available
+274,DB Schenker,Truck,Driver_274,15,4.32,Singapore,Busy
+275,XPO Logistics,Ship,Driver_275,4,4.75,London,Offline
+276,C.H. Robinson,Air Freight,Driver_276,20,3.85,Sydney,Available
+277,Nippon Express,Truck,Driver_277,5,4.1,Toronto,Offline
+278,Kuehne + Nagel,Truck,Driver_278,7,4.17,Toronto,Busy
+279,SF Express,Cargo Van,Driver_279,6,4.16,Toronto,Available
+280,Blue Dart Express,Cargo Van,Driver_280,20,4.64,Berlin,Available
+281,UPS Logistics,Truck,Driver_281,15,4.87,Toronto,Available
+282,DHL Express,Air Freight,Driver_282,13,4.05,Toronto,Busy
+283,Maersk Logistics,Cargo Van,Driver_283,7,3.57,Mumbai,Available
+284,DB Schenker,Ship,Driver_284,17,4.65,Berlin,Offline
+285,XPO Logistics,Air Freight,Driver_285,20,3.54,Toronto,Offline
+286,C.H. Robinson,Air Freight,Driver_286,24,4.53,Singapore,Busy
+287,Nippon Express,Ship,Driver_287,23,3.99,Sydney,Offline
+288,Kuehne + Nagel,Ship,Driver_288,7,3.99,Sydney,Available
+289,SF Express,Cargo Van,Driver_289,6,3.07,London,Busy
+290,Blue Dart Express,Air Freight,Driver_290,14,4.88,London,Busy
+291,UPS Logistics,Cargo Van,Driver_291,11,3.67,Sydney,Offline
+292,DHL Express,Ship,Driver_292,1,3.89,Toronto,Offline
+293,Maersk Logistics,Ship,Driver_293,4,3.32,Dubai,Offline
+294,DB Schenker,Ship,Driver_294,5,4.59,Dubai,Busy
+295,XPO Logistics,Air Freight,Driver_295,18,4.72,Berlin,Available
+296,C.H. Robinson,Ship,Driver_296,12,3.53,Sydney,Busy
+297,Nippon Express,Truck,Driver_297,20,3.33,Dubai,Offline
+298,Kuehne + Nagel,Air Freight,Driver_298,15,4.84,Toronto,Offline
+299,SF Express,Truck,Driver_299,18,4.26,Berlin,Busy
+300,Blue Dart Express,Truck,Driver_300,22,4.97,Dubai,Busy
+301,UPS Logistics,Air Freight,Driver_301,11,3.58,Toronto,Available
+302,DHL Express,Cargo Van,Driver_302,8,4.55,Mumbai,Busy
+303,Maersk Logistics,Ship,Driver_303,20,3.4,Dubai,Available
+304,DB Schenker,Truck,Driver_304,16,4.67,Singapore,Offline
+305,XPO Logistics,Air Freight,Driver_305,24,3.56,Mumbai,Offline
+306,C.H. Robinson,Air Freight,Driver_306,17,4.0,London,Offline
+307,Nippon Express,Air Freight,Driver_307,3,4.4,Sydney,Available
+308,Kuehne + Nagel,Cargo Van,Driver_308,7,4.67,London,Busy
+309,SF Express,Cargo Van,Driver_309,22,4.67,Dubai,Available
+310,Blue Dart Express,Truck,Driver_310,1,3.06,Dubai,Busy
+311,UPS Logistics,Ship,Driver_311,15,3.57,Berlin,Offline
+312,DHL Express,Cargo Van,Driver_312,9,4.11,Dubai,Offline
+313,Maersk Logistics,Air Freight,Driver_313,11,3.11,London,Busy
+314,DB Schenker,Ship,Driver_314,15,3.27,Singapore,Available
+315,XPO Logistics,Air Freight,Driver_315,16,3.37,Singapore,Offline
+316,C.H. Robinson,Air Freight,Driver_316,22,4.71,Berlin,Available
+317,Nippon Express,Cargo Van,Driver_317,2,4.86,Mumbai,Offline
+318,Kuehne + Nagel,Cargo Van,Driver_318,9,3.15,Toronto,Available
+319,SF Express,Air Freight,Driver_319,1,3.91,New York,Available
+320,Blue Dart Express,Air Freight,Driver_320,10,3.32,Dubai,Available
+321,UPS Logistics,Air Freight,Driver_321,14,3.63,Sydney,Offline
+322,DHL Express,Cargo Van,Driver_322,14,3.68,Mumbai,Offline
+323,Maersk Logistics,Air Freight,Driver_323,14,3.02,Dubai,Busy
+324,DB Schenker,Cargo Van,Driver_324,9,4.07,Dubai,Busy
+325,XPO Logistics,Air Freight,Driver_325,1,4.38,Singapore,Offline
+326,C.H. Robinson,Cargo Van,Driver_326,9,3.55,Berlin,Offline
+327,Nippon Express,Ship,Driver_327,10,3.31,Berlin,Offline
+328,Kuehne + Nagel,Ship,Driver_328,19,3.59,Singapore,Available
+329,SF Express,Ship,Driver_329,18,3.93,Toronto,Offline
+330,Blue Dart Express,Truck,Driver_330,24,4.4,Singapore,Busy
+331,UPS Logistics,Air Freight,Driver_331,16,3.92,Berlin,Busy
+332,DHL Express,Cargo Van,Driver_332,17,3.83,Toronto,Available
+333,Maersk Logistics,Cargo Van,Driver_333,13,3.9,New York,Busy
+334,DB Schenker,Ship,Driver_334,4,3.61,Berlin,Available
+335,XPO Logistics,Air Freight,Driver_335,14,4.31,Dubai,Offline
+336,C.H. Robinson,Truck,Driver_336,6,3.74,Dubai,Available
+337,Nippon Express,Cargo Van,Driver_337,6,3.44,Sydney,Busy
+338,Kuehne + Nagel,Truck,Driver_338,21,4.39,Berlin,Available
+339,SF Express,Air Freight,Driver_339,4,4.18,Sydney,Available
+340,Blue Dart Express,Ship,Driver_340,17,3.83,Dubai,Available
+341,UPS Logistics,Air Freight,Driver_341,15,3.94,New York,Busy
+342,DHL Express,Cargo Van,Driver_342,5,4.65,Singapore,Available
+343,Maersk Logistics,Truck,Driver_343,6,3.7,Toronto,Available
+344,DB Schenker,Air Freight,Driver_344,1,4.04,Dubai,Busy
+345,XPO Logistics,Truck,Driver_345,14,3.03,New York,Busy
+346,C.H. Robinson,Cargo Van,Driver_346,12,3.44,Singapore,Available
+347,Nippon Express,Truck,Driver_347,10,3.48,London,Offline
+348,Kuehne + Nagel,Truck,Driver_348,18,3.4,Toronto,Offline
+349,SF Express,Air Freight,Driver_349,16,4.21,Singapore,Busy
+350,Blue Dart Express,Truck,Driver_350,18,4.47,Sydney,Offline
+351,UPS Logistics,Ship,Driver_351,2,3.44,Toronto,Offline
+352,DHL Express,Ship,Driver_352,3,4.17,Sydney,Busy
+353,Maersk Logistics,Truck,Driver_353,19,3.01,Toronto,Available
+354,DB Schenker,Air Freight,Driver_354,18,3.56,Singapore,Busy
+355,XPO Logistics,Cargo Van,Driver_355,5,4.6,Sydney,Offline
+356,C.H. Robinson,Cargo Van,Driver_356,14,4.0,Dubai,Available
+357,Nippon Express,Truck,Driver_357,21,3.24,Singapore,Available
+358,Kuehne + Nagel,Cargo Van,Driver_358,17,4.12,New York,Available
+359,SF Express,Truck,Driver_359,7,4.67,Dubai,Offline
+360,Blue Dart Express,Truck,Driver_360,23,3.96,Singapore,Offline
+361,UPS Logistics,Ship,Driver_361,4,3.45,Singapore,Available
+362,DHL Express,Truck,Driver_362,9,3.46,Singapore,Offline
+363,Maersk Logistics,Truck,Driver_363,22,3.15,London,Available
+364,DB Schenker,Air Freight,Driver_364,23,4.97,Mumbai,Offline
+365,XPO Logistics,Ship,Driver_365,16,4.2,Toronto,Offline
+366,C.H. Robinson,Truck,Driver_366,7,4.89,Singapore,Offline
+367,Nippon Express,Truck,Driver_367,24,4.97,Sydney,Offline
+368,Kuehne + Nagel,Truck,Driver_368,16,3.58,Sydney,Busy
+369,SF Express,Truck,Driver_369,20,4.98,New York,Available
+370,Blue Dart Express,Air Freight,Driver_370,22,3.79,Mumbai,Offline
+371,UPS Logistics,Cargo Van,Driver_371,23,4.77,Sydney,Offline
+372,DHL Express,Ship,Driver_372,6,4.25,Sydney,Busy
+373,Maersk Logistics,Cargo Van,Driver_373,18,4.55,London,Busy
+374,DB Schenker,Air Freight,Driver_374,20,3.14,Dubai,Busy
+375,XPO Logistics,Air Freight,Driver_375,6,3.3,Toronto,Busy
+376,C.H. Robinson,Truck,Driver_376,11,3.59,Sydney,Busy
+377,Nippon Express,Truck,Driver_377,19,3.18,Singapore,Offline
+378,Kuehne + Nagel,Truck,Driver_378,16,3.99,Singapore,Offline
+379,SF Express,Ship,Driver_379,4,3.67,New York,Busy
+380,Blue Dart Express,Air Freight,Driver_380,16,4.65,Sydney,Busy
+381,UPS Logistics,Cargo Van,Driver_381,24,3.08,London,Busy
+382,DHL Express,Ship,Driver_382,3,4.45,Dubai,Busy
+383,Maersk Logistics,Air Freight,Driver_383,24,3.84,Mumbai,Offline
+384,DB Schenker,Air Freight,Driver_384,13,3.15,Toronto,Offline
+385,XPO Logistics,Air Freight,Driver_385,1,3.34,Dubai,Busy
+386,C.H. Robinson,Ship,Driver_386,10,4.71,Dubai,Available
+387,Nippon Express,Air Freight,Driver_387,12,3.1,Mumbai,Available
+388,Kuehne + Nagel,Ship,Driver_388,1,3.91,Sydney,Offline
+389,SF Express,Cargo Van,Driver_389,21,4.1,Dubai,Busy
+390,Blue Dart Express,Cargo Van,Driver_390,13,3.45,Dubai,Busy
+391,UPS Logistics,Truck,Driver_391,13,4.76,Toronto,Busy
+392,DHL Express,Air Freight,Driver_392,13,4.14,Singapore,Available
+393,Maersk Logistics,Air Freight,Driver_393,20,3.54,Toronto,Available
+394,DB Schenker,Air Freight,Driver_394,17,4.64,London,Available
+395,XPO Logistics,Cargo Van,Driver_395,22,4.37,Dubai,Offline
+396,C.H. Robinson,Air Freight,Driver_396,14,3.57,Singapore,Available
+397,Nippon Express,Cargo Van,Driver_397,15,3.99,Dubai,Busy
+398,Kuehne + Nagel,Truck,Driver_398,8,3.69,Mumbai,Offline
+399,SF Express,Truck,Driver_399,14,4.9,Sydney,Busy
+400,Blue Dart Express,Cargo Van,Driver_400,20,3.32,New York,Available
+401,UPS Logistics,Cargo Van,Driver_401,16,4.96,Singapore,Busy
+402,DHL Express,Air Freight,Driver_402,20,3.55,New York,Available
+403,Maersk Logistics,Cargo Van,Driver_403,18,3.09,Sydney,Available
+404,DB Schenker,Ship,Driver_404,17,3.59,New York,Offline
+405,XPO Logistics,Cargo Van,Driver_405,16,4.9,Singapore,Busy
+406,C.H. Robinson,Air Freight,Driver_406,17,3.77,Dubai,Offline
+407,Nippon Express,Truck,Driver_407,4,3.44,London,Busy
+408,Kuehne + Nagel,Cargo Van,Driver_408,11,4.43,Berlin,Busy
+409,SF Express,Cargo Van,Driver_409,18,3.41,Berlin,Offline
+410,Blue Dart Express,Ship,Driver_410,8,3.71,New York,Available
+411,UPS Logistics,Truck,Driver_411,16,4.75,London,Offline
+412,DHL Express,Truck,Driver_412,16,3.75,London,Offline
+413,Maersk Logistics,Truck,Driver_413,20,4.4,Toronto,Offline
+414,DB Schenker,Truck,Driver_414,14,4.8,Mumbai,Offline
+415,XPO Logistics,Ship,Driver_415,1,4.01,Toronto,Busy
+416,C.H. Robinson,Truck,Driver_416,4,4.81,Singapore,Available
+417,Nippon Express,Air Freight,Driver_417,13,3.73,Sydney,Busy
+418,Kuehne + Nagel,Cargo Van,Driver_418,17,3.21,Singapore,Available
+419,SF Express,Cargo Van,Driver_419,15,4.99,Berlin,Offline
+420,Blue Dart Express,Ship,Driver_420,16,3.06,Dubai,Busy
+421,UPS Logistics,Cargo Van,Driver_421,1,4.0,Sydney,Available
+422,DHL Express,Truck,Driver_422,14,3.96,Mumbai,Available
+423,Maersk Logistics,Truck,Driver_423,20,3.71,Dubai,Available
+424,DB Schenker,Ship,Driver_424,24,4.89,New York,Available
+425,XPO Logistics,Cargo Van,Driver_425,5,3.66,Berlin,Busy
+426,C.H. Robinson,Air Freight,Driver_426,6,3.93,Singapore,Available
+427,Nippon Express,Truck,Driver_427,17,4.51,Dubai,Available
+428,Kuehne + Nagel,Cargo Van,Driver_428,9,3.95,Berlin,Offline
+429,SF Express,Air Freight,Driver_429,7,4.37,Sydney,Busy
+430,Blue Dart Express,Ship,Driver_430,24,4.45,Mumbai,Busy
+431,UPS Logistics,Truck,Driver_431,14,4.87,New York,Offline
+432,DHL Express,Ship,Driver_432,5,4.47,Mumbai,Offline
+433,Maersk Logistics,Air Freight,Driver_433,12,4.07,London,Offline
+434,DB Schenker,Ship,Driver_434,22,3.09,Berlin,Offline
+435,XPO Logistics,Cargo Van,Driver_435,24,3.64,Berlin,Available
+436,C.H. Robinson,Cargo Van,Driver_436,12,3.2,Sydney,Busy
+437,Nippon Express,Ship,Driver_437,16,4.89,Sydney,Busy
+438,Kuehne + Nagel,Ship,Driver_438,9,4.78,Mumbai,Available
+439,SF Express,Ship,Driver_439,21,3.45,Singapore,Offline
+440,Blue Dart Express,Cargo Van,Driver_440,22,3.09,Sydney,Available
+441,UPS Logistics,Ship,Driver_441,21,4.35,Berlin,Available
+442,DHL Express,Truck,Driver_442,5,3.04,Sydney,Busy
+443,Maersk Logistics,Truck,Driver_443,4,3.57,Singapore,Busy
+444,DB Schenker,Ship,Driver_444,24,4.23,Singapore,Offline
+445,XPO Logistics,Air Freight,Driver_445,3,4.68,Dubai,Offline
+446,C.H. Robinson,Air Freight,Driver_446,22,4.41,Sydney,Available
+447,Nippon Express,Air Freight,Driver_447,9,4.07,Mumbai,Available
+448,Kuehne + Nagel,Cargo Van,Driver_448,9,4.74,Toronto,Offline
+449,SF Express,Air Freight,Driver_449,14,3.71,Mumbai,Available
+450,Blue Dart Express,Truck,Driver_450,18,3.75,Sydney,Busy
+451,UPS Logistics,Cargo Van,Driver_451,8,3.72,Dubai,Offline
+452,DHL Express,Truck,Driver_452,15,3.16,Singapore,Offline
+453,Maersk Logistics,Air Freight,Driver_453,17,4.7,Mumbai,Busy
+454,DB Schenker,Truck,Driver_454,20,3.8,Mumbai,Busy
+455,XPO Logistics,Cargo Van,Driver_455,20,3.18,Berlin,Busy
+456,C.H. Robinson,Ship,Driver_456,15,3.79,Toronto,Offline
+457,Nippon Express,Cargo Van,Driver_457,23,3.25,London,Busy
+458,Kuehne + Nagel,Cargo Van,Driver_458,20,3.54,London,Offline
+459,SF Express,Air Freight,Driver_459,2,4.56,London,Busy
+460,Blue Dart Express,Cargo Van,Driver_460,5,3.21,London,Available
+461,UPS Logistics,Ship,Driver_461,22,4.95,Mumbai,Busy
+462,DHL Express,Air Freight,Driver_462,17,3.45,Singapore,Offline
+463,Maersk Logistics,Air Freight,Driver_463,3,3.42,London,Available
+464,DB Schenker,Ship,Driver_464,21,3.57,London,Offline
+465,XPO Logistics,Ship,Driver_465,9,4.95,Singapore,Available
+466,C.H. Robinson,Air Freight,Driver_466,11,4.01,New York,Busy
+467,Nippon Express,Cargo Van,Driver_467,13,3.93,Singapore,Available
+468,Kuehne + Nagel,Ship,Driver_468,10,3.63,Singapore,Busy
+469,SF Express,Cargo Van,Driver_469,2,3.98,Toronto,Offline
+470,Blue Dart Express,Truck,Driver_470,8,4.35,New York,Available
+471,UPS Logistics,Truck,Driver_471,18,4.09,Singapore,Available
+472,DHL Express,Ship,Driver_472,18,4.91,Sydney,Offline
+473,Maersk Logistics,Air Freight,Driver_473,20,3.96,New York,Offline
+474,DB Schenker,Truck,Driver_474,7,3.33,Dubai,Available
+475,XPO Logistics,Ship,Driver_475,24,3.41,Dubai,Busy
+476,C.H. Robinson,Cargo Van,Driver_476,8,3.86,Sydney,Offline
+477,Nippon Express,Ship,Driver_477,7,3.55,Sydney,Offline
+478,Kuehne + Nagel,Truck,Driver_478,10,4.68,Dubai,Available
+479,SF Express,Cargo Van,Driver_479,21,4.22,Toronto,Busy
+480,Blue Dart Express,Ship,Driver_480,19,4.86,London,Offline
+481,UPS Logistics,Air Freight,Driver_481,9,4.65,Dubai,Busy
+482,DHL Express,Air Freight,Driver_482,11,3.02,Singapore,Offline
+483,Maersk Logistics,Air Freight,Driver_483,20,4.58,Sydney,Busy
+484,DB Schenker,Truck,Driver_484,17,4.68,Dubai,Offline
+485,XPO Logistics,Air Freight,Driver_485,7,3.41,New York,Offline
+486,C.H. Robinson,Ship,Driver_486,21,4.47,Berlin,Offline
+487,Nippon Express,Cargo Van,Driver_487,20,3.19,Sydney,Available
+488,Kuehne + Nagel,Ship,Driver_488,19,3.85,Berlin,Offline
+489,SF Express,Truck,Driver_489,11,4.7,London,Available
+490,Blue Dart Express,Air Freight,Driver_490,7,3.05,New York,Available
+491,UPS Logistics,Air Freight,Driver_491,14,4.44,Mumbai,Busy
+492,DHL Express,Cargo Van,Driver_492,6,4.3,Berlin,Offline
+493,Maersk Logistics,Air Freight,Driver_493,24,4.96,New York,Available
+494,DB Schenker,Ship,Driver_494,15,4.96,Singapore,Offline
+495,XPO Logistics,Truck,Driver_495,18,4.09,Mumbai,Busy
+496,C.H. Robinson,Air Freight,Driver_496,14,3.49,New York,Available
+497,Nippon Express,Cargo Van,Driver_497,11,3.15,Berlin,Offline
+498,Kuehne + Nagel,Cargo Van,Driver_498,24,4.58,Berlin,Busy
+499,SF Express,Truck,Driver_499,7,3.83,Mumbai,Offline
+500,Blue Dart Express,Ship,Driver_500,9,4.98,New York,Available
+501,UPS Logistics,Air Freight,Driver_501,20,4.48,Sydney,Busy
+502,DHL Express,Truck,Driver_502,11,4.65,Dubai,Available
+503,Maersk Logistics,Ship,Driver_503,1,4.62,Sydney,Offline
+504,DB Schenker,Cargo Van,Driver_504,1,3.0,New York,Busy
+505,XPO Logistics,Air Freight,Driver_505,19,4.34,Berlin,Offline
+506,C.H. Robinson,Ship,Driver_506,12,3.31,Mumbai,Offline
+507,Nippon Express,Air Freight,Driver_507,15,4.78,Mumbai,Offline
+508,Kuehne + Nagel,Ship,Driver_508,12,4.72,Singapore,Busy
+509,SF Express,Cargo Van,Driver_509,2,3.08,Toronto,Available
+510,Blue Dart Express,Cargo Van,Driver_510,14,4.33,Toronto,Available
+511,UPS Logistics,Cargo Van,Driver_511,1,4.77,Sydney,Busy
+512,DHL Express,Ship,Driver_512,12,3.94,Dubai,Offline
+513,Maersk Logistics,Air Freight,Driver_513,16,4.22,London,Busy
+514,DB Schenker,Ship,Driver_514,20,3.37,Singapore,Busy
+515,XPO Logistics,Ship,Driver_515,21,4.09,Mumbai,Available
+516,C.H. Robinson,Cargo Van,Driver_516,17,3.24,Sydney,Available
+517,Nippon Express,Air Freight,Driver_517,12,3.48,Sydney,Busy
+518,Kuehne + Nagel,Truck,Driver_518,23,4.85,Toronto,Offline
+519,SF Express,Ship,Driver_519,20,3.74,London,Available
+520,Blue Dart Express,Ship,Driver_520,10,4.76,London,Available
+521,UPS Logistics,Cargo Van,Driver_521,6,3.47,London,Available
+522,DHL Express,Cargo Van,Driver_522,15,3.42,Sydney,Available
+523,Maersk Logistics,Cargo Van,Driver_523,14,3.96,Toronto,Busy
+524,DB Schenker,Truck,Driver_524,3,4.43,New York,Available
+525,XPO Logistics,Truck,Driver_525,6,4.39,New York,Busy
+526,C.H. Robinson,Truck,Driver_526,17,3.21,Toronto,Available
+527,Nippon Express,Cargo Van,Driver_527,16,4.16,Toronto,Available
+528,Kuehne + Nagel,Truck,Driver_528,4,3.72,New York,Available
+529,SF Express,Ship,Driver_529,21,3.48,Berlin,Offline
+530,Blue Dart Express,Air Freight,Driver_530,10,3.77,New York,Busy
+531,UPS Logistics,Air Freight,Driver_531,16,3.69,London,Offline
+532,DHL Express,Air Freight,Driver_532,11,4.42,Sydney,Available
+533,Maersk Logistics,Truck,Driver_533,3,4.66,Sydney,Offline
+534,DB Schenker,Air Freight,Driver_534,8,3.97,Berlin,Busy
+535,XPO Logistics,Ship,Driver_535,9,4.81,Toronto,Available
+536,C.H. Robinson,Air Freight,Driver_536,3,3.84,Toronto,Busy
+537,Nippon Express,Cargo Van,Driver_537,20,4.68,Dubai,Offline
+538,Kuehne + Nagel,Truck,Driver_538,13,3.6,New York,Offline
+539,SF Express,Cargo Van,Driver_539,4,3.57,Dubai,Busy
+540,Blue Dart Express,Truck,Driver_540,12,4.43,Dubai,Busy
+541,UPS Logistics,Cargo Van,Driver_541,11,3.15,Sydney,Busy
+542,DHL Express,Air Freight,Driver_542,13,4.21,Dubai,Busy
+543,Maersk Logistics,Truck,Driver_543,14,3.9,Sydney,Offline
+544,DB Schenker,Air Freight,Driver_544,1,3.83,Sydney,Busy
+545,XPO Logistics,Cargo Van,Driver_545,4,3.46,Singapore,Offline
+546,C.H. Robinson,Truck,Driver_546,21,3.91,Toronto,Offline
+547,Nippon Express,Cargo Van,Driver_547,14,3.37,Sydney,Busy
+548,Kuehne + Nagel,Air Freight,Driver_548,12,3.1,New York,Busy
+549,SF Express,Air Freight,Driver_549,18,4.38,London,Offline
+550,Blue Dart Express,Cargo Van,Driver_550,19,4.21,New York,Busy
+551,UPS Logistics,Ship,Driver_551,3,4.51,London,Offline
+552,DHL Express,Cargo Van,Driver_552,11,4.83,Sydney,Available
+553,Maersk Logistics,Air Freight,Driver_553,23,4.4,Berlin,Offline
+554,DB Schenker,Truck,Driver_554,24,4.73,Berlin,Offline
+555,XPO Logistics,Ship,Driver_555,5,3.04,Singapore,Available
+556,C.H. Robinson,Cargo Van,Driver_556,14,3.77,London,Busy
+557,Nippon Express,Ship,Driver_557,24,3.74,Sydney,Available
+558,Kuehne + Nagel,Ship,Driver_558,23,4.59,Toronto,Busy
+559,SF Express,Cargo Van,Driver_559,4,4.56,London,Available
+560,Blue Dart Express,Truck,Driver_560,19,4.55,Mumbai,Busy
+561,UPS Logistics,Air Freight,Driver_561,14,4.33,Dubai,Available
+562,DHL Express,Air Freight,Driver_562,4,4.1,Berlin,Offline
+563,Maersk Logistics,Cargo Van,Driver_563,2,3.63,London,Offline
+564,DB Schenker,Cargo Van,Driver_564,18,4.02,Sydney,Available
+565,XPO Logistics,Ship,Driver_565,20,4.6,Mumbai,Busy
+566,C.H. Robinson,Ship,Driver_566,9,3.98,Singapore,Available
+567,Nippon Express,Cargo Van,Driver_567,15,3.73,London,Busy
+568,Kuehne + Nagel,Truck,Driver_568,22,4.53,Toronto,Available
+569,SF Express,Cargo Van,Driver_569,19,3.74,New York,Available
+570,Blue Dart Express,Truck,Driver_570,2,4.43,Sydney,Offline
+571,UPS Logistics,Cargo Van,Driver_571,2,4.76,Toronto,Available
+572,DHL Express,Cargo Van,Driver_572,3,4.87,Toronto,Offline
+573,Maersk Logistics,Ship,Driver_573,23,4.77,London,Offline
+574,DB Schenker,Ship,Driver_574,20,4.87,Sydney,Busy
+575,XPO Logistics,Truck,Driver_575,14,4.97,Singapore,Busy
+576,C.H. Robinson,Truck,Driver_576,12,3.42,Berlin,Busy
+577,Nippon Express,Ship,Driver_577,21,3.02,Toronto,Available
+578,Kuehne + Nagel,Truck,Driver_578,10,3.52,London,Available
+579,SF Express,Truck,Driver_579,11,4.88,New York,Available
+580,Blue Dart Express,Air Freight,Driver_580,2,4.87,Sydney,Available
+581,UPS Logistics,Air Freight,Driver_581,8,3.35,Berlin,Busy
+582,DHL Express,Ship,Driver_582,19,4.11,Dubai,Available
+583,Maersk Logistics,Cargo Van,Driver_583,12,3.38,New York,Available
+584,DB Schenker,Truck,Driver_584,3,4.33,London,Offline
+585,XPO Logistics,Air Freight,Driver_585,12,4.8,Toronto,Offline
+586,C.H. Robinson,Ship,Driver_586,6,4.96,New York,Offline
+587,Nippon Express,Ship,Driver_587,17,3.69,Dubai,Offline
+588,Kuehne + Nagel,Cargo Van,Driver_588,14,3.23,London,Busy
+589,SF Express,Ship,Driver_589,4,3.79,New York,Available
+590,Blue Dart Express,Ship,Driver_590,3,3.23,Mumbai,Available
+591,UPS Logistics,Cargo Van,Driver_591,23,3.96,New York,Busy
+592,DHL Express,Truck,Driver_592,20,4.79,London,Available
+593,Maersk Logistics,Cargo Van,Driver_593,11,3.65,Sydney,Busy
+594,DB Schenker,Ship,Driver_594,24,3.33,New York,Available
+595,XPO Logistics,Air Freight,Driver_595,15,4.02,Berlin,Busy
+596,C.H. Robinson,Air Freight,Driver_596,15,4.25,Mumbai,Available
+597,Nippon Express,Ship,Driver_597,11,3.16,New York,Busy
+598,Kuehne + Nagel,Truck,Driver_598,20,3.91,Singapore,Available
+599,SF Express,Air Freight,Driver_599,9,4.99,Toronto,Busy
+600,Blue Dart Express,Air Freight,Driver_600,14,4.89,London,Busy
+601,UPS Logistics,Cargo Van,Driver_601,11,3.53,Dubai,Available
+602,DHL Express,Cargo Van,Driver_602,18,4.49,Singapore,Busy
+603,Maersk Logistics,Air Freight,Driver_603,18,4.46,Toronto,Offline
+604,DB Schenker,Air Freight,Driver_604,17,4.89,London,Busy
+605,XPO Logistics,Cargo Van,Driver_605,13,3.43,Toronto,Offline
+606,C.H. Robinson,Ship,Driver_606,19,4.69,New York,Offline
+607,Nippon Express,Cargo Van,Driver_607,8,3.85,Berlin,Busy
+608,Kuehne + Nagel,Truck,Driver_608,22,3.06,Berlin,Available
+609,SF Express,Truck,Driver_609,6,4.01,London,Offline
+610,Blue Dart Express,Truck,Driver_610,23,4.4,London,Available
+611,UPS Logistics,Truck,Driver_611,23,3.04,Toronto,Offline
+612,DHL Express,Truck,Driver_612,11,3.06,Berlin,Busy
+613,Maersk Logistics,Cargo Van,Driver_613,5,4.3,Berlin,Busy
+614,DB Schenker,Ship,Driver_614,7,4.31,Sydney,Busy
+615,XPO Logistics,Air Freight,Driver_615,20,3.82,London,Available
+616,C.H. Robinson,Cargo Van,Driver_616,12,3.64,Mumbai,Offline
+617,Nippon Express,Truck,Driver_617,24,4.76,New York,Busy
+618,Kuehne + Nagel,Ship,Driver_618,18,4.79,London,Available
+619,SF Express,Ship,Driver_619,17,3.58,Sydney,Offline
+620,Blue Dart Express,Cargo Van,Driver_620,16,3.22,Dubai,Available
+621,UPS Logistics,Truck,Driver_621,12,3.87,Mumbai,Offline
+622,DHL Express,Truck,Driver_622,21,4.26,Berlin,Busy
+623,Maersk Logistics,Cargo Van,Driver_623,24,3.13,Toronto,Offline
+624,DB Schenker,Cargo Van,Driver_624,1,4.13,New York,Busy
+625,XPO Logistics,Ship,Driver_625,1,4.46,Singapore,Offline
+626,C.H. Robinson,Cargo Van,Driver_626,21,3.99,Singapore,Offline
+627,Nippon Express,Truck,Driver_627,23,4.25,Berlin,Busy
+628,Kuehne + Nagel,Truck,Driver_628,13,4.03,London,Busy
+629,SF Express,Ship,Driver_629,16,4.69,Mumbai,Offline
+630,Blue Dart Express,Ship,Driver_630,23,3.23,Sydney,Available
+631,UPS Logistics,Ship,Driver_631,24,4.47,Toronto,Available
+632,DHL Express,Cargo Van,Driver_632,14,4.32,New York,Available
+633,Maersk Logistics,Truck,Driver_633,22,3.46,Dubai,Offline
+634,DB Schenker,Ship,Driver_634,9,4.49,Sydney,Offline
+635,XPO Logistics,Cargo Van,Driver_635,6,4.69,Berlin,Available
+636,C.H. Robinson,Cargo Van,Driver_636,10,4.24,London,Busy
+637,Nippon Express,Truck,Driver_637,24,3.95,Mumbai,Available
+638,Kuehne + Nagel,Truck,Driver_638,9,4.88,Toronto,Available
+639,SF Express,Air Freight,Driver_639,5,4.76,Mumbai,Offline
+640,Blue Dart Express,Air Freight,Driver_640,10,3.43,London,Offline
+641,UPS Logistics,Ship,Driver_641,9,4.99,London,Offline
+642,DHL Express,Air Freight,Driver_642,2,4.77,Toronto,Offline
+643,Maersk Logistics,Cargo Van,Driver_643,6,3.69,Toronto,Available
+644,DB Schenker,Cargo Van,Driver_644,7,3.2,Berlin,Busy
+645,XPO Logistics,Truck,Driver_645,8,3.69,Berlin,Available
+646,C.H. Robinson,Ship,Driver_646,8,3.07,Berlin,Busy
+647,Nippon Express,Air Freight,Driver_647,22,4.51,Singapore,Offline
+648,Kuehne + Nagel,Cargo Van,Driver_648,3,4.07,Sydney,Available
+649,SF Express,Ship,Driver_649,2,3.56,Singapore,Busy
+650,Blue Dart Express,Cargo Van,Driver_650,13,4.32,Toronto,Offline
+651,UPS Logistics,Cargo Van,Driver_651,10,3.86,Berlin,Offline
+652,DHL Express,Ship,Driver_652,8,3.03,London,Available
+653,Maersk Logistics,Cargo Van,Driver_653,11,4.2,Berlin,Offline
+654,DB Schenker,Ship,Driver_654,3,3.47,Berlin,Busy
+655,XPO Logistics,Truck,Driver_655,7,3.5,London,Available
+656,C.H. Robinson,Air Freight,Driver_656,6,4.49,Mumbai,Offline
+657,Nippon Express,Air Freight,Driver_657,1,4.67,New York,Available
+658,Kuehne + Nagel,Air Freight,Driver_658,3,4.05,New York,Busy
+659,SF Express,Ship,Driver_659,13,4.85,Mumbai,Available
+660,Blue Dart Express,Cargo Van,Driver_660,24,4.27,Dubai,Available
+661,UPS Logistics,Air Freight,Driver_661,2,3.39,Dubai,Available
+662,DHL Express,Air Freight,Driver_662,18,3.84,Singapore,Available
+663,Maersk Logistics,Air Freight,Driver_663,7,4.64,Mumbai,Busy
+664,DB Schenker,Ship,Driver_664,20,3.18,Toronto,Available
+665,XPO Logistics,Ship,Driver_665,6,3.29,Toronto,Offline
+666,C.H. Robinson,Cargo Van,Driver_666,6,4.58,New York,Offline
+667,Nippon Express,Air Freight,Driver_667,17,4.15,Berlin,Busy
+668,Kuehne + Nagel,Truck,Driver_668,8,4.79,New York,Offline
+669,SF Express,Truck,Driver_669,6,3.08,Singapore,Busy
+670,Blue Dart Express,Air Freight,Driver_670,11,3.27,Toronto,Busy
+671,UPS Logistics,Cargo Van,Driver_671,17,3.71,London,Offline
+672,DHL Express,Air Freight,Driver_672,20,3.55,New York,Offline
+673,Maersk Logistics,Cargo Van,Driver_673,1,3.38,Singapore,Available
+674,DB Schenker,Air Freight,Driver_674,12,4.28,Toronto,Available
+675,XPO Logistics,Air Freight,Driver_675,8,3.07,Dubai,Offline
+676,C.H. Robinson,Truck,Driver_676,7,4.38,Mumbai,Available
+677,Nippon Express,Air Freight,Driver_677,5,3.26,New York,Busy
+678,Kuehne + Nagel,Cargo Van,Driver_678,19,3.9,New York,Offline
+679,SF Express,Ship,Driver_679,10,4.88,Toronto,Available
+680,Blue Dart Express,Cargo Van,Driver_680,19,4.66,New York,Busy
+681,UPS Logistics,Cargo Van,Driver_681,10,3.99,Toronto,Offline
+682,DHL Express,Cargo Van,Driver_682,18,4.25,Singapore,Available
+683,Maersk Logistics,Truck,Driver_683,18,4.2,Sydney,Busy
+684,DB Schenker,Cargo Van,Driver_684,1,3.4,London,Offline
+685,XPO Logistics,Truck,Driver_685,23,4.37,London,Available
+686,C.H. Robinson,Truck,Driver_686,14,4.28,Singapore,Busy
+687,Nippon Express,Truck,Driver_687,1,4.53,Mumbai,Offline
+688,Kuehne + Nagel,Ship,Driver_688,24,3.91,Mumbai,Busy
+689,SF Express,Air Freight,Driver_689,20,3.78,Toronto,Available
+690,Blue Dart Express,Cargo Van,Driver_690,15,4.5,Dubai,Busy
+691,UPS Logistics,Cargo Van,Driver_691,10,3.28,New York,Available
+692,DHL Express,Ship,Driver_692,13,3.07,Toronto,Available
+693,Maersk Logistics,Truck,Driver_693,19,3.6,New York,Available
+694,DB Schenker,Truck,Driver_694,14,3.32,Mumbai,Available
+695,XPO Logistics,Air Freight,Driver_695,12,4.47,Singapore,Busy
+696,C.H. Robinson,Air Freight,Driver_696,17,3.43,New York,Available
+697,Nippon Express,Cargo Van,Driver_697,13,4.77,Sydney,Available
+698,Kuehne + Nagel,Cargo Van,Driver_698,6,4.92,Toronto,Available
+699,SF Express,Cargo Van,Driver_699,5,3.24,Mumbai,Available
+700,Blue Dart Express,Truck,Driver_700,6,3.1,Toronto,Available
+701,UPS Logistics,Cargo Van,Driver_701,3,3.67,Mumbai,Offline
+702,DHL Express,Truck,Driver_702,20,3.48,New York,Busy
+703,Maersk Logistics,Ship,Driver_703,15,4.35,Singapore,Available
+704,DB Schenker,Air Freight,Driver_704,24,3.23,Dubai,Offline
+705,XPO Logistics,Truck,Driver_705,17,4.99,Berlin,Offline
+706,C.H. Robinson,Air Freight,Driver_706,14,4.34,Singapore,Offline
+707,Nippon Express,Cargo Van,Driver_707,17,3.49,Sydney,Busy
+708,Kuehne + Nagel,Air Freight,Driver_708,8,4.0,New York,Busy
+709,SF Express,Air Freight,Driver_709,1,3.65,Mumbai,Offline
+710,Blue Dart Express,Cargo Van,Driver_710,1,4.73,Mumbai,Available
+711,UPS Logistics,Truck,Driver_711,15,3.47,Sydney,Busy
+712,DHL Express,Cargo Van,Driver_712,19,4.37,Singapore,Offline
+713,Maersk Logistics,Cargo Van,Driver_713,20,3.93,Berlin,Offline
+714,DB Schenker,Air Freight,Driver_714,16,3.55,London,Busy
+715,XPO Logistics,Air Freight,Driver_715,17,3.6,Sydney,Busy
+716,C.H. Robinson,Truck,Driver_716,11,3.01,Dubai,Offline
+717,Nippon Express,Air Freight,Driver_717,11,3.06,Toronto,Busy
+718,Kuehne + Nagel,Ship,Driver_718,13,3.84,Toronto,Available
+719,SF Express,Ship,Driver_719,5,3.3,Dubai,Available
+720,Blue Dart Express,Air Freight,Driver_720,17,3.68,Berlin,Available
+721,UPS Logistics,Cargo Van,Driver_721,6,4.4,Toronto,Available
+722,DHL Express,Cargo Van,Driver_722,22,3.33,Toronto,Busy
+723,Maersk Logistics,Truck,Driver_723,11,4.51,Dubai,Available
+724,DB Schenker,Truck,Driver_724,14,3.48,Singapore,Available
+725,XPO Logistics,Air Freight,Driver_725,14,3.3,Mumbai,Busy
+726,C.H. Robinson,Air Freight,Driver_726,12,3.17,Berlin,Offline
+727,Nippon Express,Ship,Driver_727,19,3.07,Mumbai,Available
+728,Kuehne + Nagel,Truck,Driver_728,5,3.97,Singapore,Busy
+729,SF Express,Truck,Driver_729,12,3.0,London,Busy
+730,Blue Dart Express,Ship,Driver_730,14,4.7,Toronto,Busy
+731,UPS Logistics,Truck,Driver_731,2,4.49,London,Offline
+732,DHL Express,Air Freight,Driver_732,5,3.98,Berlin,Busy
+733,Maersk Logistics,Ship,Driver_733,2,4.51,Mumbai,Offline
+734,DB Schenker,Cargo Van,Driver_734,19,4.57,New York,Offline
+735,XPO Logistics,Cargo Van,Driver_735,11,3.66,Mumbai,Busy
+736,C.H. Robinson,Truck,Driver_736,4,4.34,Mumbai,Busy
+737,Nippon Express,Ship,Driver_737,10,4.4,Dubai,Offline
+738,Kuehne + Nagel,Truck,Driver_738,6,4.35,Sydney,Busy
+739,SF Express,Cargo Van,Driver_739,9,4.18,Dubai,Offline
+740,Blue Dart Express,Cargo Van,Driver_740,6,4.23,Singapore,Available
+741,UPS Logistics,Ship,Driver_741,4,4.35,London,Available
+742,DHL Express,Cargo Van,Driver_742,20,3.34,Dubai,Busy
+743,Maersk Logistics,Truck,Driver_743,17,3.2,New York,Available
+744,DB Schenker,Truck,Driver_744,20,4.13,Dubai,Available
+745,XPO Logistics,Air Freight,Driver_745,16,4.86,Mumbai,Busy
+746,C.H. Robinson,Truck,Driver_746,11,3.32,Dubai,Offline
+747,Nippon Express,Cargo Van,Driver_747,14,4.25,London,Offline
+748,Kuehne + Nagel,Air Freight,Driver_748,6,4.2,Singapore,Available
+749,SF Express,Cargo Van,Driver_749,9,3.78,Sydney,Available
+750,Blue Dart Express,Air Freight,Driver_750,17,4.06,Berlin,Available
+751,UPS Logistics,Air Freight,Driver_751,13,3.77,New York,Available
+752,DHL Express,Truck,Driver_752,6,4.89,Toronto,Busy
+753,Maersk Logistics,Ship,Driver_753,11,4.03,Sydney,Busy
+754,DB Schenker,Cargo Van,Driver_754,2,3.25,London,Offline
+755,XPO Logistics,Air Freight,Driver_755,20,3.97,Singapore,Offline
+756,C.H. Robinson,Air Freight,Driver_756,14,4.1,London,Offline
+757,Nippon Express,Cargo Van,Driver_757,23,4.94,Sydney,Offline
+758,Kuehne + Nagel,Cargo Van,Driver_758,3,4.2,Dubai,Busy
+759,SF Express,Ship,Driver_759,18,3.64,Toronto,Available
+760,Blue Dart Express,Truck,Driver_760,2,4.06,London,Busy
+761,UPS Logistics,Ship,Driver_761,21,4.26,Toronto,Available
+762,DHL Express,Truck,Driver_762,5,3.93,Toronto,Available
+763,Maersk Logistics,Air Freight,Driver_763,24,4.35,Sydney,Available
+764,DB Schenker,Cargo Van,Driver_764,15,4.15,Toronto,Available
+765,XPO Logistics,Cargo Van,Driver_765,10,4.93,Toronto,Available
+766,C.H. Robinson,Air Freight,Driver_766,7,3.45,Dubai,Offline
+767,Nippon Express,Truck,Driver_767,22,4.78,Dubai,Offline
+768,Kuehne + Nagel,Truck,Driver_768,22,4.77,Sydney,Available
+769,SF Express,Ship,Driver_769,16,4.52,Toronto,Offline
+770,Blue Dart Express,Truck,Driver_770,4,3.31,Sydney,Available
+771,UPS Logistics,Cargo Van,Driver_771,8,4.94,New York,Offline
+772,DHL Express,Ship,Driver_772,3,4.81,Singapore,Available
+773,Maersk Logistics,Truck,Driver_773,12,4.25,London,Busy
+774,DB Schenker,Truck,Driver_774,23,4.19,Dubai,Busy
+775,XPO Logistics,Cargo Van,Driver_775,19,3.68,Dubai,Busy
+776,C.H. Robinson,Cargo Van,Driver_776,13,4.14,London,Busy
+777,Nippon Express,Truck,Driver_777,4,4.26,London,Offline
+778,Kuehne + Nagel,Truck,Driver_778,5,4.75,Sydney,Available
+779,SF Express,Cargo Van,Driver_779,7,3.8,Toronto,Available
+780,Blue Dart Express,Cargo Van,Driver_780,21,3.03,London,Busy
+781,UPS Logistics,Truck,Driver_781,6,3.77,London,Busy
+782,DHL Express,Cargo Van,Driver_782,20,4.14,Berlin,Offline
+783,Maersk Logistics,Ship,Driver_783,2,3.16,Dubai,Busy
+784,DB Schenker,Truck,Driver_784,9,4.69,Mumbai,Available
+785,XPO Logistics,Ship,Driver_785,8,3.97,Berlin,Offline
+786,C.H. Robinson,Cargo Van,Driver_786,4,4.25,London,Available
+787,Nippon Express,Truck,Driver_787,1,3.69,Singapore,Busy
+788,Kuehne + Nagel,Cargo Van,Driver_788,20,3.22,Berlin,Offline
+789,SF Express,Cargo Van,Driver_789,7,4.8,Sydney,Offline
+790,Blue Dart Express,Truck,Driver_790,13,3.69,New York,Busy
+791,UPS Logistics,Cargo Van,Driver_791,7,3.23,Berlin,Busy
+792,DHL Express,Cargo Van,Driver_792,12,3.87,Berlin,Busy
+793,Maersk Logistics,Cargo Van,Driver_793,19,4.07,Toronto,Offline
+794,DB Schenker,Ship,Driver_794,12,3.34,Sydney,Offline
+795,XPO Logistics,Air Freight,Driver_795,22,3.28,New York,Offline
+796,C.H. Robinson,Cargo Van,Driver_796,13,3.6,Dubai,Available
+797,Nippon Express,Air Freight,Driver_797,17,3.59,Mumbai,Busy
+798,Kuehne + Nagel,Truck,Driver_798,18,3.82,New York,Available
+799,SF Express,Air Freight,Driver_799,21,3.95,Sydney,Busy
+800,Blue Dart Express,Ship,Driver_800,13,3.83,Mumbai,Available
+801,UPS Logistics,Ship,Driver_801,3,3.2,Toronto,Busy
+802,DHL Express,Cargo Van,Driver_802,18,4.63,Berlin,Available
+803,Maersk Logistics,Air Freight,Driver_803,21,4.61,New York,Busy
+804,DB Schenker,Truck,Driver_804,17,4.81,Singapore,Offline
+805,XPO Logistics,Cargo Van,Driver_805,23,4.67,London,Busy
+806,C.H. Robinson,Ship,Driver_806,5,4.83,Berlin,Offline
+807,Nippon Express,Air Freight,Driver_807,12,4.47,Mumbai,Busy
+808,Kuehne + Nagel,Air Freight,Driver_808,23,3.46,Sydney,Available
+809,SF Express,Truck,Driver_809,17,3.15,New York,Available
+810,Blue Dart Express,Truck,Driver_810,9,4.53,Toronto,Offline
+811,UPS Logistics,Ship,Driver_811,23,4.29,Mumbai,Offline
+812,DHL Express,Truck,Driver_812,10,4.9,Singapore,Busy
+813,Maersk Logistics,Truck,Driver_813,21,3.74,Dubai,Available
+814,DB Schenker,Air Freight,Driver_814,10,4.51,Mumbai,Busy
+815,XPO Logistics,Truck,Driver_815,14,3.2,Toronto,Available
+816,C.H. Robinson,Ship,Driver_816,16,3.62,New York,Busy
+817,Nippon Express,Cargo Van,Driver_817,23,3.04,Sydney,Available
+818,Kuehne + Nagel,Cargo Van,Driver_818,7,3.32,Berlin,Busy
+819,SF Express,Air Freight,Driver_819,6,3.55,Berlin,Available
+820,Blue Dart Express,Truck,Driver_820,2,3.89,London,Available
+821,UPS Logistics,Cargo Van,Driver_821,8,4.7,Berlin,Available
+822,DHL Express,Truck,Driver_822,18,4.78,Berlin,Available
+823,Maersk Logistics,Truck,Driver_823,21,4.34,Singapore,Offline
+824,DB Schenker,Ship,Driver_824,9,4.46,Toronto,Offline
+825,XPO Logistics,Truck,Driver_825,11,3.64,Mumbai,Available
+826,C.H. Robinson,Cargo Van,Driver_826,12,3.96,Sydney,Busy
+827,Nippon Express,Air Freight,Driver_827,3,4.97,New York,Busy
+828,Kuehne + Nagel,Ship,Driver_828,3,3.58,New York,Available
+829,SF Express,Cargo Van,Driver_829,8,3.49,Singapore,Available
+830,Blue Dart Express,Air Freight,Driver_830,19,4.73,Sydney,Offline
+831,UPS Logistics,Truck,Driver_831,9,4.58,London,Available
+832,DHL Express,Cargo Van,Driver_832,7,3.74,Sydney,Available
+833,Maersk Logistics,Air Freight,Driver_833,13,4.72,London,Offline
+834,DB Schenker,Ship,Driver_834,13,4.26,Mumbai,Busy
+835,XPO Logistics,Cargo Van,Driver_835,4,3.22,Dubai,Available
+836,C.H. Robinson,Ship,Driver_836,24,4.5,Mumbai,Busy
+837,Nippon Express,Cargo Van,Driver_837,14,4.28,Singapore,Available
+838,Kuehne + Nagel,Truck,Driver_838,21,3.78,Mumbai,Busy
+839,SF Express,Cargo Van,Driver_839,20,3.91,Singapore,Available
+840,Blue Dart Express,Cargo Van,Driver_840,15,3.87,Berlin,Busy
+841,UPS Logistics,Truck,Driver_841,3,4.64,New York,Offline
+842,DHL Express,Air Freight,Driver_842,11,4.27,Sydney,Busy
+843,Maersk Logistics,Air Freight,Driver_843,23,3.6,Dubai,Offline
+844,DB Schenker,Cargo Van,Driver_844,13,3.18,Berlin,Offline
+845,XPO Logistics,Truck,Driver_845,7,3.12,Toronto,Available
+846,C.H. Robinson,Ship,Driver_846,8,3.07,Dubai,Offline
+847,Nippon Express,Ship,Driver_847,10,4.23,Singapore,Offline
+848,Kuehne + Nagel,Ship,Driver_848,23,4.91,New York,Busy
+849,SF Express,Air Freight,Driver_849,24,4.46,Sydney,Offline
+850,Blue Dart Express,Truck,Driver_850,1,4.14,London,Available
+851,UPS Logistics,Ship,Driver_851,4,3.75,New York,Busy
+852,DHL Express,Cargo Van,Driver_852,18,4.64,Berlin,Offline
+853,Maersk Logistics,Air Freight,Driver_853,21,4.27,New York,Offline
+854,DB Schenker,Air Freight,Driver_854,22,4.0,Sydney,Offline
+855,XPO Logistics,Air Freight,Driver_855,17,3.1,Toronto,Offline
+856,C.H. Robinson,Truck,Driver_856,23,4.66,Toronto,Busy
+857,Nippon Express,Truck,Driver_857,6,3.09,Sydney,Available
+858,Kuehne + Nagel,Cargo Van,Driver_858,24,3.46,Berlin,Busy
+859,SF Express,Ship,Driver_859,7,3.41,London,Busy
+860,Blue Dart Express,Cargo Van,Driver_860,18,3.75,Toronto,Offline
+861,UPS Logistics,Air Freight,Driver_861,4,4.66,London,Busy
+862,DHL Express,Air Freight,Driver_862,19,3.93,Toronto,Offline
+863,Maersk Logistics,Cargo Van,Driver_863,2,4.57,Mumbai,Available
+864,DB Schenker,Cargo Van,Driver_864,11,4.33,London,Busy
+865,XPO Logistics,Ship,Driver_865,24,4.39,Sydney,Busy
+866,C.H. Robinson,Truck,Driver_866,6,4.84,Dubai,Available
+867,Nippon Express,Ship,Driver_867,1,3.83,New York,Available
+868,Kuehne + Nagel,Air Freight,Driver_868,12,3.74,Berlin,Busy
+869,SF Express,Cargo Van,Driver_869,9,4.43,Mumbai,Busy
+870,Blue Dart Express,Ship,Driver_870,17,4.64,Sydney,Busy
+871,UPS Logistics,Truck,Driver_871,6,4.43,New York,Available
+872,DHL Express,Air Freight,Driver_872,22,4.3,Toronto,Available
+873,Maersk Logistics,Air Freight,Driver_873,8,3.79,New York,Busy
+874,DB Schenker,Air Freight,Driver_874,4,3.73,New York,Offline
+875,XPO Logistics,Truck,Driver_875,7,4.81,Mumbai,Offline
+876,C.H. Robinson,Air Freight,Driver_876,12,4.49,Singapore,Available
+877,Nippon Express,Air Freight,Driver_877,1,3.08,Sydney,Available
+878,Kuehne + Nagel,Ship,Driver_878,4,3.73,Singapore,Available
+879,SF Express,Ship,Driver_879,19,4.42,Mumbai,Busy
+880,Blue Dart Express,Truck,Driver_880,16,4.22,New York,Offline
+881,UPS Logistics,Truck,Driver_881,11,3.53,London,Busy
+882,DHL Express,Ship,Driver_882,23,3.09,Berlin,Busy
+883,Maersk Logistics,Cargo Van,Driver_883,16,3.8,Singapore,Available
+884,DB Schenker,Cargo Van,Driver_884,19,4.06,Mumbai,Available
+885,XPO Logistics,Air Freight,Driver_885,3,3.37,Singapore,Offline
+886,C.H. Robinson,Air Freight,Driver_886,21,4.67,Toronto,Available
+887,Nippon Express,Truck,Driver_887,2,4.49,Mumbai,Available
+888,Kuehne + Nagel,Air Freight,Driver_888,24,4.48,Singapore,Offline
+889,SF Express,Truck,Driver_889,13,3.03,Singapore,Offline
+890,Blue Dart Express,Ship,Driver_890,19,4.23,London,Available
+891,UPS Logistics,Truck,Driver_891,23,4.44,Toronto,Offline
+892,DHL Express,Air Freight,Driver_892,12,4.33,Mumbai,Available
+893,Maersk Logistics,Cargo Van,Driver_893,4,4.02,New York,Offline
+894,DB Schenker,Air Freight,Driver_894,14,3.3,Dubai,Busy
+895,XPO Logistics,Cargo Van,Driver_895,7,3.45,Sydney,Offline
+896,C.H. Robinson,Ship,Driver_896,4,4.65,Berlin,Available
+897,Nippon Express,Air Freight,Driver_897,3,4.43,Dubai,Available
+898,Kuehne + Nagel,Ship,Driver_898,16,4.18,Dubai,Busy
+899,SF Express,Cargo Van,Driver_899,8,3.69,Mumbai,Busy
+900,Blue Dart Express,Air Freight,Driver_900,19,4.13,Dubai,Available
+901,UPS Logistics,Air Freight,Driver_901,17,3.07,Mumbai,Available
+902,DHL Express,Ship,Driver_902,19,3.14,Mumbai,Offline
+903,Maersk Logistics,Truck,Driver_903,10,3.76,Sydney,Offline
+904,DB Schenker,Air Freight,Driver_904,4,3.14,Berlin,Offline
+905,XPO Logistics,Air Freight,Driver_905,17,3.46,Dubai,Available
+906,C.H. Robinson,Truck,Driver_906,14,4.11,New York,Available
+907,Nippon Express,Air Freight,Driver_907,7,3.94,Dubai,Offline
+908,Kuehne + Nagel,Cargo Van,Driver_908,22,4.02,Singapore,Busy
+909,SF Express,Truck,Driver_909,13,4.71,Singapore,Available
+910,Blue Dart Express,Air Freight,Driver_910,8,4.49,Sydney,Available
+911,UPS Logistics,Cargo Van,Driver_911,8,4.67,Berlin,Available
+912,DHL Express,Air Freight,Driver_912,17,3.89,Berlin,Busy
+913,Maersk Logistics,Air Freight,Driver_913,21,4.98,Dubai,Available
+914,DB Schenker,Air Freight,Driver_914,14,4.72,Mumbai,Available
+915,XPO Logistics,Air Freight,Driver_915,18,3.85,Sydney,Available
+916,C.H. Robinson,Air Freight,Driver_916,21,3.82,Dubai,Available
+917,Nippon Express,Ship,Driver_917,23,4.17,Toronto,Available
+918,Kuehne + Nagel,Air Freight,Driver_918,6,4.24,London,Busy
+919,SF Express,Air Freight,Driver_919,13,4.74,London,Available
+920,Blue Dart Express,Ship,Driver_920,9,4.35,Singapore,Offline
+921,UPS Logistics,Air Freight,Driver_921,11,3.18,London,Busy
+922,DHL Express,Ship,Driver_922,11,3.8,Toronto,Available
+923,Maersk Logistics,Cargo Van,Driver_923,23,3.61,Singapore,Busy
+924,DB Schenker,Truck,Driver_924,7,4.73,New York,Offline
+925,XPO Logistics,Cargo Van,Driver_925,5,3.55,Toronto,Offline
+926,C.H. Robinson,Truck,Driver_926,3,3.27,Singapore,Busy
+927,Nippon Express,Truck,Driver_927,6,3.44,Singapore,Available
+928,Kuehne + Nagel,Air Freight,Driver_928,22,4.54,Mumbai,Available
+929,SF Express,Cargo Van,Driver_929,3,4.6,Mumbai,Busy
+930,Blue Dart Express,Air Freight,Driver_930,3,4.65,Mumbai,Busy
+931,UPS Logistics,Air Freight,Driver_931,16,4.78,New York,Offline
+932,DHL Express,Air Freight,Driver_932,6,3.19,Berlin,Offline
+933,Maersk Logistics,Ship,Driver_933,9,4.79,Singapore,Available
+934,DB Schenker,Truck,Driver_934,13,4.81,Dubai,Busy
+935,XPO Logistics,Air Freight,Driver_935,8,4.94,Toronto,Offline
+936,C.H. Robinson,Cargo Van,Driver_936,12,3.79,New York,Available
+937,Nippon Express,Cargo Van,Driver_937,12,3.36,Singapore,Busy
+938,Kuehne + Nagel,Ship,Driver_938,12,3.53,London,Available
+939,SF Express,Truck,Driver_939,12,4.47,Singapore,Available
+940,Blue Dart Express,Air Freight,Driver_940,3,3.51,Toronto,Available
+941,UPS Logistics,Air Freight,Driver_941,17,3.92,Mumbai,Available
+942,DHL Express,Truck,Driver_942,10,4.71,Singapore,Available
+943,Maersk Logistics,Cargo Van,Driver_943,17,4.12,Toronto,Offline
+944,DB Schenker,Ship,Driver_944,10,3.91,Sydney,Available
+945,XPO Logistics,Ship,Driver_945,10,4.11,Sydney,Offline
+946,C.H. Robinson,Truck,Driver_946,6,3.6,Toronto,Busy
+947,Nippon Express,Air Freight,Driver_947,2,4.3,New York,Available
+948,Kuehne + Nagel,Air Freight,Driver_948,12,3.36,Dubai,Available
+949,SF Express,Air Freight,Driver_949,2,3.5,New York,Offline
+950,Blue Dart Express,Cargo Van,Driver_950,12,3.09,Sydney,Offline
+951,UPS Logistics,Ship,Driver_951,15,4.8,Dubai,Busy
+952,DHL Express,Ship,Driver_952,10,5.0,Berlin,Busy
+953,Maersk Logistics,Air Freight,Driver_953,17,4.12,New York,Available
+954,DB Schenker,Air Freight,Driver_954,3,3.17,Mumbai,Offline
+955,XPO Logistics,Air Freight,Driver_955,15,4.32,Berlin,Busy
+956,C.H. Robinson,Truck,Driver_956,15,3.36,Berlin,Busy
+957,Nippon Express,Cargo Van,Driver_957,24,3.11,Singapore,Offline
+958,Kuehne + Nagel,Cargo Van,Driver_958,2,4.87,London,Available
+959,SF Express,Truck,Driver_959,5,4.85,London,Offline
+960,Blue Dart Express,Air Freight,Driver_960,11,3.49,Sydney,Available
+961,UPS Logistics,Cargo Van,Driver_961,11,4.04,New York,Offline
+962,DHL Express,Truck,Driver_962,5,4.09,New York,Busy
+963,Maersk Logistics,Truck,Driver_963,22,4.4,London,Available
+964,DB Schenker,Ship,Driver_964,6,4.56,Mumbai,Offline
+965,XPO Logistics,Cargo Van,Driver_965,22,3.48,Dubai,Busy
+966,C.H. Robinson,Ship,Driver_966,14,4.56,Dubai,Busy
+967,Nippon Express,Truck,Driver_967,24,4.39,Sydney,Busy
+968,Kuehne + Nagel,Cargo Van,Driver_968,15,4.43,Sydney,Offline
+969,SF Express,Air Freight,Driver_969,14,3.56,Toronto,Available
+970,Blue Dart Express,Cargo Van,Driver_970,1,4.24,Berlin,Offline
+971,UPS Logistics,Ship,Driver_971,9,4.25,Mumbai,Busy
+972,DHL Express,Cargo Van,Driver_972,18,3.4,Singapore,Offline
+973,Maersk Logistics,Ship,Driver_973,15,3.76,Sydney,Offline
+974,DB Schenker,Air Freight,Driver_974,13,3.65,Toronto,Busy
+975,XPO Logistics,Truck,Driver_975,2,4.79,London,Offline
+976,C.H. Robinson,Ship,Driver_976,5,3.58,Dubai,Offline
+977,Nippon Express,Cargo Van,Driver_977,1,3.58,Mumbai,Busy
+978,Kuehne + Nagel,Cargo Van,Driver_978,22,3.6,Sydney,Available
+979,SF Express,Ship,Driver_979,22,3.59,Singapore,Offline
+980,Blue Dart Express,Air Freight,Driver_980,13,3.03,Singapore,Busy
+981,UPS Logistics,Ship,Driver_981,2,3.24,Sydney,Busy
+982,DHL Express,Cargo Van,Driver_982,15,3.33,London,Busy
+983,Maersk Logistics,Truck,Driver_983,7,4.54,Mumbai,Busy
+984,DB Schenker,Ship,Driver_984,4,3.94,Mumbai,Available
+985,XPO Logistics,Cargo Van,Driver_985,12,4.71,Berlin,Busy
+986,C.H. Robinson,Air Freight,Driver_986,6,3.81,Toronto,Busy
+987,Nippon Express,Air Freight,Driver_987,17,4.7,Mumbai,Offline
+988,Kuehne + Nagel,Air Freight,Driver_988,6,5.0,Dubai,Offline
+989,SF Express,Ship,Driver_989,17,3.7,Dubai,Busy
+990,Blue Dart Express,Air Freight,Driver_990,22,3.45,Toronto,Offline
+991,UPS Logistics,Cargo Van,Driver_991,21,4.0,Singapore,Offline
+992,DHL Express,Ship,Driver_992,11,4.57,Mumbai,Available
+993,Maersk Logistics,Ship,Driver_993,5,3.22,Singapore,Busy
+994,DB Schenker,Cargo Van,Driver_994,11,3.63,Dubai,Available
+995,XPO Logistics,Cargo Van,Driver_995,17,3.63,Sydney,Busy
+996,C.H. Robinson,Air Freight,Driver_996,4,3.36,Dubai,Offline
+997,Nippon Express,Ship,Driver_997,6,4.59,Berlin,Offline
+998,Kuehne + Nagel,Truck,Driver_998,21,4.99,Sydney,Offline
+999,SF Express,Cargo Van,Driver_999,9,3.37,Dubai,Offline
+1000,Blue Dart Express,Air Freight,Driver_1000,8,4.69,New York,Busy
+1001,UPS Logistics,Cargo Van,Driver_1001,1,4.02,Mumbai,Busy
+1002,DHL Express,Cargo Van,Driver_1002,12,4.32,Sydney,Offline
+1003,Maersk Logistics,Truck,Driver_1003,12,3.66,New York,Busy
+1004,DB Schenker,Truck,Driver_1004,22,4.19,Dubai,Offline
+1005,XPO Logistics,Cargo Van,Driver_1005,20,4.15,Singapore,Offline
+1006,C.H. Robinson,Cargo Van,Driver_1006,3,4.52,Berlin,Available
+1007,Nippon Express,Ship,Driver_1007,10,3.25,Berlin,Offline
+1008,Kuehne + Nagel,Air Freight,Driver_1008,18,4.34,Singapore,Offline
+1009,SF Express,Air Freight,Driver_1009,1,4.81,London,Busy
+1010,Blue Dart Express,Truck,Driver_1010,1,3.99,Dubai,Offline
+1011,UPS Logistics,Air Freight,Driver_1011,14,3.63,Sydney,Busy
+1012,DHL Express,Truck,Driver_1012,7,4.08,Dubai,Offline
+1013,Maersk Logistics,Truck,Driver_1013,8,3.92,Mumbai,Available
+1014,DB Schenker,Cargo Van,Driver_1014,4,3.89,London,Offline
+1015,XPO Logistics,Air Freight,Driver_1015,20,4.34,Toronto,Offline
+1016,C.H. Robinson,Air Freight,Driver_1016,21,3.86,New York,Busy
+1017,Nippon Express,Truck,Driver_1017,22,4.3,Sydney,Available
+1018,Kuehne + Nagel,Air Freight,Driver_1018,9,3.46,Dubai,Available
+1019,SF Express,Cargo Van,Driver_1019,20,4.47,Sydney,Busy
+1020,Blue Dart Express,Truck,Driver_1020,19,3.19,Mumbai,Available
+1021,UPS Logistics,Air Freight,Driver_1021,12,4.21,Sydney,Offline
+1022,DHL Express,Ship,Driver_1022,7,3.31,London,Offline
+1023,Maersk Logistics,Ship,Driver_1023,9,4.66,Sydney,Offline
+1024,DB Schenker,Air Freight,Driver_1024,4,4.98,New York,Busy
+1025,XPO Logistics,Air Freight,Driver_1025,8,3.44,Sydney,Available
+1026,C.H. Robinson,Truck,Driver_1026,14,3.78,London,Busy
+1027,Nippon Express,Air Freight,Driver_1027,8,4.61,Dubai,Available
+1028,Kuehne + Nagel,Ship,Driver_1028,24,3.88,Mumbai,Available
+1029,SF Express,Air Freight,Driver_1029,7,3.07,Toronto,Offline
+1030,Blue Dart Express,Truck,Driver_1030,9,3.18,Singapore,Available
+1031,UPS Logistics,Cargo Van,Driver_1031,22,4.0,Toronto,Available
+1032,DHL Express,Air Freight,Driver_1032,8,3.47,New York,Busy
+1033,Maersk Logistics,Cargo Van,Driver_1033,8,4.37,Sydney,Busy
+1034,DB Schenker,Cargo Van,Driver_1034,1,4.44,New York,Available
+1035,XPO Logistics,Cargo Van,Driver_1035,9,4.46,Sydney,Offline
+1036,C.H. Robinson,Ship,Driver_1036,10,3.41,Berlin,Available
+1037,Nippon Express,Ship,Driver_1037,16,3.31,Mumbai,Busy
+1038,Kuehne + Nagel,Ship,Driver_1038,17,3.29,Toronto,Offline
+1039,SF Express,Truck,Driver_1039,7,3.17,Mumbai,Offline
+1040,Blue Dart Express,Truck,Driver_1040,18,4.53,Sydney,Offline
+1041,UPS Logistics,Cargo Van,Driver_1041,20,3.48,New York,Available
+1042,DHL Express,Cargo Van,Driver_1042,3,4.67,Sydney,Offline
+1043,Maersk Logistics,Cargo Van,Driver_1043,1,3.26,London,Available
+1044,DB Schenker,Cargo Van,Driver_1044,20,3.84,Singapore,Busy
+1045,XPO Logistics,Truck,Driver_1045,17,4.6,Singapore,Offline
+1046,C.H. Robinson,Truck,Driver_1046,23,3.13,London,Available
+1047,Nippon Express,Truck,Driver_1047,20,3.65,Mumbai,Offline
+1048,Kuehne + Nagel,Air Freight,Driver_1048,10,3.46,Dubai,Busy
+1049,SF Express,Cargo Van,Driver_1049,9,3.86,London,Offline
+1050,Blue Dart Express,Ship,Driver_1050,12,4.59,Sydney,Available
+1051,UPS Logistics,Truck,Driver_1051,17,4.25,London,Offline
+1052,DHL Express,Ship,Driver_1052,8,4.78,Sydney,Busy
+1053,Maersk Logistics,Cargo Van,Driver_1053,19,3.72,Toronto,Offline
+1054,DB Schenker,Ship,Driver_1054,9,3.58,Mumbai,Available
+1055,XPO Logistics,Truck,Driver_1055,14,4.68,Toronto,Available
+1056,C.H. Robinson,Air Freight,Driver_1056,22,4.13,Berlin,Available
+1057,Nippon Express,Truck,Driver_1057,9,4.33,Toronto,Offline
+1058,Kuehne + Nagel,Cargo Van,Driver_1058,24,4.63,Singapore,Offline
+1059,SF Express,Truck,Driver_1059,8,3.08,Berlin,Available
+1060,Blue Dart Express,Truck,Driver_1060,9,4.91,London,Available
+1061,UPS Logistics,Air Freight,Driver_1061,11,4.68,Mumbai,Available
+1062,DHL Express,Cargo Van,Driver_1062,6,3.19,Dubai,Available
+1063,Maersk Logistics,Truck,Driver_1063,5,3.69,Dubai,Busy
+1064,DB Schenker,Truck,Driver_1064,13,4.98,London,Busy
+1065,XPO Logistics,Ship,Driver_1065,16,4.03,New York,Offline
+1066,C.H. Robinson,Air Freight,Driver_1066,4,3.26,Mumbai,Available
+1067,Nippon Express,Air Freight,Driver_1067,4,3.08,Sydney,Busy
+1068,Kuehne + Nagel,Cargo Van,Driver_1068,17,4.36,New York,Available
+1069,SF Express,Air Freight,Driver_1069,14,4.87,Sydney,Busy
+1070,Blue Dart Express,Truck,Driver_1070,14,4.46,Sydney,Offline
+1071,UPS Logistics,Ship,Driver_1071,5,3.53,Singapore,Busy
+1072,DHL Express,Ship,Driver_1072,12,3.12,Mumbai,Busy
+1073,Maersk Logistics,Air Freight,Driver_1073,4,4.41,Sydney,Offline
+1074,DB Schenker,Ship,Driver_1074,21,3.96,New York,Busy
+1075,XPO Logistics,Air Freight,Driver_1075,18,4.85,London,Available
+1076,C.H. Robinson,Cargo Van,Driver_1076,3,4.45,Dubai,Offline
+1077,Nippon Express,Ship,Driver_1077,6,4.73,Sydney,Offline
+1078,Kuehne + Nagel,Truck,Driver_1078,8,4.89,New York,Busy
+1079,SF Express,Air Freight,Driver_1079,9,3.25,Sydney,Busy
+1080,Blue Dart Express,Ship,Driver_1080,23,4.89,Dubai,Busy
+1081,UPS Logistics,Cargo Van,Driver_1081,6,3.01,Mumbai,Available
+1082,DHL Express,Air Freight,Driver_1082,22,3.52,Singapore,Available
+1083,Maersk Logistics,Ship,Driver_1083,20,3.08,Berlin,Offline
+1084,DB Schenker,Cargo Van,Driver_1084,4,4.73,Mumbai,Offline
+1085,XPO Logistics,Air Freight,Driver_1085,10,4.06,Dubai,Offline
+1086,C.H. Robinson,Truck,Driver_1086,18,3.1,Sydney,Offline
+1087,Nippon Express,Cargo Van,Driver_1087,6,4.04,Mumbai,Offline
+1088,Kuehne + Nagel,Cargo Van,Driver_1088,11,4.4,Sydney,Available
+1089,SF Express,Ship,Driver_1089,13,3.88,Sydney,Offline
+1090,Blue Dart Express,Cargo Van,Driver_1090,7,4.68,Berlin,Offline
+1091,UPS Logistics,Air Freight,Driver_1091,23,4.01,New York,Available
+1092,DHL Express,Ship,Driver_1092,19,3.2,Toronto,Offline
+1093,Maersk Logistics,Cargo Van,Driver_1093,13,4.23,Mumbai,Available
+1094,DB Schenker,Air Freight,Driver_1094,14,3.48,Dubai,Offline
+1095,XPO Logistics,Truck,Driver_1095,16,4.34,Toronto,Offline
+1096,C.H. Robinson,Ship,Driver_1096,19,3.34,London,Offline
+1097,Nippon Express,Air Freight,Driver_1097,22,4.56,Sydney,Offline
+1098,Kuehne + Nagel,Ship,Driver_1098,12,4.26,Singapore,Offline
+1099,SF Express,Cargo Van,Driver_1099,18,4.97,Toronto,Available
+1100,Blue Dart Express,Cargo Van,Driver_1100,2,3.74,New York,Offline
+1101,UPS Logistics,Air Freight,Driver_1101,23,4.48,London,Offline
+1102,DHL Express,Ship,Driver_1102,23,4.42,Singapore,Offline
+1103,Maersk Logistics,Ship,Driver_1103,13,3.16,Dubai,Offline
+1104,DB Schenker,Cargo Van,Driver_1104,21,3.49,Dubai,Busy
+1105,XPO Logistics,Cargo Van,Driver_1105,12,4.1,Mumbai,Offline
+1106,C.H. Robinson,Air Freight,Driver_1106,5,4.59,Singapore,Available
+1107,Nippon Express,Cargo Van,Driver_1107,7,3.19,New York,Offline
+1108,Kuehne + Nagel,Cargo Van,Driver_1108,1,3.96,Berlin,Busy
+1109,SF Express,Ship,Driver_1109,21,4.73,New York,Busy
+1110,Blue Dart Express,Cargo Van,Driver_1110,16,4.27,Mumbai,Available
+1111,UPS Logistics,Ship,Driver_1111,15,4.26,Berlin,Busy
+1112,DHL Express,Ship,Driver_1112,7,4.55,Berlin,Offline
+1113,Maersk Logistics,Cargo Van,Driver_1113,4,3.56,Sydney,Offline
+1114,DB Schenker,Air Freight,Driver_1114,15,4.19,Dubai,Available
+1115,XPO Logistics,Cargo Van,Driver_1115,3,3.32,Dubai,Available
+1116,C.H. Robinson,Air Freight,Driver_1116,22,4.86,Dubai,Busy
+1117,Nippon Express,Air Freight,Driver_1117,23,3.25,Berlin,Busy
+1118,Kuehne + Nagel,Cargo Van,Driver_1118,7,4.26,New York,Available
+1119,SF Express,Cargo Van,Driver_1119,12,3.64,Berlin,Offline
+1120,Blue Dart Express,Truck,Driver_1120,22,3.8,Toronto,Available
+1121,UPS Logistics,Cargo Van,Driver_1121,9,3.21,Mumbai,Offline
+1122,DHL Express,Truck,Driver_1122,20,3.29,New York,Busy
+1123,Maersk Logistics,Truck,Driver_1123,2,3.19,Mumbai,Busy
+1124,DB Schenker,Cargo Van,Driver_1124,7,3.62,Mumbai,Available
+1125,XPO Logistics,Air Freight,Driver_1125,4,3.73,Sydney,Busy
+1126,C.H. Robinson,Air Freight,Driver_1126,4,4.11,Dubai,Busy
+1127,Nippon Express,Ship,Driver_1127,7,4.89,London,Offline
+1128,Kuehne + Nagel,Truck,Driver_1128,13,4.42,Sydney,Available
+1129,SF Express,Truck,Driver_1129,1,4.25,Mumbai,Available
+1130,Blue Dart Express,Cargo Van,Driver_1130,1,4.95,Sydney,Busy
+1131,UPS Logistics,Ship,Driver_1131,13,4.87,Berlin,Busy
+1132,DHL Express,Cargo Van,Driver_1132,13,4.8,Mumbai,Offline
+1133,Maersk Logistics,Ship,Driver_1133,2,4.36,Singapore,Available
+1134,DB Schenker,Cargo Van,Driver_1134,3,3.65,Mumbai,Available
+1135,XPO Logistics,Ship,Driver_1135,16,4.82,Mumbai,Offline
+1136,C.H. Robinson,Cargo Van,Driver_1136,15,4.41,Singapore,Offline
+1137,Nippon Express,Cargo Van,Driver_1137,9,3.73,Singapore,Busy
+1138,Kuehne + Nagel,Ship,Driver_1138,9,3.25,Mumbai,Offline
+1139,SF Express,Ship,Driver_1139,13,4.02,Mumbai,Offline
+1140,Blue Dart Express,Cargo Van,Driver_1140,5,4.51,Sydney,Busy
+1141,UPS Logistics,Air Freight,Driver_1141,4,4.85,Dubai,Busy
+1142,DHL Express,Air Freight,Driver_1142,2,4.11,Berlin,Busy
+1143,Maersk Logistics,Cargo Van,Driver_1143,2,3.36,London,Available
+1144,DB Schenker,Ship,Driver_1144,19,3.38,Dubai,Available
+1145,XPO Logistics,Air Freight,Driver_1145,14,4.15,New York,Offline
+1146,C.H. Robinson,Cargo Van,Driver_1146,12,4.69,Singapore,Available
+1147,Nippon Express,Ship,Driver_1147,13,4.06,Toronto,Available
+1148,Kuehne + Nagel,Truck,Driver_1148,1,4.23,Berlin,Offline
+1149,SF Express,Cargo Van,Driver_1149,6,3.85,Sydney,Offline
+1150,Blue Dart Express,Air Freight,Driver_1150,12,3.85,London,Available
+1151,UPS Logistics,Truck,Driver_1151,11,3.69,New York,Busy
+1152,DHL Express,Truck,Driver_1152,20,4.68,New York,Available
+1153,Maersk Logistics,Truck,Driver_1153,18,3.11,New York,Available
+1154,DB Schenker,Ship,Driver_1154,1,4.64,London,Available
+1155,XPO Logistics,Truck,Driver_1155,4,3.19,Singapore,Busy
+1156,C.H. Robinson,Cargo Van,Driver_1156,10,3.25,New York,Offline
+1157,Nippon Express,Air Freight,Driver_1157,14,3.45,London,Offline
+1158,Kuehne + Nagel,Air Freight,Driver_1158,20,4.71,New York,Available
+1159,SF Express,Cargo Van,Driver_1159,17,4.88,Berlin,Busy
+1160,Blue Dart Express,Truck,Driver_1160,19,3.62,Dubai,Busy
+1161,UPS Logistics,Truck,Driver_1161,13,3.56,New York,Busy
+1162,DHL Express,Air Freight,Driver_1162,15,4.49,Berlin,Busy
+1163,Maersk Logistics,Air Freight,Driver_1163,21,4.23,Dubai,Available
+1164,DB Schenker,Cargo Van,Driver_1164,22,4.38,Berlin,Available
+1165,XPO Logistics,Truck,Driver_1165,3,3.95,Dubai,Busy
+1166,C.H. Robinson,Truck,Driver_1166,11,4.5,Dubai,Available
+1167,Nippon Express,Cargo Van,Driver_1167,10,3.75,Toronto,Busy
+1168,Kuehne + Nagel,Truck,Driver_1168,17,3.68,Sydney,Offline
+1169,SF Express,Ship,Driver_1169,10,4.21,Mumbai,Available
+1170,Blue Dart Express,Air Freight,Driver_1170,15,4.86,London,Available
+1171,UPS Logistics,Ship,Driver_1171,8,4.86,Sydney,Offline
+1172,DHL Express,Ship,Driver_1172,5,4.91,Toronto,Offline
+1173,Maersk Logistics,Cargo Van,Driver_1173,9,4.09,Toronto,Busy
+1174,DB Schenker,Cargo Van,Driver_1174,13,3.87,Berlin,Busy
+1175,XPO Logistics,Truck,Driver_1175,24,4.78,Toronto,Busy
+1176,C.H. Robinson,Ship,Driver_1176,12,4.7,Sydney,Busy
+1177,Nippon Express,Cargo Van,Driver_1177,18,3.84,Berlin,Offline
+1178,Kuehne + Nagel,Truck,Driver_1178,4,3.39,London,Offline
+1179,SF Express,Truck,Driver_1179,16,4.19,Toronto,Offline
+1180,Blue Dart Express,Ship,Driver_1180,22,3.48,London,Offline
+1181,UPS Logistics,Air Freight,Driver_1181,5,4.68,Sydney,Available
+1182,DHL Express,Air Freight,Driver_1182,3,4.64,Toronto,Busy
+1183,Maersk Logistics,Cargo Van,Driver_1183,12,3.59,Singapore,Offline
+1184,DB Schenker,Cargo Van,Driver_1184,10,3.48,New York,Available
+1185,XPO Logistics,Cargo Van,Driver_1185,17,3.83,Mumbai,Offline
+1186,C.H. Robinson,Cargo Van,Driver_1186,3,4.94,Toronto,Busy
+1187,Nippon Express,Cargo Van,Driver_1187,10,4.99,New York,Offline
+1188,Kuehne + Nagel,Air Freight,Driver_1188,7,4.01,Sydney,Available
+1189,SF Express,Truck,Driver_1189,1,4.72,Singapore,Available
+1190,Blue Dart Express,Cargo Van,Driver_1190,21,4.0,Singapore,Available
+1191,UPS Logistics,Air Freight,Driver_1191,6,4.57,Sydney,Available
+1192,DHL Express,Cargo Van,Driver_1192,9,4.11,Dubai,Busy
+1193,Maersk Logistics,Cargo Van,Driver_1193,5,4.8,Sydney,Available
+1194,DB Schenker,Air Freight,Driver_1194,18,3.47,Dubai,Busy
+1195,XPO Logistics,Cargo Van,Driver_1195,1,4.94,Toronto,Offline
+1196,C.H. Robinson,Air Freight,Driver_1196,13,3.44,New York,Offline
+1197,Nippon Express,Air Freight,Driver_1197,3,4.16,Berlin,Available
+1198,Kuehne + Nagel,Air Freight,Driver_1198,4,3.43,Dubai,Available
+1199,SF Express,Cargo Van,Driver_1199,17,3.63,New York,Available
+1200,Blue Dart Express,Truck,Driver_1200,14,3.32,Toronto,Offline
+1201,UPS Logistics,Cargo Van,Driver_1201,21,3.81,Toronto,Available
+1202,DHL Express,Air Freight,Driver_1202,20,4.08,Toronto,Available
+1203,Maersk Logistics,Truck,Driver_1203,11,3.8,Sydney,Busy
+1204,DB Schenker,Truck,Driver_1204,7,4.78,Singapore,Offline
+1205,XPO Logistics,Cargo Van,Driver_1205,18,3.86,Toronto,Busy
+1206,C.H. Robinson,Truck,Driver_1206,24,3.71,Berlin,Offline
+1207,Nippon Express,Ship,Driver_1207,22,4.06,Dubai,Busy
+1208,Kuehne + Nagel,Truck,Driver_1208,5,3.78,London,Offline
+1209,SF Express,Air Freight,Driver_1209,10,4.17,Toronto,Available
+1210,Blue Dart Express,Ship,Driver_1210,6,4.02,Berlin,Busy
+1211,UPS Logistics,Ship,Driver_1211,23,4.61,New York,Offline
+1212,DHL Express,Air Freight,Driver_1212,16,3.61,London,Busy
+1213,Maersk Logistics,Truck,Driver_1213,19,4.12,London,Offline
+1214,DB Schenker,Cargo Van,Driver_1214,14,3.45,Berlin,Busy
+1215,XPO Logistics,Ship,Driver_1215,18,4.93,New York,Offline
+1216,C.H. Robinson,Ship,Driver_1216,23,4.86,London,Offline
+1217,Nippon Express,Truck,Driver_1217,1,3.78,Singapore,Offline
+1218,Kuehne + Nagel,Cargo Van,Driver_1218,19,4.31,Toronto,Busy
+1219,SF Express,Ship,Driver_1219,7,3.43,Mumbai,Offline
+1220,Blue Dart Express,Air Freight,Driver_1220,10,3.08,Dubai,Busy
+1221,UPS Logistics,Cargo Van,Driver_1221,24,4.24,Sydney,Offline
+1222,DHL Express,Ship,Driver_1222,7,3.53,London,Busy
+1223,Maersk Logistics,Truck,Driver_1223,23,3.27,Sydney,Busy
+1224,DB Schenker,Cargo Van,Driver_1224,6,3.97,Mumbai,Available
+1225,XPO Logistics,Cargo Van,Driver_1225,13,4.86,London,Available
+1226,C.H. Robinson,Ship,Driver_1226,14,4.32,Singapore,Busy
+1227,Nippon Express,Truck,Driver_1227,24,4.92,London,Offline
+1228,Kuehne + Nagel,Air Freight,Driver_1228,18,3.05,Dubai,Offline
+1229,SF Express,Air Freight,Driver_1229,12,3.72,New York,Offline
+1230,Blue Dart Express,Ship,Driver_1230,7,3.04,Dubai,Busy
+1231,UPS Logistics,Cargo Van,Driver_1231,1,4.32,London,Offline
+1232,DHL Express,Air Freight,Driver_1232,2,3.9,Dubai,Offline
+1233,Maersk Logistics,Cargo Van,Driver_1233,16,4.89,Berlin,Busy
+1234,DB Schenker,Air Freight,Driver_1234,20,3.16,Berlin,Busy
+1235,XPO Logistics,Air Freight,Driver_1235,15,4.96,Toronto,Available
+1236,C.H. Robinson,Truck,Driver_1236,8,3.84,Toronto,Available
+1237,Nippon Express,Air Freight,Driver_1237,16,3.89,Toronto,Offline
+1238,Kuehne + Nagel,Air Freight,Driver_1238,6,3.21,Singapore,Busy
+1239,SF Express,Truck,Driver_1239,13,4.43,Dubai,Busy
+1240,Blue Dart Express,Ship,Driver_1240,17,4.87,Dubai,Available
+1241,UPS Logistics,Cargo Van,Driver_1241,16,4.96,Dubai,Busy
+1242,DHL Express,Air Freight,Driver_1242,8,3.04,Toronto,Available
+1243,Maersk Logistics,Truck,Driver_1243,20,4.38,Singapore,Busy
+1244,DB Schenker,Air Freight,Driver_1244,9,5.0,Toronto,Offline
+1245,XPO Logistics,Air Freight,Driver_1245,5,4.21,Toronto,Offline
+1246,C.H. Robinson,Air Freight,Driver_1246,4,4.92,Mumbai,Busy
+1247,Nippon Express,Truck,Driver_1247,15,4.27,Dubai,Busy
+1248,Kuehne + Nagel,Cargo Van,Driver_1248,14,4.32,New York,Offline
+1249,SF Express,Truck,Driver_1249,18,3.49,Dubai,Offline
+1250,Blue Dart Express,Truck,Driver_1250,19,3.26,Sydney,Available
+1251,UPS Logistics,Truck,Driver_1251,21,3.46,Dubai,Busy
+1252,DHL Express,Truck,Driver_1252,19,4.55,Toronto,Offline
+1253,Maersk Logistics,Truck,Driver_1253,3,3.66,Toronto,Available
+1254,DB Schenker,Ship,Driver_1254,1,3.16,New York,Available
+1255,XPO Logistics,Truck,Driver_1255,6,4.73,Berlin,Offline
+1256,C.H. Robinson,Air Freight,Driver_1256,10,4.35,Toronto,Available
+1257,Nippon Express,Air Freight,Driver_1257,4,3.61,Dubai,Available
+1258,Kuehne + Nagel,Cargo Van,Driver_1258,21,4.62,Berlin,Busy
+1259,SF Express,Air Freight,Driver_1259,2,4.47,Sydney,Available
+1260,Blue Dart Express,Truck,Driver_1260,17,3.21,Toronto,Offline
+1261,UPS Logistics,Ship,Driver_1261,9,3.1,Toronto,Offline
+1262,DHL Express,Truck,Driver_1262,20,4.85,New York,Busy
+1263,Maersk Logistics,Ship,Driver_1263,14,4.08,Berlin,Offline
+1264,DB Schenker,Ship,Driver_1264,17,4.68,Mumbai,Offline
+1265,XPO Logistics,Truck,Driver_1265,15,3.6,New York,Offline
+1266,C.H. Robinson,Truck,Driver_1266,14,4.3,Mumbai,Offline
+1267,Nippon Express,Truck,Driver_1267,13,3.53,London,Offline
+1268,Kuehne + Nagel,Air Freight,Driver_1268,21,4.76,Dubai,Offline
+1269,SF Express,Cargo Van,Driver_1269,9,4.37,Toronto,Available
+1270,Blue Dart Express,Ship,Driver_1270,12,4.69,Berlin,Available
+1271,UPS Logistics,Air Freight,Driver_1271,2,3.5,London,Available
+1272,DHL Express,Cargo Van,Driver_1272,15,4.07,New York,Busy
+1273,Maersk Logistics,Truck,Driver_1273,21,4.25,Singapore,Offline
+1274,DB Schenker,Cargo Van,Driver_1274,9,3.53,Sydney,Busy
+1275,XPO Logistics,Cargo Van,Driver_1275,11,4.98,Toronto,Busy
+1276,C.H. Robinson,Ship,Driver_1276,7,4.67,Dubai,Available
+1277,Nippon Express,Truck,Driver_1277,12,4.73,London,Offline
+1278,Kuehne + Nagel,Truck,Driver_1278,11,3.87,Sydney,Offline
+1279,SF Express,Cargo Van,Driver_1279,19,4.27,Sydney,Available
+1280,Blue Dart Express,Air Freight,Driver_1280,9,3.28,Sydney,Busy
+1281,UPS Logistics,Ship,Driver_1281,4,3.0,Singapore,Offline
+1282,DHL Express,Truck,Driver_1282,11,3.56,Singapore,Available
+1283,Maersk Logistics,Cargo Van,Driver_1283,14,3.83,Singapore,Busy
+1284,DB Schenker,Cargo Van,Driver_1284,20,3.86,Berlin,Busy
+1285,XPO Logistics,Truck,Driver_1285,19,3.14,London,Busy
+1286,C.H. Robinson,Air Freight,Driver_1286,2,4.12,Mumbai,Available
+1287,Nippon Express,Air Freight,Driver_1287,21,4.26,Mumbai,Available
+1288,Kuehne + Nagel,Air Freight,Driver_1288,6,4.34,Singapore,Busy
+1289,SF Express,Ship,Driver_1289,21,4.88,Singapore,Offline
+1290,Blue Dart Express,Ship,Driver_1290,10,3.28,Toronto,Busy
+1291,UPS Logistics,Ship,Driver_1291,22,4.18,New York,Available
+1292,DHL Express,Cargo Van,Driver_1292,19,4.07,Dubai,Busy
+1293,Maersk Logistics,Air Freight,Driver_1293,17,3.59,New York,Offline
+1294,DB Schenker,Ship,Driver_1294,16,3.5,Toronto,Available
+1295,XPO Logistics,Truck,Driver_1295,9,3.3,Sydney,Offline
+1296,C.H. Robinson,Truck,Driver_1296,16,3.96,Berlin,Available
+1297,Nippon Express,Ship,Driver_1297,14,4.78,Toronto,Available
+1298,Kuehne + Nagel,Air Freight,Driver_1298,22,3.92,New York,Offline
+1299,SF Express,Truck,Driver_1299,16,3.46,London,Available
+1300,Blue Dart Express,Cargo Van,Driver_1300,23,4.86,New York,Busy
+1301,UPS Logistics,Ship,Driver_1301,23,4.58,New York,Busy
+1302,DHL Express,Cargo Van,Driver_1302,7,4.7,Mumbai,Available
+1303,Maersk Logistics,Ship,Driver_1303,1,3.79,New York,Available
+1304,DB Schenker,Truck,Driver_1304,1,4.5,London,Offline
+1305,XPO Logistics,Ship,Driver_1305,4,3.57,Dubai,Offline
+1306,C.H. Robinson,Cargo Van,Driver_1306,6,3.87,Berlin,Offline
+1307,Nippon Express,Ship,Driver_1307,18,3.92,Mumbai,Busy
+1308,Kuehne + Nagel,Cargo Van,Driver_1308,10,3.95,Dubai,Available
+1309,SF Express,Truck,Driver_1309,21,3.46,Dubai,Available
+1310,Blue Dart Express,Truck,Driver_1310,9,4.58,Sydney,Busy
+1311,UPS Logistics,Air Freight,Driver_1311,17,4.64,Dubai,Available
+1312,DHL Express,Ship,Driver_1312,20,3.12,Berlin,Offline
+1313,Maersk Logistics,Ship,Driver_1313,20,4.12,London,Offline
+1314,DB Schenker,Air Freight,Driver_1314,19,3.93,Dubai,Busy
+1315,XPO Logistics,Air Freight,Driver_1315,3,4.72,Berlin,Available
+1316,C.H. Robinson,Cargo Van,Driver_1316,10,4.53,Toronto,Offline
+1317,Nippon Express,Cargo Van,Driver_1317,17,4.33,Singapore,Busy
+1318,Kuehne + Nagel,Ship,Driver_1318,12,3.87,Dubai,Busy
+1319,SF Express,Cargo Van,Driver_1319,20,4.45,Dubai,Offline
+1320,Blue Dart Express,Cargo Van,Driver_1320,10,4.07,Dubai,Offline
+1321,UPS Logistics,Ship,Driver_1321,2,3.93,Berlin,Offline
+1322,DHL Express,Air Freight,Driver_1322,19,4.46,London,Busy
+1323,Maersk Logistics,Truck,Driver_1323,4,3.32,Toronto,Available
+1324,DB Schenker,Air Freight,Driver_1324,11,4.1,Dubai,Available
+1325,XPO Logistics,Cargo Van,Driver_1325,24,4.61,Singapore,Available
+1326,C.H. Robinson,Truck,Driver_1326,14,3.95,Mumbai,Available
+1327,Nippon Express,Air Freight,Driver_1327,4,4.22,Mumbai,Available
+1328,Kuehne + Nagel,Truck,Driver_1328,15,4.94,Singapore,Busy
+1329,SF Express,Air Freight,Driver_1329,17,4.39,Sydney,Offline
+1330,Blue Dart Express,Cargo Van,Driver_1330,24,3.78,Sydney,Offline
+1331,UPS Logistics,Truck,Driver_1331,4,3.11,Berlin,Available
+1332,DHL Express,Truck,Driver_1332,15,3.05,Toronto,Offline
+1333,Maersk Logistics,Ship,Driver_1333,2,4.72,Toronto,Available
+1334,DB Schenker,Ship,Driver_1334,24,3.58,Dubai,Available
+1335,XPO Logistics,Air Freight,Driver_1335,1,3.96,Singapore,Offline
+1336,C.H. Robinson,Ship,Driver_1336,6,4.36,New York,Offline
+1337,Nippon Express,Ship,Driver_1337,18,3.06,Mumbai,Busy
+1338,Kuehne + Nagel,Truck,Driver_1338,15,4.65,Mumbai,Offline
+1339,SF Express,Ship,Driver_1339,23,4.75,Mumbai,Busy
+1340,Blue Dart Express,Truck,Driver_1340,7,3.1,London,Offline
+1341,UPS Logistics,Ship,Driver_1341,8,3.0,Berlin,Available
+1342,DHL Express,Truck,Driver_1342,23,3.92,Sydney,Available
+1343,Maersk Logistics,Ship,Driver_1343,7,4.52,Sydney,Busy
+1344,DB Schenker,Air Freight,Driver_1344,3,3.45,Dubai,Available
+1345,XPO Logistics,Ship,Driver_1345,11,4.05,Dubai,Available
+1346,C.H. Robinson,Truck,Driver_1346,20,4.13,Berlin,Busy
+1347,Nippon Express,Air Freight,Driver_1347,17,4.01,Sydney,Offline
+1348,Kuehne + Nagel,Truck,Driver_1348,14,4.62,Dubai,Available
+1349,SF Express,Truck,Driver_1349,19,4.49,Singapore,Available
+1350,Blue Dart Express,Cargo Van,Driver_1350,24,4.2,London,Offline
+1351,UPS Logistics,Air Freight,Driver_1351,15,3.27,Mumbai,Available
+1352,DHL Express,Cargo Van,Driver_1352,23,4.74,Mumbai,Available
+1353,Maersk Logistics,Cargo Van,Driver_1353,1,4.59,Singapore,Available
+1354,DB Schenker,Truck,Driver_1354,4,4.98,Singapore,Busy
+1355,XPO Logistics,Cargo Van,Driver_1355,6,3.0,Mumbai,Available
+1356,C.H. Robinson,Truck,Driver_1356,13,4.98,Sydney,Available
+1357,Nippon Express,Ship,Driver_1357,10,3.46,Berlin,Offline
+1358,Kuehne + Nagel,Ship,Driver_1358,19,3.23,Berlin,Busy
+1359,SF Express,Air Freight,Driver_1359,24,4.06,London,Offline
+1360,Blue Dart Express,Ship,Driver_1360,21,3.45,London,Available
+1361,UPS Logistics,Cargo Van,Driver_1361,11,4.74,Dubai,Busy
+1362,DHL Express,Ship,Driver_1362,4,4.03,Singapore,Available
+1363,Maersk Logistics,Air Freight,Driver_1363,19,3.8,Berlin,Available
+1364,DB Schenker,Ship,Driver_1364,7,4.66,Dubai,Available
+1365,XPO Logistics,Cargo Van,Driver_1365,4,3.44,Singapore,Available
+1366,C.H. Robinson,Air Freight,Driver_1366,2,3.91,Mumbai,Offline
+1367,Nippon Express,Ship,Driver_1367,12,4.75,Sydney,Available
+1368,Kuehne + Nagel,Ship,Driver_1368,18,3.62,Dubai,Busy
+1369,SF Express,Air Freight,Driver_1369,4,3.71,Mumbai,Busy
+1370,Blue Dart Express,Ship,Driver_1370,23,4.12,Mumbai,Busy
+1371,UPS Logistics,Cargo Van,Driver_1371,7,4.85,London,Offline
+1372,DHL Express,Ship,Driver_1372,6,3.12,Singapore,Busy
+1373,Maersk Logistics,Ship,Driver_1373,9,4.3,New York,Offline
+1374,DB Schenker,Ship,Driver_1374,24,3.81,Berlin,Busy
+1375,XPO Logistics,Air Freight,Driver_1375,1,4.08,Mumbai,Offline
+1376,C.H. Robinson,Air Freight,Driver_1376,7,3.43,Singapore,Busy
+1377,Nippon Express,Air Freight,Driver_1377,7,4.27,Sydney,Offline
+1378,Kuehne + Nagel,Cargo Van,Driver_1378,19,4.88,Berlin,Available
+1379,SF Express,Truck,Driver_1379,24,4.74,Mumbai,Offline
+1380,Blue Dart Express,Ship,Driver_1380,1,4.96,London,Offline
+1381,UPS Logistics,Cargo Van,Driver_1381,10,4.9,Mumbai,Busy
+1382,DHL Express,Truck,Driver_1382,8,3.32,New York,Available
+1383,Maersk Logistics,Truck,Driver_1383,20,3.47,New York,Busy
+1384,DB Schenker,Truck,Driver_1384,24,3.38,New York,Busy
+1385,XPO Logistics,Cargo Van,Driver_1385,1,4.71,Toronto,Busy
+1386,C.H. Robinson,Ship,Driver_1386,12,4.88,Dubai,Available
+1387,Nippon Express,Cargo Van,Driver_1387,6,3.88,Singapore,Offline
+1388,Kuehne + Nagel,Air Freight,Driver_1388,23,3.97,Singapore,Busy
+1389,SF Express,Ship,Driver_1389,14,4.45,Toronto,Offline
+1390,Blue Dart Express,Cargo Van,Driver_1390,5,4.63,New York,Available
+1391,UPS Logistics,Truck,Driver_1391,1,4.82,Toronto,Offline
+1392,DHL Express,Cargo Van,Driver_1392,2,3.24,Sydney,Offline
+1393,Maersk Logistics,Truck,Driver_1393,21,4.22,Sydney,Busy
+1394,DB Schenker,Ship,Driver_1394,17,4.39,Berlin,Busy
+1395,XPO Logistics,Ship,Driver_1395,22,4.38,London,Available
+1396,C.H. Robinson,Truck,Driver_1396,18,3.84,Berlin,Offline
+1397,Nippon Express,Air Freight,Driver_1397,18,3.68,Dubai,Offline
+1398,Kuehne + Nagel,Ship,Driver_1398,12,4.84,London,Available
+1399,SF Express,Truck,Driver_1399,19,3.37,Toronto,Available
+1400,Blue Dart Express,Air Freight,Driver_1400,21,3.98,Mumbai,Available
+1401,UPS Logistics,Truck,Driver_1401,19,4.27,Singapore,Available
+1402,DHL Express,Cargo Van,Driver_1402,20,3.01,Toronto,Busy
+1403,Maersk Logistics,Truck,Driver_1403,20,3.7,Berlin,Offline
+1404,DB Schenker,Ship,Driver_1404,24,4.55,Singapore,Offline
+1405,XPO Logistics,Cargo Van,Driver_1405,12,4.93,Berlin,Busy
+1406,C.H. Robinson,Cargo Van,Driver_1406,21,4.6,Singapore,Busy
+1407,Nippon Express,Air Freight,Driver_1407,8,3.92,Mumbai,Busy
+1408,Kuehne + Nagel,Cargo Van,Driver_1408,3,3.58,Singapore,Available
+1409,SF Express,Cargo Van,Driver_1409,5,3.35,Dubai,Available
+1410,Blue Dart Express,Truck,Driver_1410,24,4.12,Dubai,Offline
+1411,UPS Logistics,Ship,Driver_1411,13,3.38,Berlin,Available
+1412,DHL Express,Truck,Driver_1412,4,4.46,Toronto,Busy
+1413,Maersk Logistics,Cargo Van,Driver_1413,17,4.25,New York,Offline
+1414,DB Schenker,Air Freight,Driver_1414,14,3.54,Toronto,Offline
+1415,XPO Logistics,Ship,Driver_1415,15,4.85,London,Available
+1416,C.H. Robinson,Cargo Van,Driver_1416,6,3.93,Dubai,Offline
+1417,Nippon Express,Truck,Driver_1417,23,3.23,New York,Offline
+1418,Kuehne + Nagel,Air Freight,Driver_1418,10,4.99,Mumbai,Offline
+1419,SF Express,Truck,Driver_1419,6,3.02,Sydney,Offline
+1420,Blue Dart Express,Ship,Driver_1420,17,4.81,Sydney,Busy
+1421,UPS Logistics,Air Freight,Driver_1421,21,4.83,Singapore,Busy
+1422,DHL Express,Cargo Van,Driver_1422,18,3.96,New York,Offline
+1423,Maersk Logistics,Truck,Driver_1423,24,4.39,Dubai,Busy
+1424,DB Schenker,Truck,Driver_1424,14,4.53,Mumbai,Offline
+1425,XPO Logistics,Air Freight,Driver_1425,3,3.4,Sydney,Available
+1426,C.H. Robinson,Air Freight,Driver_1426,8,3.49,London,Offline
+1427,Nippon Express,Ship,Driver_1427,14,4.33,London,Busy
+1428,Kuehne + Nagel,Cargo Van,Driver_1428,21,3.14,Dubai,Available
+1429,SF Express,Ship,Driver_1429,6,3.27,Mumbai,Offline
+1430,Blue Dart Express,Truck,Driver_1430,7,4.17,Singapore,Available
+1431,UPS Logistics,Air Freight,Driver_1431,6,3.67,Mumbai,Busy
+1432,DHL Express,Air Freight,Driver_1432,15,3.43,Sydney,Available
+1433,Maersk Logistics,Ship,Driver_1433,2,3.55,Berlin,Available
+1434,DB Schenker,Ship,Driver_1434,21,3.99,Singapore,Busy
+1435,XPO Logistics,Cargo Van,Driver_1435,10,4.16,Dubai,Available
+1436,C.H. Robinson,Air Freight,Driver_1436,5,4.84,Berlin,Busy
+1437,Nippon Express,Truck,Driver_1437,1,3.77,Toronto,Offline
+1438,Kuehne + Nagel,Ship,Driver_1438,1,4.75,Berlin,Busy
+1439,SF Express,Cargo Van,Driver_1439,9,3.86,New York,Available
+1440,Blue Dart Express,Air Freight,Driver_1440,12,3.4,Toronto,Offline
+1441,UPS Logistics,Truck,Driver_1441,13,3.37,New York,Busy
+1442,DHL Express,Air Freight,Driver_1442,19,4.1,Toronto,Offline
+1443,Maersk Logistics,Truck,Driver_1443,15,3.08,Singapore,Available
+1444,DB Schenker,Air Freight,Driver_1444,22,4.92,Sydney,Busy
+1445,XPO Logistics,Truck,Driver_1445,22,3.28,Berlin,Busy
+1446,C.H. Robinson,Cargo Van,Driver_1446,6,4.46,Sydney,Offline
+1447,Nippon Express,Truck,Driver_1447,4,3.95,Dubai,Offline
+1448,Kuehne + Nagel,Cargo Van,Driver_1448,1,4.37,New York,Busy
+1449,SF Express,Truck,Driver_1449,9,4.57,Singapore,Busy
+1450,Blue Dart Express,Truck,Driver_1450,10,3.74,London,Available
+1451,UPS Logistics,Ship,Driver_1451,2,3.21,Toronto,Available
+1452,DHL Express,Truck,Driver_1452,4,3.63,Sydney,Available
+1453,Maersk Logistics,Air Freight,Driver_1453,18,3.84,Sydney,Busy
+1454,DB Schenker,Air Freight,Driver_1454,24,4.37,London,Offline
+1455,XPO Logistics,Air Freight,Driver_1455,9,3.56,London,Available
+1456,C.H. Robinson,Air Freight,Driver_1456,8,4.06,Mumbai,Busy
+1457,Nippon Express,Cargo Van,Driver_1457,11,4.63,Mumbai,Busy
+1458,Kuehne + Nagel,Cargo Van,Driver_1458,5,4.04,Sydney,Offline
+1459,SF Express,Ship,Driver_1459,5,4.74,London,Busy
+1460,Blue Dart Express,Cargo Van,Driver_1460,8,4.61,Sydney,Offline
+1461,UPS Logistics,Truck,Driver_1461,20,4.16,Berlin,Busy
+1462,DHL Express,Cargo Van,Driver_1462,20,3.22,Sydney,Offline
+1463,Maersk Logistics,Ship,Driver_1463,5,4.84,Dubai,Busy
+1464,DB Schenker,Ship,Driver_1464,6,3.44,Dubai,Busy
+1465,XPO Logistics,Truck,Driver_1465,7,3.49,Toronto,Offline
+1466,C.H. Robinson,Ship,Driver_1466,21,4.91,London,Offline
+1467,Nippon Express,Ship,Driver_1467,19,3.95,Sydney,Available
+1468,Kuehne + Nagel,Air Freight,Driver_1468,20,4.88,New York,Busy
+1469,SF Express,Cargo Van,Driver_1469,10,3.89,Dubai,Available
+1470,Blue Dart Express,Cargo Van,Driver_1470,6,3.01,London,Available
+1471,UPS Logistics,Air Freight,Driver_1471,3,4.67,Sydney,Available
+1472,DHL Express,Truck,Driver_1472,17,4.44,Mumbai,Available
+1473,Maersk Logistics,Cargo Van,Driver_1473,11,3.27,Singapore,Available
+1474,DB Schenker,Truck,Driver_1474,8,4.97,Berlin,Busy
+1475,XPO Logistics,Ship,Driver_1475,16,3.54,Singapore,Busy
+1476,C.H. Robinson,Truck,Driver_1476,8,4.03,Dubai,Available
+1477,Nippon Express,Truck,Driver_1477,2,3.37,Toronto,Busy
+1478,Kuehne + Nagel,Ship,Driver_1478,12,3.67,London,Offline
+1479,SF Express,Cargo Van,Driver_1479,16,3.67,Mumbai,Available
+1480,Blue Dart Express,Truck,Driver_1480,7,4.27,Berlin,Available
+1481,UPS Logistics,Ship,Driver_1481,16,4.25,Sydney,Available
+1482,DHL Express,Air Freight,Driver_1482,12,3.42,Berlin,Offline
+1483,Maersk Logistics,Truck,Driver_1483,18,4.74,London,Busy
+1484,DB Schenker,Cargo Van,Driver_1484,23,4.5,New York,Busy
+1485,XPO Logistics,Cargo Van,Driver_1485,14,3.19,Mumbai,Offline
+1486,C.H. Robinson,Cargo Van,Driver_1486,3,3.03,Toronto,Available
+1487,Nippon Express,Truck,Driver_1487,9,3.92,Toronto,Busy
+1488,Kuehne + Nagel,Ship,Driver_1488,4,3.89,Toronto,Offline
+1489,SF Express,Truck,Driver_1489,16,4.27,Sydney,Offline
+1490,Blue Dart Express,Cargo Van,Driver_1490,9,4.12,New York,Busy
+1491,UPS Logistics,Air Freight,Driver_1491,2,4.71,Berlin,Available
+1492,DHL Express,Cargo Van,Driver_1492,14,3.92,Toronto,Available
+1493,Maersk Logistics,Ship,Driver_1493,10,3.76,Singapore,Offline
+1494,DB Schenker,Air Freight,Driver_1494,9,3.9,Berlin,Available
+1495,XPO Logistics,Cargo Van,Driver_1495,23,4.58,Toronto,Offline
+1496,C.H. Robinson,Air Freight,Driver_1496,6,4.65,Sydney,Available
+1497,Nippon Express,Cargo Van,Driver_1497,13,3.51,New York,Offline
+1498,Kuehne + Nagel,Cargo Van,Driver_1498,10,3.87,Berlin,Offline
+1499,SF Express,Air Freight,Driver_1499,19,3.87,Mumbai,Available
+1500,Blue Dart Express,Cargo Van,Driver_1500,1,3.95,Dubai,Available
+1501,UPS Logistics,Truck,Driver_1501,19,4.52,Sydney,Offline
+1502,DHL Express,Ship,Driver_1502,10,3.22,Mumbai,Busy
+1503,Maersk Logistics,Cargo Van,Driver_1503,24,4.65,Toronto,Offline
+1504,DB Schenker,Air Freight,Driver_1504,2,3.42,London,Offline
+1505,XPO Logistics,Air Freight,Driver_1505,3,4.61,New York,Offline
+1506,C.H. Robinson,Cargo Van,Driver_1506,14,4.79,Sydney,Offline
+1507,Nippon Express,Cargo Van,Driver_1507,16,4.65,Sydney,Available
+1508,Kuehne + Nagel,Ship,Driver_1508,18,4.25,Mumbai,Available
+1509,SF Express,Air Freight,Driver_1509,4,4.17,Toronto,Available
+1510,Blue Dart Express,Cargo Van,Driver_1510,16,4.73,New York,Available
+1511,UPS Logistics,Air Freight,Driver_1511,3,3.58,New York,Busy
+1512,DHL Express,Ship,Driver_1512,18,3.96,Sydney,Offline
+1513,Maersk Logistics,Truck,Driver_1513,6,4.85,London,Available
+1514,DB Schenker,Cargo Van,Driver_1514,10,4.18,Sydney,Offline
+1515,XPO Logistics,Air Freight,Driver_1515,19,3.03,Singapore,Offline
+1516,C.H. Robinson,Air Freight,Driver_1516,3,4.02,Dubai,Busy
+1517,Nippon Express,Ship,Driver_1517,23,3.09,Dubai,Offline
+1518,Kuehne + Nagel,Air Freight,Driver_1518,2,4.8,Mumbai,Offline
+1519,SF Express,Ship,Driver_1519,6,4.23,Singapore,Busy
+1520,Blue Dart Express,Air Freight,Driver_1520,6,4.72,Berlin,Available
+1521,UPS Logistics,Cargo Van,Driver_1521,13,4.13,Singapore,Busy
+1522,DHL Express,Air Freight,Driver_1522,2,3.11,London,Offline
+1523,Maersk Logistics,Air Freight,Driver_1523,7,3.07,Mumbai,Busy
+1524,DB Schenker,Cargo Van,Driver_1524,3,4.45,London,Busy
+1525,XPO Logistics,Ship,Driver_1525,10,3.94,Berlin,Busy
+1526,C.H. Robinson,Air Freight,Driver_1526,4,4.77,Dubai,Offline
+1527,Nippon Express,Truck,Driver_1527,16,4.19,Toronto,Busy
+1528,Kuehne + Nagel,Air Freight,Driver_1528,17,4.01,London,Offline
+1529,SF Express,Ship,Driver_1529,11,4.91,London,Offline
+1530,Blue Dart Express,Air Freight,Driver_1530,13,4.18,Dubai,Offline
+1531,UPS Logistics,Ship,Driver_1531,9,4.92,Singapore,Offline
+1532,DHL Express,Truck,Driver_1532,20,4.76,Singapore,Offline
+1533,Maersk Logistics,Truck,Driver_1533,12,3.21,New York,Offline
+1534,DB Schenker,Air Freight,Driver_1534,19,4.24,Mumbai,Offline
+1535,XPO Logistics,Air Freight,Driver_1535,21,3.24,Dubai,Busy
+1536,C.H. Robinson,Cargo Van,Driver_1536,6,3.65,New York,Available
+1537,Nippon Express,Truck,Driver_1537,6,4.88,Dubai,Available
+1538,Kuehne + Nagel,Truck,Driver_1538,23,4.96,New York,Available
+1539,SF Express,Truck,Driver_1539,19,4.87,Toronto,Busy
+1540,Blue Dart Express,Ship,Driver_1540,16,3.46,Sydney,Offline
+1541,UPS Logistics,Air Freight,Driver_1541,1,4.31,New York,Available
+1542,DHL Express,Truck,Driver_1542,17,3.5,Toronto,Available
+1543,Maersk Logistics,Ship,Driver_1543,11,3.34,Singapore,Available
+1544,DB Schenker,Air Freight,Driver_1544,20,3.41,Toronto,Available
+1545,XPO Logistics,Truck,Driver_1545,1,4.73,Berlin,Available
+1546,C.H. Robinson,Ship,Driver_1546,16,3.35,Singapore,Offline
+1547,Nippon Express,Cargo Van,Driver_1547,21,4.79,Toronto,Offline
+1548,Kuehne + Nagel,Truck,Driver_1548,10,3.09,Singapore,Offline
+1549,SF Express,Ship,Driver_1549,9,3.3,Dubai,Available
+1550,Blue Dart Express,Air Freight,Driver_1550,12,3.04,London,Offline
+1551,UPS Logistics,Air Freight,Driver_1551,5,3.77,Toronto,Busy
+1552,DHL Express,Truck,Driver_1552,9,3.26,Sydney,Offline
+1553,Maersk Logistics,Cargo Van,Driver_1553,2,4.69,Singapore,Offline
+1554,DB Schenker,Ship,Driver_1554,2,4.9,Toronto,Busy
+1555,XPO Logistics,Ship,Driver_1555,5,3.55,Berlin,Offline
+1556,C.H. Robinson,Air Freight,Driver_1556,15,3.08,New York,Offline
+1557,Nippon Express,Ship,Driver_1557,17,3.53,London,Offline
+1558,Kuehne + Nagel,Air Freight,Driver_1558,17,4.29,New York,Available
+1559,SF Express,Cargo Van,Driver_1559,1,3.23,Mumbai,Available
+1560,Blue Dart Express,Truck,Driver_1560,13,4.61,Singapore,Busy
+1561,UPS Logistics,Ship,Driver_1561,2,3.03,Sydney,Available
+1562,DHL Express,Ship,Driver_1562,4,3.16,Mumbai,Available
+1563,Maersk Logistics,Truck,Driver_1563,16,3.64,New York,Busy
+1564,DB Schenker,Truck,Driver_1564,19,3.32,Toronto,Available
+1565,XPO Logistics,Air Freight,Driver_1565,20,4.4,Mumbai,Offline
+1566,C.H. Robinson,Truck,Driver_1566,21,4.17,New York,Available
+1567,Nippon Express,Cargo Van,Driver_1567,18,3.86,Dubai,Busy
+1568,Kuehne + Nagel,Truck,Driver_1568,8,3.44,London,Busy
+1569,SF Express,Cargo Van,Driver_1569,13,3.32,Toronto,Busy
+1570,Blue Dart Express,Cargo Van,Driver_1570,19,3.47,Dubai,Available
+1571,UPS Logistics,Truck,Driver_1571,20,3.71,London,Busy
+1572,DHL Express,Cargo Van,Driver_1572,10,4.98,New York,Offline
+1573,Maersk Logistics,Cargo Van,Driver_1573,24,3.89,Sydney,Offline
+1574,DB Schenker,Cargo Van,Driver_1574,22,4.5,Sydney,Available
+1575,XPO Logistics,Ship,Driver_1575,4,3.2,Singapore,Busy
+1576,C.H. Robinson,Truck,Driver_1576,21,3.8,Berlin,Offline
+1577,Nippon Express,Ship,Driver_1577,18,4.19,Singapore,Available
+1578,Kuehne + Nagel,Cargo Van,Driver_1578,23,4.68,Mumbai,Offline
+1579,SF Express,Cargo Van,Driver_1579,7,4.19,New York,Busy
+1580,Blue Dart Express,Truck,Driver_1580,6,3.92,Mumbai,Busy
+1581,UPS Logistics,Cargo Van,Driver_1581,1,4.08,Berlin,Available
+1582,DHL Express,Truck,Driver_1582,5,4.34,New York,Available
+1583,Maersk Logistics,Air Freight,Driver_1583,22,4.52,London,Offline
+1584,DB Schenker,Truck,Driver_1584,11,4.45,London,Available
+1585,XPO Logistics,Air Freight,Driver_1585,9,4.88,Singapore,Available
+1586,C.H. Robinson,Air Freight,Driver_1586,18,3.87,Dubai,Available
+1587,Nippon Express,Truck,Driver_1587,15,4.11,Berlin,Busy
+1588,Kuehne + Nagel,Cargo Van,Driver_1588,4,3.36,London,Offline
+1589,SF Express,Cargo Van,Driver_1589,21,4.65,Singapore,Offline
+1590,Blue Dart Express,Truck,Driver_1590,7,3.37,London,Busy
+1591,UPS Logistics,Truck,Driver_1591,4,4.37,Mumbai,Available
+1592,DHL Express,Truck,Driver_1592,7,4.43,Sydney,Busy
+1593,Maersk Logistics,Cargo Van,Driver_1593,24,4.43,Singapore,Offline
+1594,DB Schenker,Cargo Van,Driver_1594,2,4.52,Toronto,Busy
+1595,XPO Logistics,Truck,Driver_1595,19,4.95,Berlin,Available
+1596,C.H. Robinson,Truck,Driver_1596,21,4.63,Berlin,Available
+1597,Nippon Express,Truck,Driver_1597,5,3.53,London,Offline
+1598,Kuehne + Nagel,Cargo Van,Driver_1598,16,4.07,Berlin,Offline
+1599,SF Express,Ship,Driver_1599,23,3.24,Sydney,Busy
+1600,Blue Dart Express,Cargo Van,Driver_1600,15,4.78,London,Offline
+1601,UPS Logistics,Cargo Van,Driver_1601,14,4.65,Sydney,Busy
+1602,DHL Express,Cargo Van,Driver_1602,9,3.63,Toronto,Busy
+1603,Maersk Logistics,Cargo Van,Driver_1603,4,4.56,Toronto,Busy
+1604,DB Schenker,Truck,Driver_1604,10,4.47,Dubai,Available
+1605,XPO Logistics,Cargo Van,Driver_1605,15,3.45,Singapore,Busy
+1606,C.H. Robinson,Air Freight,Driver_1606,7,3.25,London,Busy
+1607,Nippon Express,Truck,Driver_1607,22,3.24,Berlin,Offline
+1608,Kuehne + Nagel,Air Freight,Driver_1608,20,3.13,Mumbai,Available
+1609,SF Express,Ship,Driver_1609,12,3.54,London,Busy
+1610,Blue Dart Express,Ship,Driver_1610,4,4.13,Berlin,Offline
+1611,UPS Logistics,Cargo Van,Driver_1611,5,3.46,Singapore,Available
+1612,DHL Express,Cargo Van,Driver_1612,4,4.43,Sydney,Offline
+1613,Maersk Logistics,Ship,Driver_1613,12,3.68,Dubai,Available
+1614,DB Schenker,Air Freight,Driver_1614,1,4.79,Dubai,Available
+1615,XPO Logistics,Cargo Van,Driver_1615,19,3.79,Singapore,Available
+1616,C.H. Robinson,Cargo Van,Driver_1616,13,3.21,London,Available
+1617,Nippon Express,Ship,Driver_1617,9,3.56,Berlin,Busy
+1618,Kuehne + Nagel,Air Freight,Driver_1618,22,4.75,New York,Offline
+1619,SF Express,Cargo Van,Driver_1619,13,4.71,Singapore,Busy
+1620,Blue Dart Express,Truck,Driver_1620,12,3.75,Dubai,Offline
+1621,UPS Logistics,Ship,Driver_1621,11,3.28,Berlin,Offline
+1622,DHL Express,Ship,Driver_1622,13,3.14,Dubai,Available
+1623,Maersk Logistics,Air Freight,Driver_1623,6,3.94,Toronto,Offline
+1624,DB Schenker,Ship,Driver_1624,1,3.29,Dubai,Busy
+1625,XPO Logistics,Air Freight,Driver_1625,21,3.84,New York,Busy
+1626,C.H. Robinson,Air Freight,Driver_1626,14,4.98,Mumbai,Busy
+1627,Nippon Express,Air Freight,Driver_1627,5,4.14,Toronto,Available
+1628,Kuehne + Nagel,Cargo Van,Driver_1628,6,3.61,Singapore,Offline
+1629,SF Express,Ship,Driver_1629,18,4.69,Sydney,Offline
+1630,Blue Dart Express,Truck,Driver_1630,10,4.59,Singapore,Busy
+1631,UPS Logistics,Cargo Van,Driver_1631,7,4.64,Dubai,Busy
+1632,DHL Express,Truck,Driver_1632,10,3.52,New York,Offline
+1633,Maersk Logistics,Truck,Driver_1633,5,4.33,London,Busy
+1634,DB Schenker,Truck,Driver_1634,18,4.55,London,Available
+1635,XPO Logistics,Ship,Driver_1635,16,4.0,Toronto,Available
+1636,C.H. Robinson,Truck,Driver_1636,23,4.57,Mumbai,Available
+1637,Nippon Express,Cargo Van,Driver_1637,17,4.99,London,Busy
+1638,Kuehne + Nagel,Air Freight,Driver_1638,13,3.71,Singapore,Busy
+1639,SF Express,Air Freight,Driver_1639,22,3.47,Dubai,Offline
+1640,Blue Dart Express,Air Freight,Driver_1640,19,3.33,Mumbai,Available
+1641,UPS Logistics,Truck,Driver_1641,1,4.84,Sydney,Available
+1642,DHL Express,Air Freight,Driver_1642,17,4.72,Mumbai,Busy
+1643,Maersk Logistics,Truck,Driver_1643,3,3.44,Mumbai,Busy
+1644,DB Schenker,Truck,Driver_1644,16,4.87,Singapore,Offline
+1645,XPO Logistics,Air Freight,Driver_1645,7,3.78,New York,Busy
+1646,C.H. Robinson,Ship,Driver_1646,16,4.21,New York,Offline
+1647,Nippon Express,Air Freight,Driver_1647,12,4.98,Sydney,Offline
+1648,Kuehne + Nagel,Truck,Driver_1648,8,4.76,Berlin,Available
+1649,SF Express,Cargo Van,Driver_1649,3,4.26,Sydney,Available
+1650,Blue Dart Express,Cargo Van,Driver_1650,1,3.03,Dubai,Busy
+1651,UPS Logistics,Air Freight,Driver_1651,2,4.12,Dubai,Busy
+1652,DHL Express,Truck,Driver_1652,21,4.66,Berlin,Available
+1653,Maersk Logistics,Air Freight,Driver_1653,5,3.3,London,Offline
+1654,DB Schenker,Ship,Driver_1654,20,4.32,Toronto,Busy
+1655,XPO Logistics,Air Freight,Driver_1655,17,4.86,Mumbai,Available
+1656,C.H. Robinson,Truck,Driver_1656,13,4.52,London,Available
+1657,Nippon Express,Truck,Driver_1657,23,4.33,New York,Available
+1658,Kuehne + Nagel,Truck,Driver_1658,20,3.66,Dubai,Available
+1659,SF Express,Ship,Driver_1659,22,3.53,Berlin,Offline
+1660,Blue Dart Express,Cargo Van,Driver_1660,18,3.96,Berlin,Busy
+1661,UPS Logistics,Ship,Driver_1661,20,3.27,Toronto,Busy
+1662,DHL Express,Cargo Van,Driver_1662,15,4.39,London,Available
+1663,Maersk Logistics,Cargo Van,Driver_1663,23,4.26,Dubai,Available
+1664,DB Schenker,Air Freight,Driver_1664,4,4.56,London,Busy
+1665,XPO Logistics,Truck,Driver_1665,17,4.41,Berlin,Offline
+1666,C.H. Robinson,Air Freight,Driver_1666,19,4.38,Dubai,Offline
+1667,Nippon Express,Ship,Driver_1667,5,4.25,Berlin,Busy
+1668,Kuehne + Nagel,Air Freight,Driver_1668,17,3.13,Berlin,Available
+1669,SF Express,Air Freight,Driver_1669,5,4.8,Singapore,Busy
+1670,Blue Dart Express,Truck,Driver_1670,12,4.25,London,Available
+1671,UPS Logistics,Cargo Van,Driver_1671,4,4.98,London,Busy
+1672,DHL Express,Cargo Van,Driver_1672,18,4.5,Sydney,Busy
+1673,Maersk Logistics,Air Freight,Driver_1673,1,3.78,New York,Offline
+1674,DB Schenker,Cargo Van,Driver_1674,16,3.07,Toronto,Available
+1675,XPO Logistics,Air Freight,Driver_1675,22,3.7,Mumbai,Offline
+1676,C.H. Robinson,Cargo Van,Driver_1676,21,3.77,Dubai,Offline
+1677,Nippon Express,Cargo Van,Driver_1677,6,4.96,Dubai,Offline
+1678,Kuehne + Nagel,Air Freight,Driver_1678,2,3.57,Singapore,Offline
+1679,SF Express,Cargo Van,Driver_1679,22,4.57,Dubai,Available
+1680,Blue Dart Express,Truck,Driver_1680,16,3.51,Sydney,Offline
+1681,UPS Logistics,Ship,Driver_1681,22,4.19,Dubai,Available
+1682,DHL Express,Air Freight,Driver_1682,14,3.94,Berlin,Offline
+1683,Maersk Logistics,Truck,Driver_1683,20,3.81,Mumbai,Available
+1684,DB Schenker,Cargo Van,Driver_1684,18,4.67,Berlin,Available
+1685,XPO Logistics,Ship,Driver_1685,8,4.04,Berlin,Offline
+1686,C.H. Robinson,Air Freight,Driver_1686,10,3.73,Mumbai,Busy
+1687,Nippon Express,Air Freight,Driver_1687,14,3.49,London,Offline
+1688,Kuehne + Nagel,Ship,Driver_1688,7,4.73,Singapore,Busy
+1689,SF Express,Air Freight,Driver_1689,24,4.56,Sydney,Available
+1690,Blue Dart Express,Ship,Driver_1690,18,4.63,New York,Available
+1691,UPS Logistics,Ship,Driver_1691,12,3.2,Sydney,Available
+1692,DHL Express,Ship,Driver_1692,14,3.18,London,Busy
+1693,Maersk Logistics,Cargo Van,Driver_1693,6,4.59,Singapore,Available
+1694,DB Schenker,Ship,Driver_1694,19,3.68,Singapore,Busy
+1695,XPO Logistics,Ship,Driver_1695,17,3.22,Dubai,Offline
+1696,C.H. Robinson,Air Freight,Driver_1696,21,3.96,New York,Available
+1697,Nippon Express,Air Freight,Driver_1697,14,4.57,Berlin,Available
+1698,Kuehne + Nagel,Cargo Van,Driver_1698,17,4.15,Berlin,Busy
+1699,SF Express,Cargo Van,Driver_1699,17,4.34,Berlin,Busy
+1700,Blue Dart Express,Truck,Driver_1700,13,3.88,London,Offline
+1701,UPS Logistics,Cargo Van,Driver_1701,19,3.68,London,Offline
+1702,DHL Express,Cargo Van,Driver_1702,15,4.68,Mumbai,Offline
+1703,Maersk Logistics,Cargo Van,Driver_1703,10,3.47,New York,Offline
+1704,DB Schenker,Truck,Driver_1704,24,3.63,London,Busy
+1705,XPO Logistics,Air Freight,Driver_1705,21,3.82,New York,Busy
+1706,C.H. Robinson,Truck,Driver_1706,16,4.75,Singapore,Offline
+1707,Nippon Express,Ship,Driver_1707,18,3.83,Berlin,Available
+1708,Kuehne + Nagel,Truck,Driver_1708,11,4.72,London,Busy
+1709,SF Express,Cargo Van,Driver_1709,21,4.94,Berlin,Offline
+1710,Blue Dart Express,Cargo Van,Driver_1710,22,4.01,Mumbai,Available
+1711,UPS Logistics,Ship,Driver_1711,13,3.4,Toronto,Busy
+1712,DHL Express,Air Freight,Driver_1712,2,4.07,Mumbai,Offline
+1713,Maersk Logistics,Air Freight,Driver_1713,12,4.89,Mumbai,Busy
+1714,DB Schenker,Ship,Driver_1714,16,4.26,Toronto,Offline
+1715,XPO Logistics,Cargo Van,Driver_1715,7,4.08,Singapore,Busy
+1716,C.H. Robinson,Cargo Van,Driver_1716,16,4.61,Singapore,Offline
+1717,Nippon Express,Cargo Van,Driver_1717,13,4.54,Toronto,Offline
+1718,Kuehne + Nagel,Truck,Driver_1718,4,4.39,Sydney,Available
+1719,SF Express,Cargo Van,Driver_1719,16,3.54,Sydney,Available
+1720,Blue Dart Express,Air Freight,Driver_1720,21,4.39,Toronto,Available
+1721,UPS Logistics,Air Freight,Driver_1721,10,4.93,New York,Available
+1722,DHL Express,Air Freight,Driver_1722,1,4.34,Sydney,Offline
+1723,Maersk Logistics,Air Freight,Driver_1723,3,4.33,Berlin,Available
+1724,DB Schenker,Ship,Driver_1724,16,4.14,Singapore,Available
+1725,XPO Logistics,Truck,Driver_1725,3,4.26,Sydney,Available
+1726,C.H. Robinson,Air Freight,Driver_1726,17,3.31,Singapore,Offline
+1727,Nippon Express,Ship,Driver_1727,18,3.95,Berlin,Busy
+1728,Kuehne + Nagel,Ship,Driver_1728,8,4.57,Berlin,Available
+1729,SF Express,Air Freight,Driver_1729,9,3.87,New York,Busy
+1730,Blue Dart Express,Truck,Driver_1730,14,4.27,Toronto,Busy
+1731,UPS Logistics,Truck,Driver_1731,6,3.32,Mumbai,Offline
+1732,DHL Express,Cargo Van,Driver_1732,18,4.11,Dubai,Busy
+1733,Maersk Logistics,Truck,Driver_1733,24,4.17,New York,Offline
+1734,DB Schenker,Air Freight,Driver_1734,8,4.57,Dubai,Offline
+1735,XPO Logistics,Truck,Driver_1735,17,4.01,Dubai,Busy
+1736,C.H. Robinson,Cargo Van,Driver_1736,13,4.82,London,Busy
+1737,Nippon Express,Air Freight,Driver_1737,17,3.65,New York,Available
+1738,Kuehne + Nagel,Air Freight,Driver_1738,18,4.8,Berlin,Available
+1739,SF Express,Air Freight,Driver_1739,13,3.54,Singapore,Available
+1740,Blue Dart Express,Ship,Driver_1740,21,4.04,Mumbai,Available
+1741,UPS Logistics,Air Freight,Driver_1741,20,4.63,New York,Busy
+1742,DHL Express,Ship,Driver_1742,5,3.86,Toronto,Offline
+1743,Maersk Logistics,Truck,Driver_1743,14,3.62,London,Available
+1744,DB Schenker,Air Freight,Driver_1744,14,4.7,Mumbai,Offline
+1745,XPO Logistics,Air Freight,Driver_1745,4,3.92,Dubai,Available
+1746,C.H. Robinson,Ship,Driver_1746,1,4.47,Berlin,Offline
+1747,Nippon Express,Ship,Driver_1747,18,3.03,London,Offline
+1748,Kuehne + Nagel,Air Freight,Driver_1748,3,3.29,Toronto,Available
+1749,SF Express,Air Freight,Driver_1749,9,3.53,Sydney,Busy
+1750,Blue Dart Express,Cargo Van,Driver_1750,12,4.18,Sydney,Available
+1751,UPS Logistics,Cargo Van,Driver_1751,9,3.55,Toronto,Offline
+1752,DHL Express,Ship,Driver_1752,18,3.63,Mumbai,Available
+1753,Maersk Logistics,Ship,Driver_1753,23,4.6,New York,Available
+1754,DB Schenker,Ship,Driver_1754,11,4.31,Singapore,Busy
+1755,XPO Logistics,Air Freight,Driver_1755,7,4.67,Dubai,Available
+1756,C.H. Robinson,Ship,Driver_1756,19,3.53,Toronto,Busy
+1757,Nippon Express,Cargo Van,Driver_1757,18,3.5,Toronto,Available
+1758,Kuehne + Nagel,Air Freight,Driver_1758,9,3.47,Mumbai,Available
+1759,SF Express,Truck,Driver_1759,8,3.8,Mumbai,Available
+1760,Blue Dart Express,Air Freight,Driver_1760,18,3.53,Toronto,Available
+1761,UPS Logistics,Air Freight,Driver_1761,14,3.04,Sydney,Available
+1762,DHL Express,Cargo Van,Driver_1762,15,3.31,New York,Busy
+1763,Maersk Logistics,Truck,Driver_1763,22,4.28,Dubai,Busy
+1764,DB Schenker,Ship,Driver_1764,3,4.76,New York,Offline
+1765,XPO Logistics,Air Freight,Driver_1765,7,3.17,Toronto,Available
+1766,C.H. Robinson,Truck,Driver_1766,10,3.77,Singapore,Offline
+1767,Nippon Express,Air Freight,Driver_1767,24,3.27,Berlin,Available
+1768,Kuehne + Nagel,Ship,Driver_1768,17,4.96,Singapore,Busy
+1769,SF Express,Cargo Van,Driver_1769,19,3.26,Sydney,Offline
+1770,Blue Dart Express,Truck,Driver_1770,18,3.65,Sydney,Busy
+1771,UPS Logistics,Ship,Driver_1771,15,3.66,Toronto,Available
+1772,DHL Express,Truck,Driver_1772,21,3.16,Mumbai,Offline
+1773,Maersk Logistics,Cargo Van,Driver_1773,23,4.98,Berlin,Available
+1774,DB Schenker,Air Freight,Driver_1774,17,4.64,New York,Busy
+1775,XPO Logistics,Air Freight,Driver_1775,24,3.32,New York,Available
+1776,C.H. Robinson,Cargo Van,Driver_1776,18,4.7,Toronto,Busy
+1777,Nippon Express,Air Freight,Driver_1777,3,3.04,Berlin,Available
+1778,Kuehne + Nagel,Cargo Van,Driver_1778,9,3.68,Toronto,Busy
+1779,SF Express,Cargo Van,Driver_1779,13,4.73,New York,Available
+1780,Blue Dart Express,Ship,Driver_1780,13,4.13,Sydney,Busy
+1781,UPS Logistics,Cargo Van,Driver_1781,6,4.86,London,Offline
+1782,DHL Express,Ship,Driver_1782,14,3.94,Mumbai,Available
+1783,Maersk Logistics,Cargo Van,Driver_1783,16,4.52,London,Available
+1784,DB Schenker,Ship,Driver_1784,12,3.85,Mumbai,Busy
+1785,XPO Logistics,Cargo Van,Driver_1785,2,3.04,London,Offline
+1786,C.H. Robinson,Ship,Driver_1786,18,3.48,London,Busy
+1787,Nippon Express,Cargo Van,Driver_1787,23,3.98,Dubai,Busy
+1788,Kuehne + Nagel,Air Freight,Driver_1788,23,4.44,Mumbai,Offline
+1789,SF Express,Air Freight,Driver_1789,17,4.38,Mumbai,Offline
+1790,Blue Dart Express,Truck,Driver_1790,7,4.99,Mumbai,Busy
+1791,UPS Logistics,Ship,Driver_1791,4,4.29,New York,Available
+1792,DHL Express,Ship,Driver_1792,14,4.04,Toronto,Offline
+1793,Maersk Logistics,Ship,Driver_1793,16,3.5,New York,Offline
+1794,DB Schenker,Air Freight,Driver_1794,14,3.22,Sydney,Busy
+1795,XPO Logistics,Ship,Driver_1795,8,3.5,New York,Offline
+1796,C.H. Robinson,Air Freight,Driver_1796,19,3.89,Dubai,Offline
+1797,Nippon Express,Ship,Driver_1797,7,3.22,New York,Busy
+1798,Kuehne + Nagel,Truck,Driver_1798,23,3.15,New York,Available
+1799,SF Express,Truck,Driver_1799,1,4.64,Toronto,Offline
+1800,Blue Dart Express,Truck,Driver_1800,18,4.63,Berlin,Offline
+1801,UPS Logistics,Truck,Driver_1801,23,3.46,London,Offline
+1802,DHL Express,Air Freight,Driver_1802,11,3.82,London,Available
+1803,Maersk Logistics,Truck,Driver_1803,20,4.09,Singapore,Available
+1804,DB Schenker,Ship,Driver_1804,10,4.62,Mumbai,Offline
+1805,XPO Logistics,Ship,Driver_1805,22,4.95,London,Offline
+1806,C.H. Robinson,Truck,Driver_1806,20,3.73,Sydney,Busy
+1807,Nippon Express,Truck,Driver_1807,1,4.27,Sydney,Busy
+1808,Kuehne + Nagel,Ship,Driver_1808,6,3.05,Mumbai,Busy
+1809,SF Express,Cargo Van,Driver_1809,24,3.26,Sydney,Offline
+1810,Blue Dart Express,Cargo Van,Driver_1810,11,3.86,Sydney,Offline
+1811,UPS Logistics,Air Freight,Driver_1811,10,3.64,Toronto,Available
+1812,DHL Express,Air Freight,Driver_1812,3,3.08,Dubai,Available
+1813,Maersk Logistics,Truck,Driver_1813,3,4.84,Toronto,Offline
+1814,DB Schenker,Truck,Driver_1814,7,4.35,New York,Offline
+1815,XPO Logistics,Cargo Van,Driver_1815,22,3.98,Toronto,Available
+1816,C.H. Robinson,Truck,Driver_1816,5,4.28,New York,Offline
+1817,Nippon Express,Ship,Driver_1817,8,4.07,New York,Available
+1818,Kuehne + Nagel,Air Freight,Driver_1818,18,3.06,London,Offline
+1819,SF Express,Ship,Driver_1819,13,3.0,London,Offline
+1820,Blue Dart Express,Ship,Driver_1820,24,4.59,Sydney,Offline
+1821,UPS Logistics,Air Freight,Driver_1821,10,3.43,London,Busy
+1822,DHL Express,Ship,Driver_1822,13,3.17,Dubai,Available
+1823,Maersk Logistics,Cargo Van,Driver_1823,14,4.34,Berlin,Busy
+1824,DB Schenker,Cargo Van,Driver_1824,3,4.27,New York,Busy
+1825,XPO Logistics,Cargo Van,Driver_1825,7,4.37,Mumbai,Offline
+1826,C.H. Robinson,Air Freight,Driver_1826,11,3.57,Dubai,Available
+1827,Nippon Express,Truck,Driver_1827,13,3.91,Mumbai,Busy
+1828,Kuehne + Nagel,Truck,Driver_1828,17,4.5,New York,Busy
+1829,SF Express,Air Freight,Driver_1829,22,3.18,Toronto,Busy
+1830,Blue Dart Express,Ship,Driver_1830,21,3.23,Singapore,Busy
+1831,UPS Logistics,Ship,Driver_1831,8,3.88,New York,Busy
+1832,DHL Express,Truck,Driver_1832,3,3.88,Dubai,Offline
+1833,Maersk Logistics,Cargo Van,Driver_1833,4,4.91,Toronto,Busy
+1834,DB Schenker,Cargo Van,Driver_1834,17,4.15,Dubai,Available
+1835,XPO Logistics,Truck,Driver_1835,14,4.09,New York,Available
+1836,C.H. Robinson,Truck,Driver_1836,24,3.71,London,Available
+1837,Nippon Express,Cargo Van,Driver_1837,2,4.4,London,Offline
+1838,Kuehne + Nagel,Air Freight,Driver_1838,8,4.28,Singapore,Offline
+1839,SF Express,Ship,Driver_1839,13,3.99,Berlin,Available
+1840,Blue Dart Express,Truck,Driver_1840,14,4.32,New York,Available
+1841,UPS Logistics,Air Freight,Driver_1841,5,4.42,Mumbai,Busy
+1842,DHL Express,Cargo Van,Driver_1842,23,4.7,Toronto,Available
+1843,Maersk Logistics,Truck,Driver_1843,12,4.0,Dubai,Available
+1844,DB Schenker,Ship,Driver_1844,24,4.35,Toronto,Busy
+1845,XPO Logistics,Truck,Driver_1845,10,3.13,Berlin,Available
+1846,C.H. Robinson,Cargo Van,Driver_1846,8,4.72,London,Offline
+1847,Nippon Express,Truck,Driver_1847,3,4.41,Singapore,Available
+1848,Kuehne + Nagel,Ship,Driver_1848,12,3.17,Dubai,Offline
+1849,SF Express,Truck,Driver_1849,21,4.57,Dubai,Available
+1850,Blue Dart Express,Cargo Van,Driver_1850,6,3.38,Toronto,Busy
+1851,UPS Logistics,Truck,Driver_1851,3,3.9,Berlin,Available
+1852,DHL Express,Cargo Van,Driver_1852,17,3.43,Singapore,Offline
+1853,Maersk Logistics,Truck,Driver_1853,5,4.97,London,Offline
+1854,DB Schenker,Air Freight,Driver_1854,23,3.29,New York,Offline
+1855,XPO Logistics,Ship,Driver_1855,4,3.13,Dubai,Busy
+1856,C.H. Robinson,Air Freight,Driver_1856,16,3.84,New York,Available
+1857,Nippon Express,Air Freight,Driver_1857,4,3.67,Toronto,Busy
+1858,Kuehne + Nagel,Ship,Driver_1858,5,3.98,Sydney,Available
+1859,SF Express,Air Freight,Driver_1859,9,4.84,London,Offline
+1860,Blue Dart Express,Truck,Driver_1860,16,4.85,Toronto,Available
+1861,UPS Logistics,Air Freight,Driver_1861,23,3.23,Toronto,Available
+1862,DHL Express,Air Freight,Driver_1862,11,4.55,Mumbai,Available
+1863,Maersk Logistics,Truck,Driver_1863,20,4.19,New York,Busy
+1864,DB Schenker,Air Freight,Driver_1864,15,3.96,London,Offline
+1865,XPO Logistics,Cargo Van,Driver_1865,23,4.8,Sydney,Available
+1866,C.H. Robinson,Truck,Driver_1866,17,3.17,Dubai,Busy
+1867,Nippon Express,Cargo Van,Driver_1867,14,4.48,Sydney,Busy
+1868,Kuehne + Nagel,Cargo Van,Driver_1868,4,4.46,Sydney,Busy
+1869,SF Express,Air Freight,Driver_1869,11,3.87,London,Offline
+1870,Blue Dart Express,Cargo Van,Driver_1870,8,4.61,New York,Offline
+1871,UPS Logistics,Truck,Driver_1871,13,3.84,Sydney,Available
+1872,DHL Express,Ship,Driver_1872,6,4.5,Toronto,Available
+1873,Maersk Logistics,Air Freight,Driver_1873,21,3.08,London,Offline
+1874,DB Schenker,Cargo Van,Driver_1874,11,3.61,New York,Busy
+1875,XPO Logistics,Air Freight,Driver_1875,11,4.73,London,Offline
+1876,C.H. Robinson,Cargo Van,Driver_1876,17,3.45,London,Offline
+1877,Nippon Express,Ship,Driver_1877,9,4.54,Sydney,Available
+1878,Kuehne + Nagel,Ship,Driver_1878,4,3.09,Singapore,Available
+1879,SF Express,Ship,Driver_1879,6,4.21,London,Available
+1880,Blue Dart Express,Ship,Driver_1880,19,3.36,Berlin,Offline
+1881,UPS Logistics,Ship,Driver_1881,15,4.49,London,Offline
+1882,DHL Express,Air Freight,Driver_1882,2,3.74,Dubai,Offline
+1883,Maersk Logistics,Ship,Driver_1883,17,3.3,Sydney,Available
+1884,DB Schenker,Truck,Driver_1884,5,3.63,Dubai,Available
+1885,XPO Logistics,Ship,Driver_1885,11,4.93,Berlin,Busy
+1886,C.H. Robinson,Cargo Van,Driver_1886,19,4.35,New York,Available
+1887,Nippon Express,Truck,Driver_1887,13,3.96,Singapore,Available
+1888,Kuehne + Nagel,Ship,Driver_1888,12,3.07,Toronto,Offline
+1889,SF Express,Air Freight,Driver_1889,4,3.11,Berlin,Offline
+1890,Blue Dart Express,Ship,Driver_1890,14,4.53,Mumbai,Available
+1891,UPS Logistics,Cargo Van,Driver_1891,14,4.25,Dubai,Busy
+1892,DHL Express,Ship,Driver_1892,6,4.94,Sydney,Available
+1893,Maersk Logistics,Truck,Driver_1893,23,4.32,New York,Busy
+1894,DB Schenker,Cargo Van,Driver_1894,1,4.41,Mumbai,Available
+1895,XPO Logistics,Truck,Driver_1895,17,4.38,London,Offline
+1896,C.H. Robinson,Ship,Driver_1896,7,4.41,Berlin,Available
+1897,Nippon Express,Air Freight,Driver_1897,5,3.8,Toronto,Offline
+1898,Kuehne + Nagel,Ship,Driver_1898,11,4.38,Sydney,Offline
+1899,SF Express,Air Freight,Driver_1899,22,3.15,London,Busy
+1900,Blue Dart Express,Cargo Van,Driver_1900,7,3.36,London,Available
+1901,UPS Logistics,Truck,Driver_1901,20,3.13,Mumbai,Busy
+1902,DHL Express,Truck,Driver_1902,24,4.16,Sydney,Available
+1903,Maersk Logistics,Truck,Driver_1903,17,4.02,New York,Available
+1904,DB Schenker,Truck,Driver_1904,1,3.6,Sydney,Busy
+1905,XPO Logistics,Air Freight,Driver_1905,22,3.82,Berlin,Busy
+1906,C.H. Robinson,Truck,Driver_1906,16,3.37,Singapore,Available
+1907,Nippon Express,Air Freight,Driver_1907,22,4.48,Singapore,Busy
+1908,Kuehne + Nagel,Air Freight,Driver_1908,22,4.39,Mumbai,Offline
+1909,SF Express,Truck,Driver_1909,24,3.65,New York,Busy
+1910,Blue Dart Express,Truck,Driver_1910,5,4.68,London,Available
+1911,UPS Logistics,Air Freight,Driver_1911,22,4.05,Berlin,Available
+1912,DHL Express,Air Freight,Driver_1912,8,3.75,Toronto,Busy
+1913,Maersk Logistics,Ship,Driver_1913,15,4.41,Dubai,Offline
+1914,DB Schenker,Cargo Van,Driver_1914,17,3.26,Dubai,Available
+1915,XPO Logistics,Ship,Driver_1915,21,3.4,London,Available
+1916,C.H. Robinson,Air Freight,Driver_1916,8,3.19,Dubai,Busy
+1917,Nippon Express,Ship,Driver_1917,7,4.64,Toronto,Available
+1918,Kuehne + Nagel,Truck,Driver_1918,5,4.19,New York,Offline
+1919,SF Express,Air Freight,Driver_1919,19,3.25,Dubai,Offline
+1920,Blue Dart Express,Air Freight,Driver_1920,19,4.66,Sydney,Busy
+1921,UPS Logistics,Ship,Driver_1921,9,4.18,Berlin,Available
+1922,DHL Express,Truck,Driver_1922,21,4.2,London,Available
+1923,Maersk Logistics,Ship,Driver_1923,19,3.24,Toronto,Available
+1924,DB Schenker,Cargo Van,Driver_1924,19,3.32,Singapore,Available
+1925,XPO Logistics,Truck,Driver_1925,9,3.98,Sydney,Busy
+1926,C.H. Robinson,Ship,Driver_1926,17,4.9,New York,Offline
+1927,Nippon Express,Air Freight,Driver_1927,12,3.89,Sydney,Available
+1928,Kuehne + Nagel,Truck,Driver_1928,10,4.14,Sydney,Offline
+1929,SF Express,Cargo Van,Driver_1929,19,4.99,Dubai,Busy
+1930,Blue Dart Express,Cargo Van,Driver_1930,24,4.02,Sydney,Available
+1931,UPS Logistics,Air Freight,Driver_1931,8,4.02,London,Offline
+1932,DHL Express,Air Freight,Driver_1932,11,4.32,Sydney,Busy
+1933,Maersk Logistics,Truck,Driver_1933,7,3.03,Singapore,Available
+1934,DB Schenker,Truck,Driver_1934,18,3.05,New York,Busy
+1935,XPO Logistics,Air Freight,Driver_1935,5,4.44,Dubai,Offline
+1936,C.H. Robinson,Cargo Van,Driver_1936,15,4.51,Singapore,Available
+1937,Nippon Express,Air Freight,Driver_1937,6,3.28,Berlin,Available
+1938,Kuehne + Nagel,Ship,Driver_1938,7,4.38,London,Busy
+1939,SF Express,Air Freight,Driver_1939,22,3.54,Singapore,Offline
+1940,Blue Dart Express,Truck,Driver_1940,2,4.51,Toronto,Available
+1941,UPS Logistics,Truck,Driver_1941,20,3.28,Sydney,Offline
+1942,DHL Express,Air Freight,Driver_1942,15,4.97,Sydney,Busy
+1943,Maersk Logistics,Truck,Driver_1943,7,3.58,Singapore,Busy
+1944,DB Schenker,Truck,Driver_1944,7,3.3,New York,Available
+1945,XPO Logistics,Cargo Van,Driver_1945,6,4.69,Singapore,Available
+1946,C.H. Robinson,Cargo Van,Driver_1946,2,4.38,New York,Busy
+1947,Nippon Express,Ship,Driver_1947,22,4.75,Sydney,Offline
+1948,Kuehne + Nagel,Ship,Driver_1948,24,3.66,Toronto,Available
+1949,SF Express,Ship,Driver_1949,13,4.29,London,Offline
+1950,Blue Dart Express,Air Freight,Driver_1950,14,4.33,Berlin,Offline
+1951,UPS Logistics,Air Freight,Driver_1951,5,3.05,New York,Offline
+1952,DHL Express,Truck,Driver_1952,15,3.11,London,Busy
+1953,Maersk Logistics,Ship,Driver_1953,7,3.71,New York,Offline
+1954,DB Schenker,Air Freight,Driver_1954,6,3.5,Dubai,Offline
+1955,XPO Logistics,Ship,Driver_1955,18,4.15,Dubai,Offline
+1956,C.H. Robinson,Air Freight,Driver_1956,11,3.68,Dubai,Offline
+1957,Nippon Express,Air Freight,Driver_1957,21,4.74,Berlin,Busy
+1958,Kuehne + Nagel,Cargo Van,Driver_1958,5,3.2,Berlin,Offline
+1959,SF Express,Truck,Driver_1959,2,4.87,New York,Busy
+1960,Blue Dart Express,Air Freight,Driver_1960,9,3.5,Singapore,Offline
+1961,UPS Logistics,Air Freight,Driver_1961,24,4.76,Singapore,Offline
+1962,DHL Express,Truck,Driver_1962,13,3.11,Toronto,Offline
+1963,Maersk Logistics,Ship,Driver_1963,12,4.93,Berlin,Available
+1964,DB Schenker,Cargo Van,Driver_1964,15,3.15,New York,Available
+1965,XPO Logistics,Ship,Driver_1965,23,4.0,Berlin,Available
+1966,C.H. Robinson,Ship,Driver_1966,14,3.86,New York,Available
+1967,Nippon Express,Truck,Driver_1967,4,4.34,Berlin,Available
+1968,Kuehne + Nagel,Ship,Driver_1968,17,4.66,Toronto,Busy
+1969,SF Express,Truck,Driver_1969,2,4.87,Sydney,Busy
+1970,Blue Dart Express,Ship,Driver_1970,12,4.66,New York,Busy
+1971,UPS Logistics,Truck,Driver_1971,21,3.22,Sydney,Busy
+1972,DHL Express,Truck,Driver_1972,19,3.87,New York,Available
+1973,Maersk Logistics,Truck,Driver_1973,4,3.48,Singapore,Available
+1974,DB Schenker,Air Freight,Driver_1974,17,3.07,Toronto,Available
+1975,XPO Logistics,Ship,Driver_1975,15,3.14,Mumbai,Offline
+1976,C.H. Robinson,Air Freight,Driver_1976,14,4.51,Singapore,Available
+1977,Nippon Express,Air Freight,Driver_1977,10,3.25,Singapore,Available
+1978,Kuehne + Nagel,Cargo Van,Driver_1978,1,3.78,Singapore,Offline
+1979,SF Express,Air Freight,Driver_1979,11,4.27,Toronto,Available
+1980,Blue Dart Express,Ship,Driver_1980,1,4.86,New York,Busy
+1981,UPS Logistics,Truck,Driver_1981,12,4.85,Mumbai,Available
+1982,DHL Express,Ship,Driver_1982,24,3.56,Singapore,Busy
+1983,Maersk Logistics,Truck,Driver_1983,9,3.65,Singapore,Busy
+1984,DB Schenker,Truck,Driver_1984,20,3.7,Mumbai,Offline
+1985,XPO Logistics,Cargo Van,Driver_1985,5,3.62,Toronto,Busy
+1986,C.H. Robinson,Air Freight,Driver_1986,11,3.24,Sydney,Busy
+1987,Nippon Express,Cargo Van,Driver_1987,5,3.35,Berlin,Offline
+1988,Kuehne + Nagel,Cargo Van,Driver_1988,15,4.03,Toronto,Busy
+1989,SF Express,Air Freight,Driver_1989,23,3.39,London,Offline
+1990,Blue Dart Express,Ship,Driver_1990,4,4.81,Dubai,Offline
+1991,UPS Logistics,Cargo Van,Driver_1991,7,4.07,Singapore,Offline
+1992,DHL Express,Truck,Driver_1992,5,4.67,Singapore,Available
+1993,Maersk Logistics,Cargo Van,Driver_1993,24,4.88,London,Available
+1994,DB Schenker,Cargo Van,Driver_1994,13,4.03,Berlin,Available
+1995,XPO Logistics,Truck,Driver_1995,15,4.79,Dubai,Offline
+1996,C.H. Robinson,Air Freight,Driver_1996,18,4.86,New York,Available
+1997,Nippon Express,Truck,Driver_1997,22,3.62,Berlin,Busy
+1998,Kuehne + Nagel,Air Freight,Driver_1998,17,3.52,New York,Offline
+1999,SF Express,Cargo Van,Driver_1999,21,4.94,Toronto,Offline
+2000,Blue Dart Express,Air Freight,Driver_2000,2,4.87,New York,Busy

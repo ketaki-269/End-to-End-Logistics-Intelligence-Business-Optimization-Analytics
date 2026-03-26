@@ -1,0 +1,501 @@
+warehouse_id,warehouse_name,city,country,capacity,manager_name,efficiency_score,operational_cost_usd
+1,FedEx Hub 1,Sydney,UK,78702,Manager_1,89.77,127477
+2,FedEx Hub 2,Dubai,India,17848,Manager_2,81.2,26649
+3,FedEx Hub 3,Mumbai,UK,95839,Manager_3,82.43,119635
+4,FedEx Hub 4,Mumbai,UK,53222,Manager_4,96.38,199917
+5,FedEx Hub 5,London,Australia,63662,Manager_5,78.73,117363
+6,FedEx Hub 6,New York,Australia,41488,Manager_6,72.78,36727
+7,FedEx Hub 7,Mumbai,Canada,58804,Manager_7,85.9,29496
+8,FedEx Hub 8,Berlin,Canada,84756,Manager_8,79.52,139524
+9,FedEx Hub 9,Berlin,USA,40693,Manager_9,95.31,138578
+10,FedEx Hub 10,Toronto,USA,83390,Manager_10,84.99,68833
+11,FedEx Hub 11,Dubai,Australia,82832,Manager_11,79.19,195087
+12,FedEx Hub 12,Dubai,USA,30231,Manager_12,94.01,74547
+13,FedEx Hub 13,Berlin,India,45701,Manager_13,86.5,67972
+14,FedEx Hub 14,Mumbai,UAE,88309,Manager_14,96.03,129573
+15,FedEx Hub 15,Toronto,India,61750,Manager_15,86.2,45034
+16,FedEx Hub 16,Berlin,Germany,36080,Manager_16,70.59,154302
+17,FedEx Hub 17,London,UAE,30082,Manager_17,80.71,97400
+18,FedEx Hub 18,New York,UK,61953,Manager_18,86.52,117936
+19,FedEx Hub 19,London,Australia,49692,Manager_19,91.47,140641
+20,FedEx Hub 20,New York,Germany,26179,Manager_20,77.02,116788
+21,FedEx Hub 21,Berlin,UAE,38311,Manager_21,84.91,99716
+22,FedEx Hub 22,London,Singapore,34604,Manager_22,83.95,69125
+23,FedEx Hub 23,London,USA,15098,Manager_23,82.19,106643
+24,FedEx Hub 24,Toronto,Australia,93159,Manager_24,73.89,47255
+25,FedEx Hub 25,Singapore,Australia,82710,Manager_25,82.47,141583
+26,FedEx Hub 26,Berlin,Canada,88307,Manager_26,82.3,199971
+27,FedEx Hub 27,London,USA,93412,Manager_27,82.86,176347
+28,FedEx Hub 28,Toronto,Canada,22508,Manager_28,95.66,176171
+29,FedEx Hub 29,London,Canada,69389,Manager_29,87.68,144696
+30,FedEx Hub 30,Dubai,Germany,19240,Manager_30,95.85,60405
+31,FedEx Hub 31,Sydney,India,19619,Manager_31,97.75,111373
+32,FedEx Hub 32,Singapore,Germany,46015,Manager_32,87.39,28220
+33,FedEx Hub 33,London,UK,56878,Manager_33,81.59,42506
+34,FedEx Hub 34,Singapore,Canada,91349,Manager_34,83.13,124715
+35,FedEx Hub 35,Singapore,UK,49212,Manager_35,79.19,122097
+36,FedEx Hub 36,Mumbai,Canada,94471,Manager_36,81.93,121224
+37,FedEx Hub 37,London,India,76682,Manager_37,85.88,188155
+38,FedEx Hub 38,Berlin,USA,65328,Manager_38,70.13,56658
+39,FedEx Hub 39,Dubai,Australia,35490,Manager_39,89.04,41441
+40,FedEx Hub 40,Toronto,UAE,60373,Manager_40,85.99,142991
+41,FedEx Hub 41,Singapore,Canada,85440,Manager_41,88.12,68048
+42,FedEx Hub 42,New York,UK,53730,Manager_42,78.07,47577
+43,FedEx Hub 43,London,USA,55691,Manager_43,96.11,99515
+44,FedEx Hub 44,Singapore,UK,11691,Manager_44,87.22,183849
+45,FedEx Hub 45,Dubai,India,93339,Manager_45,92.05,46109
+46,FedEx Hub 46,Dubai,UK,84429,Manager_46,84.21,101053
+47,FedEx Hub 47,Berlin,USA,29246,Manager_47,86.52,168554
+48,FedEx Hub 48,Sydney,UK,29043,Manager_48,75.29,160895
+49,FedEx Hub 49,London,Singapore,81811,Manager_49,85.48,20256
+50,FedEx Hub 50,Toronto,Germany,12403,Manager_50,89.78,77532
+51,FedEx Hub 51,New York,Singapore,72608,Manager_51,73.37,140691
+52,FedEx Hub 52,Toronto,UK,49478,Manager_52,82.02,62110
+53,FedEx Hub 53,Mumbai,Singapore,56744,Manager_53,70.09,140820
+54,FedEx Hub 54,Dubai,USA,41189,Manager_54,96.73,46561
+55,FedEx Hub 55,Dubai,UK,26717,Manager_55,77.43,49078
+56,FedEx Hub 56,Berlin,UK,10877,Manager_56,98.88,109841
+57,FedEx Hub 57,Mumbai,Australia,75559,Manager_57,83.58,143669
+58,FedEx Hub 58,Dubai,Singapore,18257,Manager_58,71.85,168446
+59,FedEx Hub 59,Sydney,Australia,47008,Manager_59,91.56,127591
+60,FedEx Hub 60,Sydney,UAE,61130,Manager_60,73.49,35223
+61,FedEx Hub 61,Mumbai,Canada,35516,Manager_61,91.76,97486
+62,FedEx Hub 62,London,USA,97090,Manager_62,89.98,41824
+63,FedEx Hub 63,Singapore,UAE,12982,Manager_63,94.12,128278
+64,FedEx Hub 64,Singapore,USA,63177,Manager_64,89.37,198113
+65,FedEx Hub 65,Dubai,UAE,86974,Manager_65,96.99,46670
+66,FedEx Hub 66,Dubai,Australia,56267,Manager_66,92.63,171677
+67,FedEx Hub 67,Berlin,Australia,90326,Manager_67,80.14,169920
+68,FedEx Hub 68,Singapore,UAE,86748,Manager_68,92.46,40132
+69,FedEx Hub 69,Berlin,UAE,16390,Manager_69,97.67,75566
+70,FedEx Hub 70,Singapore,Germany,64327,Manager_70,84.43,167033
+71,FedEx Hub 71,Singapore,India,72406,Manager_71,96.48,179711
+72,FedEx Hub 72,New York,Singapore,12222,Manager_72,93.46,179987
+73,FedEx Hub 73,Mumbai,Singapore,49046,Manager_73,97.9,130148
+74,FedEx Hub 74,Mumbai,UK,87614,Manager_74,89.54,127460
+75,FedEx Hub 75,Toronto,Canada,50097,Manager_75,87.79,108090
+76,FedEx Hub 76,New York,UK,55476,Manager_76,88.69,29408
+77,FedEx Hub 77,Berlin,UAE,38598,Manager_77,83.95,33230
+78,FedEx Hub 78,London,Australia,53943,Manager_78,91.11,20039
+79,FedEx Hub 79,Singapore,USA,99520,Manager_79,72.78,189433
+80,FedEx Hub 80,Singapore,Canada,39987,Manager_80,90.69,64938
+81,FedEx Hub 81,Dubai,India,16082,Manager_81,83.39,163025
+82,FedEx Hub 82,Mumbai,India,40040,Manager_82,74.47,100587
+83,FedEx Hub 83,Dubai,UAE,94765,Manager_83,87.2,93115
+84,FedEx Hub 84,Dubai,USA,59142,Manager_84,98.22,134081
+85,FedEx Hub 85,Dubai,Singapore,79586,Manager_85,96.67,48070
+86,FedEx Hub 86,New York,Australia,72825,Manager_86,95.19,134351
+87,FedEx Hub 87,Sydney,Australia,12298,Manager_87,73.54,181543
+88,FedEx Hub 88,Dubai,India,96404,Manager_88,96.36,114975
+89,FedEx Hub 89,Dubai,Germany,42584,Manager_89,92.75,103187
+90,FedEx Hub 90,Toronto,Australia,89955,Manager_90,82.3,198898
+91,FedEx Hub 91,Sydney,Australia,24236,Manager_91,90.47,64539
+92,FedEx Hub 92,Singapore,USA,34108,Manager_92,91.02,85769
+93,FedEx Hub 93,Dubai,Australia,88872,Manager_93,89.62,46902
+94,FedEx Hub 94,New York,UAE,91820,Manager_94,72.92,73534
+95,FedEx Hub 95,Mumbai,Canada,62456,Manager_95,71.4,124944
+96,FedEx Hub 96,Dubai,Singapore,78937,Manager_96,95.52,122536
+97,FedEx Hub 97,London,Australia,46103,Manager_97,79.82,132859
+98,FedEx Hub 98,Sydney,UK,49934,Manager_98,96.76,38388
+99,FedEx Hub 99,Dubai,Singapore,57748,Manager_99,84.95,194882
+100,FedEx Hub 100,Singapore,USA,96268,Manager_100,76.03,82081
+101,FedEx Hub 101,Toronto,Canada,46031,Manager_101,91.99,176623
+102,FedEx Hub 102,Singapore,Germany,29263,Manager_102,86.93,181121
+103,FedEx Hub 103,Toronto,Canada,46919,Manager_103,92.94,20152
+104,FedEx Hub 104,Toronto,Germany,19542,Manager_104,97.22,174845
+105,FedEx Hub 105,New York,USA,14620,Manager_105,92.13,129673
+106,FedEx Hub 106,New York,Singapore,45565,Manager_106,98.99,186668
+107,FedEx Hub 107,New York,UAE,51651,Manager_107,92.27,143047
+108,FedEx Hub 108,Berlin,UAE,76663,Manager_108,74.41,122741
+109,FedEx Hub 109,Berlin,Australia,75284,Manager_109,71.19,160566
+110,FedEx Hub 110,Dubai,India,43146,Manager_110,76.46,51089
+111,FedEx Hub 111,Mumbai,India,76124,Manager_111,76.99,198453
+112,FedEx Hub 112,Sydney,USA,20527,Manager_112,70.7,190651
+113,FedEx Hub 113,Mumbai,Singapore,53547,Manager_113,73.19,97035
+114,FedEx Hub 114,Mumbai,USA,45752,Manager_114,77.05,184423
+115,FedEx Hub 115,Dubai,Australia,94080,Manager_115,94.56,134259
+116,FedEx Hub 116,Dubai,India,30303,Manager_116,82.75,96559
+117,FedEx Hub 117,London,UAE,83652,Manager_117,86.45,91468
+118,FedEx Hub 118,New York,USA,94442,Manager_118,89.26,32734
+119,FedEx Hub 119,Sydney,Australia,31264,Manager_119,97.04,71141
+120,FedEx Hub 120,New York,UK,96850,Manager_120,75.69,40828
+121,FedEx Hub 121,Berlin,India,94377,Manager_121,92.26,113110
+122,FedEx Hub 122,Mumbai,Germany,54424,Manager_122,85.64,97581
+123,FedEx Hub 123,Singapore,India,18009,Manager_123,70.7,52913
+124,FedEx Hub 124,Mumbai,Singapore,57413,Manager_124,79.57,140322
+125,FedEx Hub 125,Singapore,Australia,97118,Manager_125,82.72,97083
+126,FedEx Hub 126,Sydney,Singapore,35404,Manager_126,70.35,114408
+127,FedEx Hub 127,Toronto,India,80091,Manager_127,92.42,103382
+128,FedEx Hub 128,Mumbai,UK,96015,Manager_128,81.09,181397
+129,FedEx Hub 129,Berlin,UAE,31450,Manager_129,85.44,111827
+130,FedEx Hub 130,New York,UK,93921,Manager_130,90.15,189482
+131,FedEx Hub 131,Sydney,UK,96819,Manager_131,78.96,30156
+132,FedEx Hub 132,Toronto,USA,96516,Manager_132,81.73,77119
+133,FedEx Hub 133,Singapore,Singapore,74259,Manager_133,97.97,119586
+134,FedEx Hub 134,Toronto,India,70158,Manager_134,79.29,91644
+135,FedEx Hub 135,New York,Canada,95232,Manager_135,97.13,96990
+136,FedEx Hub 136,Dubai,Singapore,65839,Manager_136,84.2,149589
+137,FedEx Hub 137,London,UAE,19463,Manager_137,74.2,136536
+138,FedEx Hub 138,Berlin,USA,23206,Manager_138,97.46,65216
+139,FedEx Hub 139,Toronto,USA,78258,Manager_139,88.65,137446
+140,FedEx Hub 140,Mumbai,Canada,48967,Manager_140,71.02,97118
+141,FedEx Hub 141,Singapore,Singapore,67276,Manager_141,96.78,98458
+142,FedEx Hub 142,Mumbai,Australia,19853,Manager_142,76.87,57556
+143,FedEx Hub 143,Singapore,USA,52081,Manager_143,95.0,29707
+144,FedEx Hub 144,Mumbai,UAE,84880,Manager_144,81.78,89873
+145,FedEx Hub 145,Singapore,India,22489,Manager_145,78.58,81540
+146,FedEx Hub 146,Toronto,Germany,49721,Manager_146,97.94,161417
+147,FedEx Hub 147,Singapore,India,16988,Manager_147,94.19,122927
+148,FedEx Hub 148,Singapore,UK,58172,Manager_148,75.0,97105
+149,FedEx Hub 149,New York,Australia,83268,Manager_149,75.75,115394
+150,FedEx Hub 150,Toronto,UK,71578,Manager_150,70.57,175316
+151,FedEx Hub 151,Mumbai,Canada,78320,Manager_151,88.6,139525
+152,FedEx Hub 152,Mumbai,UK,29881,Manager_152,79.66,118211
+153,FedEx Hub 153,Mumbai,Germany,66553,Manager_153,84.97,89893
+154,FedEx Hub 154,Berlin,Germany,68247,Manager_154,77.65,27412
+155,FedEx Hub 155,Mumbai,Australia,36688,Manager_155,89.67,143117
+156,FedEx Hub 156,London,India,21845,Manager_156,94.77,51748
+157,FedEx Hub 157,New York,USA,63487,Manager_157,96.47,174042
+158,FedEx Hub 158,Toronto,Australia,98563,Manager_158,80.8,70465
+159,FedEx Hub 159,Toronto,USA,17108,Manager_159,85.08,98287
+160,FedEx Hub 160,Toronto,Australia,78418,Manager_160,94.15,88624
+161,FedEx Hub 161,Berlin,Singapore,61983,Manager_161,76.59,106251
+162,FedEx Hub 162,London,UAE,58087,Manager_162,90.99,172228
+163,FedEx Hub 163,New York,India,95224,Manager_163,73.08,67583
+164,FedEx Hub 164,Toronto,USA,28228,Manager_164,82.32,152980
+165,FedEx Hub 165,Dubai,Australia,97261,Manager_165,72.39,159415
+166,FedEx Hub 166,Dubai,Canada,17175,Manager_166,83.8,21427
+167,FedEx Hub 167,New York,UAE,75682,Manager_167,93.94,175485
+168,FedEx Hub 168,Sydney,USA,60089,Manager_168,91.82,194182
+169,FedEx Hub 169,Dubai,UK,87183,Manager_169,71.6,151767
+170,FedEx Hub 170,Singapore,USA,62188,Manager_170,92.87,174739
+171,FedEx Hub 171,Mumbai,UAE,40706,Manager_171,73.55,105660
+172,FedEx Hub 172,Sydney,UAE,77092,Manager_172,78.46,121403
+173,FedEx Hub 173,Mumbai,Canada,23982,Manager_173,89.53,44807
+174,FedEx Hub 174,London,UAE,97944,Manager_174,86.65,29749
+175,FedEx Hub 175,Berlin,Germany,21197,Manager_175,73.96,67251
+176,FedEx Hub 176,Toronto,Germany,51691,Manager_176,98.78,145075
+177,FedEx Hub 177,London,Canada,39153,Manager_177,91.15,40623
+178,FedEx Hub 178,New York,India,53572,Manager_178,88.78,167699
+179,FedEx Hub 179,Toronto,UK,22499,Manager_179,74.03,41338
+180,FedEx Hub 180,Toronto,Australia,33823,Manager_180,94.95,139741
+181,FedEx Hub 181,London,UAE,86323,Manager_181,87.56,82853
+182,FedEx Hub 182,Berlin,Canada,49294,Manager_182,80.42,110281
+183,FedEx Hub 183,Berlin,UK,98343,Manager_183,94.92,160552
+184,FedEx Hub 184,Dubai,UAE,47458,Manager_184,76.95,150797
+185,FedEx Hub 185,London,Germany,42593,Manager_185,83.68,191388
+186,FedEx Hub 186,Berlin,Australia,83232,Manager_186,90.04,102323
+187,FedEx Hub 187,Sydney,UAE,60348,Manager_187,72.52,51580
+188,FedEx Hub 188,Singapore,Germany,63964,Manager_188,70.73,26665
+189,FedEx Hub 189,Berlin,Australia,47631,Manager_189,92.68,191221
+190,FedEx Hub 190,Berlin,Australia,20698,Manager_190,74.39,145196
+191,FedEx Hub 191,Dubai,UK,15359,Manager_191,89.25,160626
+192,FedEx Hub 192,Mumbai,USA,83939,Manager_192,74.41,189775
+193,FedEx Hub 193,Berlin,USA,60077,Manager_193,81.97,187325
+194,FedEx Hub 194,Singapore,UAE,19524,Manager_194,92.25,101275
+195,FedEx Hub 195,Dubai,UK,54650,Manager_195,88.15,187503
+196,FedEx Hub 196,Sydney,Australia,40312,Manager_196,71.17,130152
+197,FedEx Hub 197,Dubai,India,82443,Manager_197,85.46,149716
+198,FedEx Hub 198,Mumbai,India,42406,Manager_198,84.01,145067
+199,FedEx Hub 199,Sydney,UAE,42729,Manager_199,93.23,180866
+200,FedEx Hub 200,Mumbai,UK,27887,Manager_200,93.74,84357
+201,FedEx Hub 201,Sydney,Singapore,25720,Manager_201,94.51,52809
+202,FedEx Hub 202,Dubai,Canada,30994,Manager_202,88.46,33818
+203,FedEx Hub 203,London,Canada,91338,Manager_203,82.16,121692
+204,FedEx Hub 204,Sydney,Canada,82846,Manager_204,80.92,104105
+205,FedEx Hub 205,Berlin,UAE,53778,Manager_205,90.81,121317
+206,FedEx Hub 206,Toronto,USA,47778,Manager_206,74.9,133242
+207,FedEx Hub 207,London,UK,96223,Manager_207,93.3,133467
+208,FedEx Hub 208,Toronto,Australia,48453,Manager_208,73.5,55296
+209,FedEx Hub 209,Sydney,UAE,57000,Manager_209,74.06,83408
+210,FedEx Hub 210,Berlin,UK,68085,Manager_210,70.84,48209
+211,FedEx Hub 211,Sydney,USA,66803,Manager_211,83.55,102525
+212,FedEx Hub 212,Sydney,Australia,22393,Manager_212,83.51,193989
+213,FedEx Hub 213,New York,Germany,99740,Manager_213,97.59,151513
+214,FedEx Hub 214,London,UK,25759,Manager_214,87.58,185267
+215,FedEx Hub 215,Singapore,USA,53058,Manager_215,94.91,62893
+216,FedEx Hub 216,Sydney,Canada,72359,Manager_216,92.29,111541
+217,FedEx Hub 217,Singapore,UAE,99693,Manager_217,78.21,26195
+218,FedEx Hub 218,London,UAE,68101,Manager_218,72.57,70685
+219,FedEx Hub 219,London,UK,18067,Manager_219,89.44,29543
+220,FedEx Hub 220,Toronto,Australia,82781,Manager_220,82.71,186480
+221,FedEx Hub 221,London,Singapore,84049,Manager_221,94.78,124370
+222,FedEx Hub 222,Mumbai,Australia,70026,Manager_222,78.83,30598
+223,FedEx Hub 223,New York,India,63405,Manager_223,74.36,156917
+224,FedEx Hub 224,New York,USA,76947,Manager_224,76.3,58381
+225,FedEx Hub 225,London,Germany,58169,Manager_225,80.96,187804
+226,FedEx Hub 226,Mumbai,Singapore,45641,Manager_226,75.57,120771
+227,FedEx Hub 227,Singapore,India,58489,Manager_227,75.61,195353
+228,FedEx Hub 228,Berlin,Singapore,54930,Manager_228,72.34,167545
+229,FedEx Hub 229,Mumbai,Germany,99803,Manager_229,92.38,187700
+230,FedEx Hub 230,Dubai,Germany,45618,Manager_230,71.06,197934
+231,FedEx Hub 231,New York,Germany,17244,Manager_231,81.63,116499
+232,FedEx Hub 232,Toronto,UAE,28904,Manager_232,93.83,106954
+233,FedEx Hub 233,Singapore,USA,34260,Manager_233,77.85,107666
+234,FedEx Hub 234,Singapore,India,84015,Manager_234,95.03,179634
+235,FedEx Hub 235,Mumbai,Germany,97574,Manager_235,84.8,37174
+236,FedEx Hub 236,Mumbai,UAE,85914,Manager_236,83.49,135418
+237,FedEx Hub 237,New York,Australia,85086,Manager_237,97.02,189112
+238,FedEx Hub 238,New York,USA,52914,Manager_238,86.59,102988
+239,FedEx Hub 239,Dubai,USA,30238,Manager_239,82.66,119711
+240,FedEx Hub 240,Mumbai,Germany,90566,Manager_240,72.87,97881
+241,FedEx Hub 241,Singapore,UAE,64489,Manager_241,87.14,52392
+242,FedEx Hub 242,Singapore,Singapore,17245,Manager_242,97.19,146687
+243,FedEx Hub 243,London,Australia,52247,Manager_243,90.63,63606
+244,FedEx Hub 244,New York,UK,88157,Manager_244,78.64,145682
+245,FedEx Hub 245,Dubai,Australia,97680,Manager_245,76.92,54999
+246,FedEx Hub 246,Dubai,UAE,34177,Manager_246,87.41,86045
+247,FedEx Hub 247,Toronto,Germany,12005,Manager_247,98.57,131556
+248,FedEx Hub 248,London,Singapore,90275,Manager_248,93.75,105311
+249,FedEx Hub 249,London,UK,38246,Manager_249,83.07,175002
+250,FedEx Hub 250,Dubai,India,51135,Manager_250,70.91,61383
+251,FedEx Hub 251,New York,India,32514,Manager_251,73.77,41060
+252,FedEx Hub 252,Sydney,India,13962,Manager_252,73.17,46416
+253,FedEx Hub 253,Dubai,USA,31907,Manager_253,74.82,128738
+254,FedEx Hub 254,Mumbai,India,75794,Manager_254,83.23,96608
+255,FedEx Hub 255,New York,Singapore,85331,Manager_255,93.91,120057
+256,FedEx Hub 256,Singapore,USA,72123,Manager_256,86.57,59400
+257,FedEx Hub 257,New York,Singapore,77529,Manager_257,94.14,92720
+258,FedEx Hub 258,Toronto,Australia,44221,Manager_258,79.56,182156
+259,FedEx Hub 259,Mumbai,Singapore,14025,Manager_259,90.67,47220
+260,FedEx Hub 260,New York,Singapore,74712,Manager_260,87.69,89501
+261,FedEx Hub 261,Sydney,Singapore,93761,Manager_261,75.8,49353
+262,FedEx Hub 262,London,UK,98354,Manager_262,85.15,20493
+263,FedEx Hub 263,London,UAE,23317,Manager_263,86.43,139027
+264,FedEx Hub 264,Singapore,UAE,50001,Manager_264,75.24,159171
+265,FedEx Hub 265,Sydney,India,97341,Manager_265,72.86,150448
+266,FedEx Hub 266,London,Singapore,77696,Manager_266,95.34,173287
+267,FedEx Hub 267,Toronto,Germany,99090,Manager_267,72.38,109349
+268,FedEx Hub 268,Sydney,Australia,13884,Manager_268,97.19,180931
+269,FedEx Hub 269,Dubai,India,86039,Manager_269,78.81,128347
+270,FedEx Hub 270,New York,Germany,64435,Manager_270,82.71,136349
+271,FedEx Hub 271,New York,UAE,59722,Manager_271,80.61,148663
+272,FedEx Hub 272,Toronto,UK,98655,Manager_272,88.32,180029
+273,FedEx Hub 273,Singapore,Canada,50226,Manager_273,85.95,58515
+274,FedEx Hub 274,Toronto,UK,48173,Manager_274,83.11,46648
+275,FedEx Hub 275,Dubai,UK,43202,Manager_275,94.8,166960
+276,FedEx Hub 276,Toronto,Australia,29185,Manager_276,80.57,33334
+277,FedEx Hub 277,Toronto,USA,76235,Manager_277,70.51,120094
+278,FedEx Hub 278,Dubai,Singapore,50990,Manager_278,96.99,39506
+279,FedEx Hub 279,Sydney,Canada,24910,Manager_279,76.44,98660
+280,FedEx Hub 280,New York,Canada,18082,Manager_280,95.51,82791
+281,FedEx Hub 281,Berlin,UAE,86341,Manager_281,92.64,198006
+282,FedEx Hub 282,Toronto,Germany,94145,Manager_282,94.49,122383
+283,FedEx Hub 283,Berlin,India,62677,Manager_283,80.76,57514
+284,FedEx Hub 284,Mumbai,Singapore,77232,Manager_284,94.13,21766
+285,FedEx Hub 285,London,Germany,21067,Manager_285,86.6,99970
+286,FedEx Hub 286,Dubai,UAE,42506,Manager_286,87.91,151113
+287,FedEx Hub 287,Dubai,USA,57470,Manager_287,75.9,66818
+288,FedEx Hub 288,Sydney,UK,73182,Manager_288,83.54,60991
+289,FedEx Hub 289,New York,Germany,87529,Manager_289,85.45,46310
+290,FedEx Hub 290,Singapore,UAE,61922,Manager_290,92.55,175802
+291,FedEx Hub 291,Singapore,UAE,24608,Manager_291,79.46,159866
+292,FedEx Hub 292,New York,Canada,86991,Manager_292,82.74,81897
+293,FedEx Hub 293,Berlin,UAE,79030,Manager_293,71.64,170911
+294,FedEx Hub 294,Sydney,India,21804,Manager_294,90.51,139690
+295,FedEx Hub 295,Sydney,UK,37230,Manager_295,76.56,49566
+296,FedEx Hub 296,Berlin,UAE,27008,Manager_296,72.84,155026
+297,FedEx Hub 297,Dubai,India,42085,Manager_297,88.1,180731
+298,FedEx Hub 298,London,India,14390,Manager_298,94.72,23367
+299,FedEx Hub 299,New York,Germany,13053,Manager_299,72.21,199384
+300,FedEx Hub 300,Sydney,Germany,59939,Manager_300,96.64,192499
+301,FedEx Hub 301,Singapore,India,95232,Manager_301,82.11,30957
+302,FedEx Hub 302,Mumbai,Germany,99745,Manager_302,81.11,99825
+303,FedEx Hub 303,Mumbai,Canada,54619,Manager_303,83.72,53047
+304,FedEx Hub 304,Singapore,UAE,69610,Manager_304,89.17,143949
+305,FedEx Hub 305,London,UAE,68887,Manager_305,97.15,135311
+306,FedEx Hub 306,Mumbai,Singapore,83993,Manager_306,83.6,141921
+307,FedEx Hub 307,Singapore,Germany,45257,Manager_307,93.72,196732
+308,FedEx Hub 308,Dubai,Australia,94749,Manager_308,89.72,136048
+309,FedEx Hub 309,Mumbai,Australia,20002,Manager_309,93.12,172625
+310,FedEx Hub 310,London,India,56994,Manager_310,81.04,145117
+311,FedEx Hub 311,London,USA,18756,Manager_311,72.52,135312
+312,FedEx Hub 312,New York,India,36442,Manager_312,75.42,49198
+313,FedEx Hub 313,London,India,50508,Manager_313,84.75,69185
+314,FedEx Hub 314,Toronto,Australia,11357,Manager_314,84.18,36233
+315,FedEx Hub 315,New York,UAE,88780,Manager_315,76.55,97659
+316,FedEx Hub 316,Sydney,Singapore,97449,Manager_316,86.79,46141
+317,FedEx Hub 317,Sydney,Canada,67351,Manager_317,76.89,182086
+318,FedEx Hub 318,Dubai,Germany,56757,Manager_318,73.44,192562
+319,FedEx Hub 319,Dubai,USA,34497,Manager_319,70.47,76754
+320,FedEx Hub 320,Sydney,Germany,16200,Manager_320,86.53,123207
+321,FedEx Hub 321,Dubai,UK,27912,Manager_321,91.7,30143
+322,FedEx Hub 322,New York,USA,99583,Manager_322,74.1,74958
+323,FedEx Hub 323,Sydney,UAE,37482,Manager_323,90.35,56055
+324,FedEx Hub 324,Sydney,Singapore,17942,Manager_324,72.28,50448
+325,FedEx Hub 325,Berlin,UK,95119,Manager_325,82.69,115320
+326,FedEx Hub 326,New York,Germany,31918,Manager_326,70.81,85343
+327,FedEx Hub 327,Dubai,UAE,58114,Manager_327,79.41,45903
+328,FedEx Hub 328,Mumbai,India,74311,Manager_328,86.74,101600
+329,FedEx Hub 329,Singapore,India,79503,Manager_329,87.12,87568
+330,FedEx Hub 330,Sydney,UK,49019,Manager_330,86.98,39935
+331,FedEx Hub 331,Singapore,Germany,17130,Manager_331,93.48,124841
+332,FedEx Hub 332,Dubai,Australia,81021,Manager_332,74.06,43241
+333,FedEx Hub 333,Mumbai,India,25917,Manager_333,74.19,67999
+334,FedEx Hub 334,Mumbai,UK,21996,Manager_334,87.9,182899
+335,FedEx Hub 335,Dubai,Singapore,70685,Manager_335,98.92,131693
+336,FedEx Hub 336,Sydney,Australia,75492,Manager_336,81.9,96259
+337,FedEx Hub 337,Singapore,UAE,29325,Manager_337,86.98,125817
+338,FedEx Hub 338,Dubai,UK,80831,Manager_338,93.52,44657
+339,FedEx Hub 339,New York,USA,21442,Manager_339,95.21,118277
+340,FedEx Hub 340,Berlin,UAE,95223,Manager_340,74.51,189059
+341,FedEx Hub 341,Berlin,Singapore,79629,Manager_341,75.39,136926
+342,FedEx Hub 342,Mumbai,USA,17918,Manager_342,98.08,187544
+343,FedEx Hub 343,Berlin,Australia,43489,Manager_343,84.91,154128
+344,FedEx Hub 344,Mumbai,USA,35810,Manager_344,80.0,86545
+345,FedEx Hub 345,London,Australia,17985,Manager_345,92.37,177197
+346,FedEx Hub 346,New York,India,89856,Manager_346,70.31,101948
+347,FedEx Hub 347,Berlin,Singapore,37159,Manager_347,84.01,103015
+348,FedEx Hub 348,Toronto,Germany,29300,Manager_348,78.85,52024
+349,FedEx Hub 349,Singapore,USA,74926,Manager_349,84.85,71584
+350,FedEx Hub 350,Mumbai,UAE,46843,Manager_350,92.39,193258
+351,FedEx Hub 351,London,USA,35015,Manager_351,97.8,20796
+352,FedEx Hub 352,New York,Singapore,57549,Manager_352,93.14,104778
+353,FedEx Hub 353,Sydney,India,37541,Manager_353,85.02,150165
+354,FedEx Hub 354,Dubai,USA,37227,Manager_354,88.24,112419
+355,FedEx Hub 355,Dubai,USA,21617,Manager_355,81.59,199241
+356,FedEx Hub 356,Toronto,UAE,48559,Manager_356,79.26,27677
+357,FedEx Hub 357,Berlin,Canada,17001,Manager_357,80.79,33402
+358,FedEx Hub 358,Toronto,UAE,73763,Manager_358,81.08,42001
+359,FedEx Hub 359,Singapore,Australia,71432,Manager_359,82.75,84330
+360,FedEx Hub 360,London,Germany,98478,Manager_360,87.89,27379
+361,FedEx Hub 361,Singapore,Australia,82845,Manager_361,83.14,159761
+362,FedEx Hub 362,Toronto,India,23654,Manager_362,76.42,23948
+363,FedEx Hub 363,Berlin,India,46787,Manager_363,87.79,111947
+364,FedEx Hub 364,Sydney,Germany,86668,Manager_364,73.24,113289
+365,FedEx Hub 365,Dubai,Canada,70610,Manager_365,79.61,85637
+366,FedEx Hub 366,Singapore,India,94822,Manager_366,97.98,144628
+367,FedEx Hub 367,Berlin,India,29580,Manager_367,73.87,40957
+368,FedEx Hub 368,Singapore,UK,71459,Manager_368,78.6,106233
+369,FedEx Hub 369,London,India,95833,Manager_369,83.91,62873
+370,FedEx Hub 370,London,India,54431,Manager_370,79.52,79854
+371,FedEx Hub 371,Berlin,Australia,54110,Manager_371,74.99,177080
+372,FedEx Hub 372,Mumbai,UAE,22933,Manager_372,91.25,134290
+373,FedEx Hub 373,Dubai,Australia,68802,Manager_373,75.9,61920
+374,FedEx Hub 374,London,USA,36986,Manager_374,75.93,145339
+375,FedEx Hub 375,Singapore,USA,71986,Manager_375,96.03,45678
+376,FedEx Hub 376,Sydney,Germany,14811,Manager_376,90.43,94551
+377,FedEx Hub 377,Dubai,USA,73186,Manager_377,82.6,120925
+378,FedEx Hub 378,Sydney,Singapore,53135,Manager_378,97.62,132062
+379,FedEx Hub 379,Berlin,UK,89841,Manager_379,76.05,105362
+380,FedEx Hub 380,Sydney,UK,80379,Manager_380,95.19,171483
+381,FedEx Hub 381,Toronto,Australia,40582,Manager_381,80.05,107963
+382,FedEx Hub 382,New York,UAE,90222,Manager_382,91.33,91379
+383,FedEx Hub 383,Dubai,India,60545,Manager_383,83.76,25847
+384,FedEx Hub 384,Sydney,Singapore,49695,Manager_384,98.99,131219
+385,FedEx Hub 385,New York,USA,29775,Manager_385,94.17,79154
+386,FedEx Hub 386,Singapore,India,48005,Manager_386,74.72,48680
+387,FedEx Hub 387,Berlin,Australia,89887,Manager_387,74.15,162292
+388,FedEx Hub 388,New York,UAE,72406,Manager_388,97.69,105601
+389,FedEx Hub 389,Singapore,USA,49690,Manager_389,76.17,71385
+390,FedEx Hub 390,New York,USA,93662,Manager_390,92.6,63521
+391,FedEx Hub 391,Sydney,UK,71125,Manager_391,81.94,97057
+392,FedEx Hub 392,Dubai,India,27513,Manager_392,98.29,107371
+393,FedEx Hub 393,Sydney,Canada,57287,Manager_393,71.64,72915
+394,FedEx Hub 394,Dubai,Germany,16945,Manager_394,82.9,103238
+395,FedEx Hub 395,Dubai,India,16210,Manager_395,87.24,63215
+396,FedEx Hub 396,Singapore,Germany,42168,Manager_396,97.0,74730
+397,FedEx Hub 397,Sydney,USA,50923,Manager_397,86.64,94073
+398,FedEx Hub 398,Singapore,UK,77338,Manager_398,89.0,59969
+399,FedEx Hub 399,London,Singapore,21184,Manager_399,70.06,83665
+400,FedEx Hub 400,Dubai,Germany,99358,Manager_400,90.52,63820
+401,FedEx Hub 401,Berlin,Australia,28121,Manager_401,84.69,49886
+402,FedEx Hub 402,Dubai,Germany,63702,Manager_402,74.26,116408
+403,FedEx Hub 403,Dubai,UAE,87780,Manager_403,96.66,184916
+404,FedEx Hub 404,Singapore,UK,53705,Manager_404,78.71,120065
+405,FedEx Hub 405,Dubai,Australia,12931,Manager_405,84.21,80059
+406,FedEx Hub 406,Berlin,India,47738,Manager_406,92.95,152172
+407,FedEx Hub 407,Mumbai,UK,23351,Manager_407,84.76,162146
+408,FedEx Hub 408,London,Singapore,24033,Manager_408,86.28,21494
+409,FedEx Hub 409,Toronto,Singapore,58625,Manager_409,78.85,119562
+410,FedEx Hub 410,Mumbai,India,25453,Manager_410,98.47,74576
+411,FedEx Hub 411,Mumbai,USA,17936,Manager_411,97.55,39154
+412,FedEx Hub 412,London,Germany,76177,Manager_412,75.48,37030
+413,FedEx Hub 413,Berlin,UK,87064,Manager_413,77.86,123170
+414,FedEx Hub 414,Dubai,Singapore,52175,Manager_414,82.55,70605
+415,FedEx Hub 415,Singapore,UK,28175,Manager_415,98.14,81505
+416,FedEx Hub 416,Berlin,UK,79037,Manager_416,73.13,31405
+417,FedEx Hub 417,Berlin,UAE,93653,Manager_417,74.4,41900
+418,FedEx Hub 418,Mumbai,UK,71759,Manager_418,81.2,39973
+419,FedEx Hub 419,Dubai,Germany,95901,Manager_419,77.9,182572
+420,FedEx Hub 420,Berlin,USA,85730,Manager_420,74.33,143739
+421,FedEx Hub 421,Toronto,Canada,51604,Manager_421,98.54,85891
+422,FedEx Hub 422,Sydney,Australia,29220,Manager_422,92.78,37822
+423,FedEx Hub 423,New York,Canada,91040,Manager_423,76.68,78123
+424,FedEx Hub 424,Toronto,USA,97758,Manager_424,70.62,139109
+425,FedEx Hub 425,Mumbai,Canada,92145,Manager_425,84.77,36990
+426,FedEx Hub 426,Toronto,UK,97176,Manager_426,88.25,79423
+427,FedEx Hub 427,Berlin,Germany,72997,Manager_427,83.65,30368
+428,FedEx Hub 428,Dubai,Australia,48847,Manager_428,76.0,111804
+429,FedEx Hub 429,Toronto,India,85440,Manager_429,84.49,71340
+430,FedEx Hub 430,New York,Australia,52781,Manager_430,78.31,145908
+431,FedEx Hub 431,London,USA,18107,Manager_431,77.96,61783
+432,FedEx Hub 432,Mumbai,USA,77890,Manager_432,79.92,37666
+433,FedEx Hub 433,Toronto,Germany,99393,Manager_433,77.82,73923
+434,FedEx Hub 434,London,Germany,36918,Manager_434,97.78,104471
+435,FedEx Hub 435,Dubai,Australia,58053,Manager_435,76.33,64067
+436,FedEx Hub 436,Singapore,UAE,79418,Manager_436,88.36,126177
+437,FedEx Hub 437,London,Canada,47756,Manager_437,92.66,118101
+438,FedEx Hub 438,Toronto,Australia,95525,Manager_438,85.6,112840
+439,FedEx Hub 439,Singapore,UAE,69972,Manager_439,81.62,56367
+440,FedEx Hub 440,Sydney,USA,66458,Manager_440,70.02,149613
+441,FedEx Hub 441,Dubai,Canada,18888,Manager_441,98.93,117403
+442,FedEx Hub 442,Berlin,UK,59027,Manager_442,96.67,96314
+443,FedEx Hub 443,New York,UK,77288,Manager_443,74.96,181775
+444,FedEx Hub 444,London,India,13393,Manager_444,82.83,74368
+445,FedEx Hub 445,Berlin,India,90024,Manager_445,80.37,129333
+446,FedEx Hub 446,Mumbai,Singapore,63564,Manager_446,73.73,161835
+447,FedEx Hub 447,Mumbai,USA,88627,Manager_447,86.74,72187
+448,FedEx Hub 448,Sydney,Canada,99881,Manager_448,96.7,29244
+449,FedEx Hub 449,Mumbai,UAE,16410,Manager_449,80.07,139417
+450,FedEx Hub 450,Sydney,UK,20439,Manager_450,92.42,190215
+451,FedEx Hub 451,Singapore,Canada,22927,Manager_451,89.71,41987
+452,FedEx Hub 452,Toronto,USA,64103,Manager_452,88.99,34819
+453,FedEx Hub 453,London,India,51854,Manager_453,95.7,44913
+454,FedEx Hub 454,Sydney,UAE,54684,Manager_454,96.21,124884
+455,FedEx Hub 455,Mumbai,UK,49643,Manager_455,91.12,102580
+456,FedEx Hub 456,Singapore,Singapore,58725,Manager_456,96.15,112702
+457,FedEx Hub 457,Toronto,Australia,30010,Manager_457,98.5,146295
+458,FedEx Hub 458,Dubai,UK,17624,Manager_458,92.17,59975
+459,FedEx Hub 459,Toronto,Canada,29507,Manager_459,81.65,151853
+460,FedEx Hub 460,Mumbai,Singapore,34613,Manager_460,76.96,168869
+461,FedEx Hub 461,Toronto,UAE,31425,Manager_461,77.58,34234
+462,FedEx Hub 462,Sydney,India,26406,Manager_462,89.05,34341
+463,FedEx Hub 463,Berlin,UAE,85137,Manager_463,82.71,199984
+464,FedEx Hub 464,Mumbai,UAE,86394,Manager_464,76.86,166223
+465,FedEx Hub 465,New York,USA,91243,Manager_465,86.1,154620
+466,FedEx Hub 466,New York,USA,39066,Manager_466,71.18,183224
+467,FedEx Hub 467,Toronto,India,72465,Manager_467,75.21,50683
+468,FedEx Hub 468,New York,India,60530,Manager_468,85.5,97846
+469,FedEx Hub 469,Sydney,India,80856,Manager_469,91.04,191534
+470,FedEx Hub 470,Toronto,USA,10851,Manager_470,96.45,174035
+471,FedEx Hub 471,Mumbai,Germany,30326,Manager_471,94.08,181145
+472,FedEx Hub 472,London,India,26821,Manager_472,81.65,179217
+473,FedEx Hub 473,New York,UK,89251,Manager_473,88.57,121781
+474,FedEx Hub 474,Toronto,Germany,10679,Manager_474,90.86,119339
+475,FedEx Hub 475,Sydney,Singapore,15133,Manager_475,98.94,91919
+476,FedEx Hub 476,Singapore,Germany,32273,Manager_476,78.86,57404
+477,FedEx Hub 477,Toronto,Australia,16104,Manager_477,89.6,115739
+478,FedEx Hub 478,London,India,82111,Manager_478,94.62,195689
+479,FedEx Hub 479,Toronto,Germany,35835,Manager_479,75.13,181639
+480,FedEx Hub 480,Dubai,UK,86022,Manager_480,98.53,86324
+481,FedEx Hub 481,Sydney,UK,61569,Manager_481,97.5,166145
+482,FedEx Hub 482,Toronto,USA,23070,Manager_482,93.96,144768
+483,FedEx Hub 483,Sydney,Canada,89132,Manager_483,88.3,194775
+484,FedEx Hub 484,Berlin,Australia,41475,Manager_484,77.32,25911
+485,FedEx Hub 485,Singapore,UK,75267,Manager_485,80.66,128386
+486,FedEx Hub 486,Dubai,Singapore,16655,Manager_486,94.65,134646
+487,FedEx Hub 487,Mumbai,UK,52197,Manager_487,90.91,84715
+488,FedEx Hub 488,Singapore,UK,27920,Manager_488,94.56,141960
+489,FedEx Hub 489,Singapore,USA,94127,Manager_489,75.02,149176
+490,FedEx Hub 490,London,USA,95757,Manager_490,91.36,83877
+491,FedEx Hub 491,London,Australia,23173,Manager_491,78.82,30897
+492,FedEx Hub 492,Singapore,India,53110,Manager_492,88.57,80187
+493,FedEx Hub 493,Sydney,India,73751,Manager_493,78.6,27246
+494,FedEx Hub 494,Mumbai,UK,12346,Manager_494,76.8,117481
+495,FedEx Hub 495,Berlin,Australia,89966,Manager_495,75.25,84945
+496,FedEx Hub 496,Singapore,UAE,76996,Manager_496,85.57,173994
+497,FedEx Hub 497,Berlin,USA,97118,Manager_497,95.04,107962
+498,FedEx Hub 498,Berlin,Canada,19440,Manager_498,75.51,192918
+499,FedEx Hub 499,Toronto,USA,18586,Manager_499,86.66,153703
+500,FedEx Hub 500,Dubai,UK,52341,Manager_500,75.34,161084
